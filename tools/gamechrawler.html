@@ -2,50 +2,31 @@
     .visited { color:green }
 </style>
 <body>
-<div id="container"><div>ruru</div></div>
+<textarea id="players"></textarea>
+<button onclick="start();">start</button>
+<div id="container"></div>
+<div id="progress"></div>
 </body>
 <script>
 
-var list = ["ruru"];
-var index = {"ruru":true};
+function start() {
+
+var list = document.querySelector("#players").value.split("\n");
+var index = {};
 var current = 0;
 var page = 0;
 
 var container = document.querySelector("#container");
 
-function getpage() {
-    if(current<list.length) {
-        container.childNodes[current].className = "visited";
-        var xhr = new XMLHttpRequest;
-        xhr.open("GET","http://www.playok.com/zh/stat.phtml?gid=rv&uid="+list[current]+"&sk=3&page="+(page+1),true);
-        xhr.send(null);
-        xhr.onreadystatechange = function(e) {
-            if(this.readyState == 4) {
-                var text = this.responseText;
-                var player_pattern = /\<td\>\<a href\="\/zh\/stat.phtml\?gid=rv&amp;uid=[A-Za-z_]*"\>([A-Za-z_]*)\<\/a\>\<\/td\>\n\<td\>([0-9]*)&nbsp;\<\/td\>\n\<td\>\<a href="\/zh\/stat.phtml\?gid=rv&amp;uid=[A-Za-z_]*&amp;sk=2&amp;oid=[A-Za-z_]*"\>[0-9]*\-[0-9]*\-[0-9]*\<\/a\>\<\/td\>\n\<td nowrap=\"nowrap\"\>[0-9]*\-[0-9]*\-[0-9]* \([0-9]*\)\<\/td\>\n\<td\>[^\<]*\<\/td\>/g;
-                while(player_pattern.exec(text)) {
-                    if(parseInt(RegExp.$2)>2000 & !index[RegExp.$1]) {
-                        index[RegExp.$1] = true;
-                        list.push(RegExp.$1);
-                        var ele = document.createElement("div");
-                        ele.innerHTML = RegExp.$1 + " " + RegExp.$2;
-                        container.appendChild(ele);
-                    }
-                }
-                if(text.match(/\<a href="\/zh\/stat.phtml\?gid=rv&amp;uid=[A-Za-z_]*&amp;sk=3&amp;page=[0-9]*">下一頁 &gt;<\/a\>/)) {
-                    ++page;
-                } else {
-                    page = 0;
-                    ++current;
-                }
-                getpage();
-            }
-        }
-    }
+document.querySelector("#progress").innerHTML = list.map(function(e){
+    return "http://www.playok.com/zh/game.phtml/"+e+".zip?gid=rv&uid="+e;
+}).join("<br/>")
+
+getpage();
+
 }
 
 
-getpage();
 
 
 

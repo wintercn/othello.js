@@ -28,7 +28,7 @@ function getpage() {
                         index[RegExp.$1] = true;
                         list.push(RegExp.$1);
                         var ele = document.createElement("div");
-                        ele.innerHTML = RegExp.$1 + " " + RegExp.$2;
+                        ele.innerHTML = RegExp.$1 ;
                         container.appendChild(ele);
                     }
                 }

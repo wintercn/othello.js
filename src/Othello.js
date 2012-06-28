@@ -1,14 +1,12 @@
 ﻿
 void function() {
     Othello = {};
-    Othello.OthelloAIPad = OthelloAIPad;
     Othello.OthelloViewer = OthelloViewer;
     Othello.OthelloPattern = OthelloPattern;
     Othello.OthelloGame = OthelloGame;
-    //    Othello.OthelloEditor = OthelloEditor;
-    //    Othello.OthelloViewer = OthelloViewer;
+    Othello.OthelloBoard = OthelloBoard;
+    //Othello.OthelloEditor = OthelloEditor;
 
-    Othello.OthelloEditor
 
     function OthelloPattern() {
         this.pattern = new Array(100);
@@ -309,46 +307,7 @@ void function() {
             }
         }
     }
-    function OthelloAIPad(game) {
-        OthelloBoard.call(this);
-        var game = game || new OthelloGame();
-        var color = 1;
-        var _super = { createHTMLElement: this.createHTMLElement };
-        var ai = new (OthelloAI.Pattern);
-        var thinking = false;
-        this.createHTMLElement = function() {
-            var rootElement = _super.createHTMLElement.apply(this);
-            this.loadOthelloPattern(game.patterns[game.current]);
-            return rootElement;
-        }
-        this.onMove = function(x, y, color) {
-        }
-        this.onSquareClick = function(x, y) {
-            if(thinking) return;
-            thinking = true;
-            if (game.makeMove(x, y)) {
-                ai=ai.move(y,x);
-                var me = this;
-                this.loadOthelloPattern(game.patterns[game.current]);
-                if(!ai.pass())
-                {                
-                    setTimeout(function(){ me.computerMove(); },10);
-                }
-                else thinking = false;
-            }
-            else thinking = false;
-        };
-        this.computerMove= function() {
-            var t=ai.computer(3,10);
-            game.makeMove(t[1], t[0]);
-            ai=ai.move(t[0],t[1]);
-            var me = this;
-            if(ai.pass())
-            {                
-                setTimeout(function(){ me.computerMove(); },500);
-            }
-            else thinking = false;
-            this.loadOthelloPattern(game.patterns[game.current]);
-        };
-    }
+
+
+
 } ();

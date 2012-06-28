@@ -29,5 +29,13 @@ function parsePGN(text) {
 }
 
 function parseGame(txt) {
-    return txt;
+    var r = [];
+    var step = /[0-9]+\. *(?:([a-h][1-8])|\-\-) *(?:([a-h][1-8])|\-\-)/g
+    while(step.exec(txt)) {
+        if(RegExp.$1)
+            r.push(RegExp.$1);
+        if(RegExp.$2)
+            r.push(RegExp.$2);
+    }
+    return r;
 }

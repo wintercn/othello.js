@@ -1,0 +1,4047 @@
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.11"]
+[Round "-"]
+[Black "guitarium"]
+[White "anchortr"]
+[Result "34-30"]
+[Time "16:19:49"]
+[TimeControl "60"]
+[BlackElo "2010"]
+[WhiteElo "1778"]
+
+1. f5 f6 2. e6 d6 3. e7 g5 4. c5 f4 5. c4 d7 6. f7 e8 7. d3 c6 8. f8 g8 9. e3
+c7 10. d8 c8 11. g3 b4 12. b5 c3 13. b6 a5 14. b7 c2 15. f3 g4 16. a7 d2 17. a3
+a4 18. a6 e2 19. f2 h3 20. h6 f1 21. h4 h5 22. h2 g2 23. h1 g1 24. e1 b2 25. b3
+d1 26. g6 g7 27. a1 a2 28. h8 h7 29. b8 a8 30. c1 b1 34-30
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.11"]
+[Round "-"]
+[Black "anchortr"]
+[White "guitarium"]
+[Result "25-39"]
+[Time "16:17:36"]
+[TimeControl "60"]
+[BlackElo "1785"]
+[WhiteElo "2003"]
+
+1. e6 f4 2. c3 c4 3. d3 d6 4. f6 e7 5. c5 c6 6. d7 c8 7. g3 g4 8. e3 g5 9. c7
+b6 10. e8 f7 11. f8 f5 12. b5 e2 13. f2 d2 14. d1 b3 15. b4 a4 16. a3 a5 17. a6
+c1 18. b1 c2 19. g8 b7 20. h5 d8 21. e1 h8 22. a8 a7 23. b8 b2 24. f3 g7 25. a1
+g6 26. h7 h6 27. -- h4 28. -- h3 29. -- a2 30. -- g1 31. f1 g2 32. h1 h2 25-39
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.11"]
+[Round "-"]
+[Black "guitarium"]
+[White "anchortr"]
+[Result "52-12"]
+[Time "16:15:25"]
+[TimeControl "60"]
+[BlackElo "1995"]
+[WhiteElo "1793"]
+
+1. f5 f6 2. e6 f4 3. g5 d6 4. e7 g4 5. f3 h5 6. e3 d7 7. g6 g3 8. h6 f8 9. c3
+f7 10. h4 h3 11. h2 d3 12. c4 b4 13. a4 e2 14. c5 c6 15. f2 b5 16. h7 f1 17. c8
+a3 18. c2 a5 19. d8 e8 20. g8 d2 21. c1 e1 22. b6 a7 23. a6 b7 24. a8 g7 25. a2
+g2 26. d1 b1 27. h8 c7 28. b8 -- 29. b3 -- 30. h1 g1 31. b2 -- 32. a1 52-12
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.11"]
+[Round "-"]
+[Black "anchortr"]
+[White "guitarium"]
+[Result "0-64"]
+[Time "16:14:10"]
+[TimeControl "60"]
+[BlackElo "1801"]
+[WhiteElo "1987"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. c5 b3 5. e2 e3 6. f3 b5 7. f2 b4 8. d2 e6 9. c6
+b6 10. f7 f6 11. e7 g5 12. h4 d7 13. g6 f8 14. c8 e8 15. a4 a5 16. d8 b8 17. c7
+a3 18. c2 g8 19. g7 h8 20. h7 h6 21. h5 h3 22. a7 b2 23. a6 a8 24. b1 a2 25. --
+a1 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.11"]
+[Round "-"]
+[Black "guitarium"]
+[White "anchortr"]
+[Result "48-16"]
+[Time "16:12:12"]
+[TimeControl "60"]
+[BlackElo "1978"]
+[WhiteElo "1810"]
+
+1. f5 d6 2. c5 f4 3. e3 c6 4. d3 f6 5. e6 d7 6. g3 c4 7. g5 c3 8. f7 d2 9. e7
+f2 10. e2 f1 11. c8 f3 12. c7 h3 13. b6 g4 14. c1 e1 15. h4 e8 16. d8 b8 17. b5
+a5 18. b4 a4 19. b3 h6 20. h5 a3 21. c2 d1 22. g1 g2 23. b1 b2 24. a7 a6 25. a2
+g7 26. g6 b7 27. a1 h7 28. h8 g8 29. f8 -- 30. a8 -- 31. h1 h2 48-16
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.11"]
+[Round "-"]
+[Black "anchortr"]
+[White "guitarium"]
+[Result "64-0"]
+[Time "16:10:09"]
+[TimeControl "60"]
+[BlackElo "1785"]
+[WhiteElo "2003"]
+
+1. d3 c5 2. d6 e3 3. f4 c6 4. f5 d2 5. c4 c3 6. b5 f3 7. b4 a6 8. c2 e2 9. a5
+b6 10. d1 a3 11. a4 e7 12. f1 e1 13. g4 b3 14. f2 c1 15. d7 c7 16. e8 f6 17. f8
+e6 18. b8 g6 19. g5 h3 20. h4 h5 21. b1 c8 22. d8 g7 23. g3 h2 24. b7 g2 25. g1
+a8 26. a7 g8 27. h1 -- 28. f7 -- 29. h8 h6 30. h7 -- 31. b2 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.11"]
+[Round "-"]
+[Black "guitarium"]
+[White "anchortr"]
+[Result "42-22"]
+[Time "16:08:14"]
+[TimeControl "60"]
+[BlackElo "1995"]
+[WhiteElo "1793"]
+
+1. f5 f6 2. e6 d6 3. d7 g5 4. g6 e7 5. e8 f8 6. f7 d8 7. c8 b8 8. g7 c7 9. c5
+e3 10. c6 b6 11. b5 a4 12. f4 b4 13. f3 g4 14. c3 c4 15. d3 c2 16. a5 a6 17. a3
+b3 18. a7 g2 19. f2 g3 20. a2 h8 21. g8 h7 22. d2 f1 23. e2 c1 24. h1 g1 25. h2
+h3 26. h4 e1 27. d1 b2 28. a8 b7 29. h5 h6 30. b1 a1 42-22
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.11"]
+[Round "-"]
+[Black "anchortr"]
+[White "guitarium"]
+[Result "0-64"]
+[Time "16:05:56"]
+[TimeControl "60"]
+[BlackElo "1801"]
+[WhiteElo "1987"]
+
+1. f5 f6 2. e6 f4 3. g5 e7 4. e3 f3 5. d3 c3 6. f7 d7 7. d8 c4 8. d6 c8 9. b8
+h5 10. e2 d2 11. g6 g4 12. c5 f8 13. c7 c6 14. b6 f1 15. h3 g3 16. h2 e8 17. g8
+h6 18. b5 a5 19. e1 d1 20. c2 f2 21. c1 b1 22. a6 b3 23. a4 b7 24. b4 a3 25. b2
+a1 26. a2 g2 27. a8 a7 28. h1 g1 29. h7 g7 30. h8 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.11"]
+[Round "-"]
+[Black "guitarium"]
+[White "anchortr"]
+[Result "53-11"]
+[Time "16:03:53"]
+[TimeControl "60"]
+[BlackElo "1978"]
+[WhiteElo "1810"]
+
+1. f5 f4 2. e3 d6 3. f3 g4 4. d3 e2 5. g3 f2 6. h3 f6 7. d1 e1 8. f1 d2 9. c2
+c1 10. b1 h2 11. h4 h5 12. g5 g2 13. c3 g6 14. c4 b4 15. b5 b6 16. a4 b3 17. a5
+b2 18. c6 a6 19. c5 a3 20. a1 a2 21. a7 c7 22. d7 e6 23. g1 e8 24. c8 b7 25. d8
+e7 26. f8 f7 27. a8 b8 28. h1 g8 29. h8 -- 30. g7 h6 31. h7 53-11
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.11"]
+[Round "-"]
+[Black "anchortr"]
+[White "guitarium"]
+[Result "26-38"]
+[Time "16:01:39"]
+[TimeControl "60"]
+[BlackElo "1819"]
+[WhiteElo "1969"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. c5 b3 5. c2 e3 6. d2 c6 7. b4 a3 8. f2 e6 9. f3
+c1 10. a5 d1 11. b5 a6 12. a7 b6 13. e2 f6 14. e7 d7 15. e1 g5 16. h5 g6 17. g4
+b2 18. h6 a4 19. a1 a8 20. c8 f7 21. f8 e8 22. d8 g3 23. h2 a2 24. b1 h4 25. h3
+c7 26. b8 g8 27. b7 g7 28. g2 h1 29. f1 g1 30. h8 h7 26-38
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.11"]
+[Round "-"]
+[Black "guitarium"]
+[White "anchortr"]
+[Result "64-0"]
+[Time "15:59:22"]
+[TimeControl "60"]
+[BlackElo "1959"]
+[WhiteElo "1829"]
+
+1. f5 f6 2. e6 d6 3. d7 g5 4. g6 f4 5. c5 f7 6. c6 c4 7. e7 e8 8. f8 g8 9. h4
+d8 10. c7 b5 11. b6 h6 12. c8 b8 13. a4 a6 14. b4 a3 15. a2 h7 16. g4 h3 17. h2
+g3 18. f2 f3 19. e3 d3 20. c3 b3 21. c2 d2 22. e2 e1 23. b2 c1 24. d1 a1 25. a5
+b1 26. f1 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.11"]
+[Round "-"]
+[Black "anchortr"]
+[White "guitarium"]
+[Result "64-0"]
+[Time "15:57:05"]
+[TimeControl "60"]
+[BlackElo "1805"]
+[WhiteElo "1983"]
+
+1. c4 c3 2. d3 c5 3. b3 c2 4. b4 a5 5. b5 a2 6. d2 e3 7. e2 d1 8. e1 f1 9. f3
+a6 10. f2 g4 11. g3 h3 12. f4 g1 13. c1 b1 14. h5 g5 15. f5 h6 16. h4 g6 17. a3
+a4 18. g2 b2 19. d6 f6 20. e6 e7 21. c7 d7 22. c6 b6 23. b7 d8 24. a1 b8 25. a7
+h2 26. h1 -- 27. a8 -- 28. c8 f7 29. g8 e8 30. f8 g7 31. h7 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.11"]
+[Round "-"]
+[Black "guitarium"]
+[White "anchortr"]
+[Result "64-0"]
+[Time "15:55:19"]
+[TimeControl "60"]
+[BlackElo "1974"]
+[WhiteElo "1814"]
+
+1. f5 f6 2. e6 f4 3. g5 e7 4. e3 d6 5. d3 g4 6. g6 h5 7. c4 f3 8. h6 g3 9. h4
+h3 10. h2 b4 11. e2 c2 12. f7 g8 13. c3 d2 14. c1 g7 15. b3 a2 16. b5 c5 17. a4
+b6 18. a6 a5 19. a3 f1 20. e1 d1 21. a1 f2 22. b1 b2 23. g1 a7 24. a8 g2 25. b7
+64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.11"]
+[Round "-"]
+[Black "anchortr"]
+[White "guitarium"]
+[Result "64-0"]
+[Time "15:53:01"]
+[TimeControl "60"]
+[BlackElo "1789"]
+[WhiteElo "1999"]
+
+1. e6 f4 2. e3 d6 3. c5 f3 4. c4 e7 5. f5 f6 6. c7 d2 7. f7 d7 8. e8 f8 9. d8
+c8 10. g4 g5 11. g3 c3 12. h5 h6 13. g6 h4 14. h3 h2 15. d3 b5 16. b6 c2 17. e2
+g2 18. d1 h7 19. g7 b3 20. f2 h8 21. g8 b4 22. h1 c6 23. a6 g1 24. c1 a4 25. a2
+a3 26. a5 b2 27. a1 b1 28. b7 a7 29. a8 b8 30. f1 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.11"]
+[Round "-"]
+[Black "guitarium"]
+[White "anchortr"]
+[Result "64-0"]
+[Time "15:51:08"]
+[TimeControl "60"]
+[BlackElo "1991"]
+[WhiteElo "1797"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e3 f3 6. g6 e2 7. h4 c5 8. g4 d2 9. g3
+f2 10. c1 b4 11. d1 f1 12. c2 h5 13. e6 d7 14. h6 b3 15. e1 b1 16. g2 f7 17. f8
+g7 18. e7 e8 19. h7 h1 20. g1 h2 21. h8 g8 22. c7 c8 23. d8 b8 24. c6 b6 25. a6
+64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.11"]
+[Round "-"]
+[Black "anchortr"]
+[White "guitarium"]
+[Result "0-64"]
+[Time "15:49:09"]
+[TimeControl "60"]
+[BlackElo "1805"]
+[WhiteElo "1983"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. f3 g6 6. e3 g4 7. e6 c5 8. h3 h4 9. d7
+f7 10. g3 e7 11. f8 c8 12. e8 b4 13. b3 d8 14. b6 g8 15. a5 c6 16. b7 e2 17. f1
+f2 18. h5 c2 19. d2 e1 20. d1 h6 21. h7 g2 22. g7 b5 23. h1 h8 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.11"]
+[Round "-"]
+[Black "guitarium"]
+[White "anchortr"]
+[Result "64-0"]
+[Time "15:47:03"]
+[TimeControl "60"]
+[BlackElo "1974"]
+[WhiteElo "1814"]
+
+1. f5 f6 2. e6 f4 3. g5 g6 4. g4 e7 5. e3 f3 6. c4 h4 7. g3 h3 8. d6 c6 9. c7
+c5 10. d7 b3 11. f8 d8 12. e8 c8 13. f7 g8 14. b4 a3 15. b5 a4 16. b7 b6 17. a5
+c3 18. d3 d2 19. c2 c1 20. e2 f1 21. a7 h2 22. d1 a8 23. b8 a6 24. h8 g7 25. h7
+e1 26. f2 g1 27. b2 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.11"]
+[Round "-"]
+[Black "anchortr"]
+[White "guitarium"]
+[Result "39-25"]
+[Time "15:44:54"]
+[TimeControl "60"]
+[BlackElo "1789"]
+[WhiteElo "1999"]
+
+1. e6 f6 2. f5 f4 3. g6 c5 4. g4 h4 5. e3 f3 6. g5 d3 7. c4 c3 8. f2 g3 9. e2
+d6 10. h5 d2 11. c1 f7 12. h3 g2 13. f8 g1 14. e1 d1 15. e7 h2 16. h1 f1 17. c7
+h7 18. h6 g7 19. c2 b3 20. h8 g8 21. d7 e8 22. b6 b5 23. c6 b4 24. d8 a6 25. a2
+a3 26. a4 a5 27. a7 b8 28. c8 b2 29. a1 b1 30. a8 b7 39-25
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.11"]
+[Round "-"]
+[Black "guitarium"]
+[White "anchortr"]
+[Result "0-64"]
+[Time "15:42:55"]
+[TimeControl "60"]
+[BlackElo "2025"]
+[WhiteElo "1763"]
+
+1. f5 f6 2. e6 d6 3. e7 g5 4. c5 f4 5. c4 d7 6. f7 e8 7. d3 c6 8. f8 g8 9. e3
+d8 10. g3 f3 11. g4 e2 12. h6 g6 13. c7 c2 14. c8 b8 15. f2 b3 16. b4 b6 17. c3
+d2 18. b5 a3 19. a4 a6 20. a5 f1 21. b7 a8 22. a7 h2 23. h3 h4 24. d1 b1 25. b2
+e1 26. h7 a1 27. a2 c1 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.05.20"]
+[Round "-"]
+[Black "guitarium"]
+[White "eur777usd"]
+[Result "64-0"]
+[Time "01:36:47"]
+[TimeControl "60"]
+[BlackElo "2023"]
+[WhiteElo "1591"]
+
+1. f5 f6 2. e6 f4 3. g5 e7 4. e3 g4 5. f3 d6 6. f7 g3 7. h5 h6 8. h4 h3 9. g6
+f8 10. c4 h7 11. c5 f2 12. c7 d2 13. c1 d3 14. e2 e1 15. g1 f1 16. d1 c3 17. b4
+c2 18. g2 d7 19. c6 b5 20. a6 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.05.20"]
+[Round "-"]
+[Black "eur777usd"]
+[White "guitarium"]
+[Result "25-39"]
+[Time "01:34:54"]
+[TimeControl "60"]
+[BlackElo "1594"]
+[WhiteElo "2020"]
+
+1. f5 d6 2. c4 d3 3. e6 f4 4. e3 f3 5. g4 g3 6. f2 c5 7. e2 f6 8. e7 h4 9. c3
+g5 10. d7 d2 11. c2 f1 12. c6 e1 13. g6 f7 14. h5 h6 15. h3 h2 16. f8 b1 17. d1
+c1 18. g2 b3 19. a3 b4 20. a4 g7 21. b2 a1 22. a2 b5 23. b6 a5 24. h8 a6 25. h7
+h1 26. g1 g8 27. c7 b8 28. c8 d8 29. e8 b7 30. a8 a7 25-39
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.05.20"]
+[Round "-"]
+[Black "guitarium"]
+[White "eur777usd"]
+[Result "64-0"]
+[Time "01:33:17"]
+[TimeControl "60"]
+[BlackElo "2017"]
+[WhiteElo "1597"]
+
+1. f5 f6 2. e6 f4 3. g4 e7 4. f7 d6 5. e3 g5 6. f3 g6 7. h6 h5 8. h4 d3 9. d8
+e2 10. d7 f8 11. h7 g8 12. c5 c4 13. c6 g3 14. b3 b5 15. b4 c7 16. c8 c3 17. b6
+a2 18. d2 a3 19. f1 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.05.20"]
+[Round "-"]
+[Black "eur777usd"]
+[White "guitarium"]
+[Result "0-64"]
+[Time "01:31:38"]
+[TimeControl "60"]
+[BlackElo "1600"]
+[WhiteElo "2014"]
+
+1. f5 d6 2. c4 d3 3. c3 f4 4. c5 b3 5. c2 e3 6. d2 c6 7. b4 a3 8. b5 a4 9. a6
+e6 10. f6 c1 11. e2 f1 12. f3 a5 13. e7 f2 14. a2 f8 15. d8 g4 16. e1 d1 17. g5
+g3 18. c7 b7 19. b6 h6 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.05.20"]
+[Round "-"]
+[Black "guitarium"]
+[White "eur777usd"]
+[Result "64-0"]
+[Time "01:29:36"]
+[TimeControl "60"]
+[BlackElo "2011"]
+[WhiteElo "1603"]
+
+1. f5 f6 2. e6 f4 3. g5 e7 4. e3 g4 5. f3 d6 6. f7 g3 7. h4 d3 8. d8 h6 9. h5
+h3 10. g6 h7 11. f2 f8 12. d2 e2 13. g2 g8 14. c4 c5 15. c3 b4 16. b6 b5 17. a6
+a5 18. a4 c1 19. c7 c6 20. e8 c8 21. d7 b3 22. a3 c2 23. f1 d1 24. e1 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.05.20"]
+[Round "-"]
+[Black "eur777usd"]
+[White "guitarium"]
+[Result "0-64"]
+[Time "01:27:28"]
+[TimeControl "60"]
+[BlackElo "1606"]
+[WhiteElo "2008"]
+
+1. f5 d6 2. c4 d3 3. c3 f4 4. c5 b3 5. c2 e3 6. d2 c6 7. b4 a3 8. b5 a4 9. a6
+b6 10. d7 e2 11. c7 c1 12. d1 e1 13. g4 c8 14. f1 g1 15. f2 d8 16. b2 f3 17. a5
+a7 18. g3 e6 19. f6 h5 20. h4 h3 21. g5 h6 22. e8 f8 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.05.20"]
+[Round "-"]
+[Black "guitarium"]
+[White "eur777usd"]
+[Result "64-0"]
+[Time "01:25:52"]
+[TimeControl "60"]
+[BlackElo "2005"]
+[WhiteElo "1609"]
+
+1. f5 f6 2. e6 f4 3. g5 e7 4. e3 g4 5. f3 d3 6. c3 c4 7. g6 h4 8. h3 g3 9. h5
+c2 10. f7 d2 11. d6 f2 12. f8 c7 13. f1 h7 14. e2 d7 15. c8 e1 16. c6 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.05.04"]
+[Round "-"]
+[Black "koriko"]
+[White "guitarium"]
+[Result "30-34"]
+[Time "01:44:08"]
+[TimeControl "60"]
+[BlackElo "1911"]
+[WhiteElo "1993"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 f7 6. d7 c5 7. g3 b5 8. b4 f3 9. e3
+f2 10. c6 d2 11. g4 e7 12. e2 c2 13. d1 g6 14. e8 h3 15. g1 d8 16. c8 e1 17. f1
+b2 18. h5 f8 19. g8 a5 20. a1 b3 21. a2 a3 22. a4 b6 23. a6 h7 24. h6 h4 25. g7
+h8 26. -- b8 27. -- c7 28. b7 a8 29. a7 h2 30. g2 h1 31. -- c1 32. b1 30-34
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.05.04"]
+[Round "-"]
+[Black "guitarium"]
+[White "koriko"]
+[Result "47-17"]
+[Time "01:41:55"]
+[TimeControl "60"]
+[BlackElo "1979"]
+[WhiteElo "1925"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e3 e2 6. f2 d2 7. e1 g1 8. f3 c1 9. e6
+c5 10. g6 f7 11. g3 b3 12. c2 b1 13. e7 f8 14. h5 h3 15. h4 h6 16. a3 h2 17. b4
+b5 18. a6 b2 19. d1 f1 20. g4 d7 21. c6 c7 22. c8 a5 23. a4 b6 24. d8 e8 25. b7
+a7 26. a1 b8 27. h1 a2 28. h7 g2 29. a8 g7 30. g8 h8 47-17
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.05.04"]
+[Round "-"]
+[Black "koriko"]
+[White "guitarium"]
+[Result "18-46"]
+[Time "01:40:04"]
+[TimeControl "60"]
+[BlackElo "1940"]
+[WhiteElo "1964"]
+
+1. f5 d6 2. c3 d3 3. c6 f4 4. e6 c5 5. b4 f7 6. f6 c4 7. d2 e7 8. d7 b5 9. e3
+f3 10. b3 c2 11. g4 f2 12. e2 d1 13. a6 e1 14. c1 b6 15. c7 g5 16. a5 g6 17. h5
+c8 18. h6 a3 19. a4 a7 20. f1 d8 21. g8 h3 22. f8 e8 23. b8 a2 24. g3 g7 25. h8
+h7 26. b2 a1 27. b1 g1 28. g2 h2 29. h1 h4 30. b7 a8 18-46
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.05.04"]
+[Round "-"]
+[Black "guitarium"]
+[White "koriko"]
+[Result "29-35"]
+[Time "01:37:43"]
+[TimeControl "60"]
+[BlackElo "1983"]
+[WhiteElo "1921"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e3 f3 6. g6 e2 7. h4 c5 8. g4 d2 9. g3
+f2 10. c1 d1 11. c2 h6 12. h5 e6 13. c6 b5 14. b4 b6 15. a6 b1 16. f1 h3 17. c7
+a4 18. b3 a3 19. e7 f7 20. f8 a5 21. a2 d7 22. d8 g2 23. a7 e8 24. g8 h8 25. c8
+b8 26. h1 h2 27. h7 g7 28. g1 e1 29. a1 b2 30. b7 a8 29-35
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.05.04"]
+[Round "-"]
+[Black "koriko"]
+[White "guitarium"]
+[Result "64-0"]
+[Time "01:35:45"]
+[TimeControl "60"]
+[BlackElo "1900"]
+[WhiteElo "2004"]
+
+1. f5 d6 2. c3 d3 3. c6 f4 4. e6 f6 5. g5 h6 6. g6 c5 7. h4 d7 8. e8 c8 9. c4
+f7 10. e7 c7 11. f8 h5 12. h7 d8 13. b8 b4 14. g4 b6 15. a6 a5 16. b5 a7 17. a3
+b7 18. b3 c2 19. c1 a4 20. a8 d2 21. g3 f3 22. f2 b2 23. a2 g7 24. e1 g2 25. g8
+e2 26. h8 e3 27. h1 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.05.04"]
+[Round "-"]
+[Black "guitarium"]
+[White "koriko"]
+[Result "29-35"]
+[Time "01:33:26"]
+[TimeControl "60"]
+[BlackElo "2026"]
+[WhiteElo "1878"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 b4 5. g3 e6 6. e3 d2 7. c5 c6 8. b5 f3 9. f7
+e7 10. e2 c2 11. g4 f2 12. e1 b3 13. f1 h4 14. h3 g5 15. a4 a3 16. b6 a6 17. a5
+d1 18. c1 h2 19. b7 g2 20. h6 f8 21. d7 c7 22. b8 a8 23. a7 c8 24. g6 h7 25. h8
+g7 26. g8 h5 27. b2 a1 28. b1 a2 29. h1 g1 30. e8 d8 29-35
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.05.04"]
+[Round "-"]
+[Black "koriko"]
+[White "guitarium"]
+[Result "39-25"]
+[Time "01:31:08"]
+[TimeControl "60"]
+[BlackElo "1854"]
+[WhiteElo "2050"]
+
+1. f5 d6 2. c3 d3 3. c6 f4 4. e6 f6 5. g5 h6 6. g6 c5 7. b4 e7 8. f8 d8 9. d2
+c4 10. e3 b5 11. f3 d7 12. b3 a4 13. c7 e2 14. g3 c1 15. f2 h3 16. d1 g4 17. e1
+c2 18. a6 a5 19. b6 c8 20. a3 f1 21. f7 h7 22. g7 e8 23. b2 a2 24. a1 a7 25. h4
+b1 26. g1 h8 27. b8 g2 28. h2 h5 29. a8 b7 30. g8 h1 39-25
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.05.04"]
+[Round "-"]
+[Black "guitarium"]
+[White "koriko"]
+[Result "37-27"]
+[Time "01:29:05"]
+[TimeControl "60"]
+[BlackElo "2042"]
+[WhiteElo "1862"]
+
+1. f5 d6 2. c3 g5 3. c6 b6 4. f6 e7 5. h5 f4 6. g6 c5 7. f7 d3 8. f3 e3 9. c4
+b5 10. b4 c2 11. e2 g4 12. h3 d2 13. e6 g3 14. f2 h4 15. b3 e1 16. c1 d7 17. a5
+a6 18. f1 g1 19. d1 b1 20. h6 a4 21. e8 d8 22. f8 g8 23. g2 h1 24. h2 g7 25. c8
+c7 26. h8 h7 27. a2 b2 28. a1 a3 29. b8 b7 30. a7 a8 37-27
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.05.04"]
+[Round "-"]
+[Black "koriko"]
+[White "guitarium"]
+[Result "64-0"]
+[Time "01:27:03"]
+[TimeControl "60"]
+[BlackElo "1837"]
+[WhiteElo "2067"]
+
+1. f5 d6 2. c3 d3 3. c6 f4 4. e6 f6 5. g5 h6 6. g6 c5 7. h4 d7 8. c4 f7 9. e2
+d2 10. f3 e3 11. f2 e1 12. g4 f1 13. c2 h3 14. h2 b6 15. b5 a5 16. d1 h7 17. g3
+b3 18. a3 c1 19. b4 a4 20. a6 h5 21. h8 g2 22. d8 c8 23. h1 e8 24. g1 c7 25. a7
+b7 26. a2 b2 27. b1 -- 28. a1 -- 29. b8 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.05.04"]
+[Round "-"]
+[Black "guitarium"]
+[White "koriko"]
+[Result "48-16"]
+[Time "01:24:57"]
+[TimeControl "60"]
+[BlackElo "2060"]
+[WhiteElo "1844"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 f3 5. e6 e7 6. f7 c5 7. b6 g6 8. f8 b4 9. b3
+b5 10. c6 d7 11. a4 c2 12. d2 a3 13. a5 a6 14. e3 e8 15. d8 c8 16. b8 c7 17. c1
+e2 18. g8 d1 19. h6 b1 20. g5 g4 21. h3 h5 22. h4 g7 23. g3 f2 24. f1 e1 25. a1
+g2 26. a2 b2 27. h1 g1 28. h2 -- 29. a7 b7 30. a8 -- 31. h7 h8 48-16
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.05.04"]
+[Round "-"]
+[Black "koriko"]
+[White "guitarium"]
+[Result "10-54"]
+[Time "01:23:03"]
+[TimeControl "60"]
+[BlackElo "1852"]
+[WhiteElo "2052"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 c5 6. f3 b5 7. b4 f7 8. e3 e7 9. h5
+g4 10. h4 a3 11. g6 b3 12. a4 a5 13. a6 a7 14. b6 c6 15. d7 c7 16. e8 d8 17. f8
+g8 18. b8 c2 19. d2 d1 20. b1 e2 21. b2 g3 22. c1 f2 23. g1 f1 24. e1 a2 25. g7
+b7 26. c8 a8 27. g2 h6 28. h8 h7 29. -- a1 30. -- h1 31. h2 h3 10-54
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.05.04"]
+[Round "-"]
+[Black "guitarium"]
+[White "koriko"]
+[Result "35-29"]
+[Time "01:20:46"]
+[TimeControl "60"]
+[BlackElo "2044"]
+[WhiteElo "1860"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 d7 6. e3 c5 7. f3 e7 8. h6 h4 9. b6
+g4 10. c6 b5 11. c7 b3 12. b4 a5 13. a6 a4 14. g3 a7 15. f8 c8 16. d8 e8 17. b8
+c2 18. d2 d1 19. c1 e2 20. f1 e1 21. h5 h3 22. g6 h7 23. b2 f7 24. a3 a1 25. a8
+b1 26. b7 a2 27. f2 g1 28. g2 h2 29. h1 -- 30. h8 -- 31. g7 g8 35-29
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.05.04"]
+[Round "-"]
+[Black "koriko"]
+[White "guitarium"]
+[Result "14-50"]
+[Time "01:18:57"]
+[TimeControl "60"]
+[BlackElo "1869"]
+[WhiteElo "2035"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 f7 6. c6 c5 7. g3 f3 8. e3 b4 9. g6
+d7 10. h5 c2 11. b5 g4 12. e7 b3 13. a4 f2 14. h4 e2 15. d2 e8 16. c8 d1 17. a3
+d8 18. c7 h6 19. h7 b8 20. g8 b6 21. c1 a5 22. g1 f1 23. e1 a2 24. a7 b7 25. f8
+h8 26. b2 g7 27. a6 a8 28. g2 h1 29. h2 b1 30. a1 h3 14-50
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.05.04"]
+[Round "-"]
+[Black "guitarium"]
+[White "koriko"]
+[Result "36-28"]
+[Time "01:16:56"]
+[TimeControl "60"]
+[BlackElo "2025"]
+[WhiteElo "1879"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e3 f3 6. g6 f7 7. h6 e2 8. g3 h4 9. g4
+h3 10. d1 f2 11. h5 e1 12. f1 h7 13. d2 c2 14. c1 b4 15. e6 b3 16. e7 f8 17. d8
+d7 18. b2 g2 19. g7 b1 20. a1 a2 21. a3 a4 22. a5 b5 23. b6 a6 24. a7 b7 25. c5
+c6 26. c7 b8 27. c8 a8 28. h2 h1 29. g1 g8 30. h8 e8 36-28
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.05.04"]
+[Round "-"]
+[Black "koriko"]
+[White "guitarium"]
+[Result "32-32"]
+[Time "01:14:44"]
+[TimeControl "60"]
+[BlackElo "1872"]
+[WhiteElo "2032"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 f7 6. d7 c5 7. g3 b5 8. e3 g4 9. c6
+e7 10. f3 c8 11. h4 c7 12. h5 b6 13. f8 g6 14. e8 d8 15. b4 g8 16. a5 e2 17. h6
+d2 18. f2 a6 19. b3 c2 20. a7 a4 21. b7 f1 22. a3 h3 23. h2 g7 24. g2 b2 25. e1
+c1 26. a1 a2 27. g1 d1 28. b1 h1 29. h8 h7 30. b8 a8 32-32
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.05.04"]
+[Round "-"]
+[Black "guitarium"]
+[White "koriko"]
+[Result "35-29"]
+[Time "01:12:35"]
+[TimeControl "60"]
+[BlackElo "2022"]
+[WhiteElo "1882"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e3 f3 6. g6 e2 7. h4 c5 8. g4 g3 9. d2
+f2 10. h3 b4 11. g1 d1 12. c1 c2 13. e6 e7 14. b3 b1 15. f1 a4 16. b6 b5 17. a3
+a2 18. a6 a5 19. e8 a7 20. d7 f7 21. c6 c8 22. f8 c7 23. d8 g8 24. g7 h8 25. h7
+h6 26. h5 g2 27. h2 h1 28. e1 -- 29. a1 -- 30. a8 -- 31. b2 -- 32. b7 b8 35-29
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.05.04"]
+[Round "-"]
+[Black "koriko"]
+[White "guitarium"]
+[Result "30-34"]
+[Time "01:10:23"]
+[TimeControl "60"]
+[BlackElo "1893"]
+[WhiteElo "2011"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 f7 6. d7 c5 7. g3 b5 8. b4 f3 9. e3
+f2 10. g6 e7 11. c6 c7 12. g4 d2 13. c2 e2 14. b3 b6 15. a5 a6 16. f1 c1 17. e8
+d8 18. f8 a3 19. a4 b7 20. a8 a7 21. e1 d1 22. g7 h6 23. h7 h4 24. h5 g8 25. c8
+h8 26. b8 b2 27. b1 h3 28. g2 a1 29. a2 g1 30. h2 h1 30-34
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.05.04"]
+[Round "-"]
+[Black "guitarium"]
+[White "koriko"]
+[Result "34-30"]
+[Time "01:02:55"]
+[TimeControl "60"]
+[BlackElo "1999"]
+[WhiteElo "1905"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e3 f3 6. g6 e2 7. h4 c5 8. g4 g3 9. d2
+f2 10. h3 b4 11. g1 d1 12. c1 c2 13. b3 h6 14. h5 h2 15. a5 e7 16. f7 f8 17. b5
+h7 18. c6 b6 19. c7 a4 20. e6 b2 21. a1 b1 22. e8 d8 23. g7 d7 24. b7 c8 25. e1
+f1 26. g2 h1 27. a2 a8 28. a6 a7 29. b8 g8 30. h8 -- 31. a3 34-30
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.04"]
+[Round "-"]
+[Black "dimattei"]
+[White "guitarium"]
+[Result "24-40"]
+[Time "14:24:59"]
+[TimeControl "60"]
+[BlackElo "1771"]
+[WhiteElo "1992"]
+
+1. c4 e3 2. f4 c5 3. d6 f3 4. d3 c3 5. e2 f2 6. d2 d1 7. e1 f1 8. c2 c1 9. g3
+h3 10. b6 g4 11. g5 f5 12. b4 b3 13. h4 e6 14. h2 h6 15. a3 b5 16. c6 a5 17. f7
+e7 18. c7 f6 19. f8 c8 20. a4 a6 21. a7 d7 22. d8 e8 23. b8 g7 24. g8 h5 25. g2
+b2 26. b1 a1 27. b7 h1 28. g1 a8 29. a2 h8 30. g6 h7 24-40
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.04"]
+[Round "-"]
+[Black "guitarium"]
+[White "dimattei"]
+[Result "64-0"]
+[Time "14:22:46"]
+[TimeControl "60"]
+[BlackElo "1985"]
+[WhiteElo "1778"]
+
+1. f5 f6 2. e6 d6 3. e7 g5 4. c5 f7 5. c6 d3 6. f4 c4 7. f3 e3 8. g6 d8 9. h5
+d7 10. g3 g4 11. c7 f2 12. c2 h4 13. b5 c3 14. h3 b4 15. f1 h7 16. h2 a6 17. e2
+d2 18. b6 e1 19. d1 c8 20. b7 a5 21. f8 e8 22. b8 b1 23. c1 g1 24. a4 a8 25. a7
+g8 26. g7 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.03"]
+[Round "-"]
+[Black "guitarium"]
+[White "gerfix"]
+[Result "64-0"]
+[Time "17:00:02"]
+[TimeControl "60"]
+[BlackElo "1976"]
+[WhiteElo "1819"]
+
+1. f5 d6 2. c5 f4 3. e3 c3 4. e6 d2 5. e2 f6 6. c4 d3 7. g4 g5 8. c6 b3 9. b4
+f3 10. f2 e1 11. e7 d7 12. d8 e8 13. g3 c8 14. h6 a4 15. f7 b6 16. f8 g8 17. b5
+g6 18. c7 a5 19. a6 b8 20. b7 a8 21. a7 f1 22. c1 h5 23. h3 h4 24. c2 d1 25. g7
+b1 26. h2 h1 27. g1 g2 28. a2 h7 29. a1 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.03"]
+[Round "-"]
+[Black "gerfix"]
+[White "guitarium"]
+[Result "35-29"]
+[Time "16:58:00"]
+[TimeControl "60"]
+[BlackElo "1795"]
+[WhiteElo "2000"]
+
+1. d3 c5 2. d6 e3 3. f4 c6 4. f5 c3 5. c4 b5 6. f2 e6 7. e7 f7 8. d2 f6 9. d7
+d8 10. e8 f8 11. c7 c8 12. b3 c2 13. g6 e1 14. c1 a4 15. b4 a3 16. a6 b6 17. b1
+h6 18. g7 g5 19. h7 e2 20. f3 g4 21. h5 f1 22. a5 a7 23. b2 h4 24. d1 h3 25. h2
+h8 26. g8 h1 27. g3 g2 28. g1 a1 29. a2 -- 30. a8 -- 31. b8 b7 35-29
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.03"]
+[Round "-"]
+[Black "guitarium"]
+[White "gerfix"]
+[Result "25-39"]
+[Time "16:56:03"]
+[TimeControl "60"]
+[BlackElo "2026"]
+[WhiteElo "1769"]
+
+1. f5 f6 2. e6 f4 3. g5 e7 4. e3 g3 5. f3 d6 6. h3 h5 7. c4 c3 8. c5 b4 9. g6
+f7 10. b5 b3 11. d3 c6 12. b6 a5 13. d7 g4 14. a6 a4 15. c7 c2 16. h4 c8 17. e2
+d2 18. f2 d8 19. b7 e1 20. b8 f1 21. h6 g7 22. d1 c1 23. h8 g8 24. f8 e8 25. h7
+a8 26. a3 a7 27. b2 b1 28. a1 a2 29. g1 h2 30. g2 h1 25-39
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.03"]
+[Round "-"]
+[Black "gerfix"]
+[White "guitarium"]
+[Result "31-33"]
+[Time "16:53:55"]
+[TimeControl "60"]
+[BlackElo "1775"]
+[WhiteElo "2020"]
+
+1. d3 c5 2. e6 f5 3. d6 e3 4. f4 f3 5. g6 c6 6. c4 g5 7. e2 c7 8. g3 f6 9. e7
+c3 10. h5 d2 11. g4 f1 12. d1 f7 13. e8 e1 14. g1 f2 15. c1 c2 16. d7 d8 17. f8
+h3 18. h4 g2 19. h1 h2 20. b1 c8 21. g7 b2 22. a1 b4 23. b3 b5 24. a6 b6 25. a7
+b7 26. a8 b8 27. a5 h7 28. h8 a3 29. g8 h6 30. a4 a2 31-33
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.03"]
+[Round "-"]
+[Black "guitarium"]
+[White "gerfix"]
+[Result "53-11"]
+[Time "16:51:49"]
+[TimeControl "60"]
+[BlackElo "2013"]
+[WhiteElo "1782"]
+
+1. f5 f6 2. e6 f4 3. g5 e7 4. e3 g3 5. f3 g4 6. h3 h4 7. d6 d2 8. c3 e2 9. d3
+c7 10. c1 h2 11. f1 f2 12. g1 c6 13. g6 e1 14. d1 h7 15. f7 e8 16. c5 b4 17. b5
+a4 18. a3 a2 19. d7 c4 20. c2 b3 21. a6 a5 22. b2 a7 23. d8 f8 24. g8 c8 25. b8
+b7 26. b6 g2 27. h1 g7 28. h5 h6 29. h8 -- 30. a1 -- 31. b1 -- 32. a8 53-11
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.03"]
+[Round "-"]
+[Black "gerfix"]
+[White "guitarium"]
+[Result "20-44"]
+[Time "16:49:41"]
+[TimeControl "60"]
+[BlackElo "1789"]
+[WhiteElo "2006"]
+
+1. d3 c5 2. d6 e3 3. f4 c6 4. f5 c3 5. c4 b5 6. f2 f3 7. e2 d1 8. g3 g4 9. g5
+h4 10. e1 f1 11. d2 h3 12. b6 c1 13. b3 c2 14. a6 a3 15. b2 b4 16. a2 a4 17. a5
+g6 18. h5 h6 19. g2 f6 20. e6 f7 21. h2 d7 22. c7 e7 23. e8 f8 24. g8 d8 25. h7
+h8 26. g7 c8 27. b8 h1 28. g1 a8 29. b7 a7 30. b1 a1 20-44
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.03"]
+[Round "-"]
+[Black "guitarium"]
+[White "gerfix"]
+[Result "40-24"]
+[Time "16:47:51"]
+[TimeControl "60"]
+[BlackElo "1998"]
+[WhiteElo "1797"]
+
+1. f5 f6 2. e6 f4 3. g4 e7 4. f7 c5 5. f3 g3 6. e3 d6 7. g5 h5 8. h6 h7 9. g6
+h4 10. d3 d7 11. c4 b4 12. c6 b5 13. h2 c2 14. c3 f8 15. b3 d2 16. e2 f1 17. a4
+a5 18. a6 a3 19. a2 g7 20. c7 b8 21. d8 c8 22. a8 b6 23. a7 b7 24. e8 h3 25. g8
+h1 26. h8 b2 27. g2 f2 28. a1 b1 29. c1 d1 30. g1 e1 40-24
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.03"]
+[Round "-"]
+[Black "susan98"]
+[White "guitarium"]
+[Result "38-26"]
+[Time "16:43:21"]
+[TimeControl "60"]
+[BlackElo "1648"]
+[WhiteElo "2027"]
+
+1. f5 d6 2. c5 f4 3. e3 c6 4. d3 f6 5. e6 d7 6. g3 c4 7. b4 b3 8. g5 c3 9. b5
+a5 10. a4 a3 11. b6 a6 12. f7 g6 13. e7 f8 14. c8 d8 15. e8 b8 16. c7 g8 17. h6
+h4 18. c2 c1 19. h5 h7 20. d2 d1 21. e2 g4 22. h3 h2 23. f3 e1 24. b7 f2 25. g2
+f1 26. h1 g1 27. h8 a8 28. a7 -- 29. b1 b2 30. g7 -- 31. a2 a1 38-26
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.03"]
+[Round "-"]
+[Black "guitarium"]
+[White "susan98"]
+[Result "41-23"]
+[Time "16:41:32"]
+[TimeControl "60"]
+[BlackElo "2024"]
+[WhiteElo "1651"]
+
+1. c4 c3 2. d3 e3 3. e2 c5 4. b3 d2 5. e1 f1 6. f2 d1 7. f3 b4 8. f5 g5 9. d6
+e6 10. f4 f6 11. c6 d7 12. e7 f8 13. g4 f7 14. b6 h3 15. b5 c7 16. g6 a6 17. c1
+b1 18. a5 a4 19. a3 a2 20. b7 h5 21. c2 g3 22. e8 d8 23. g2 g1 24. h1 h2 25. a1
+b2 26. a7 a8 27. h4 -- 28. h6 h7 29. h8 g7 30. g8 -- 31. c8 b8 41-23
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.03"]
+[Round "-"]
+[Black "guitarium"]
+[White "paripariball"]
+[Result "46-18"]
+[Time "16:37:06"]
+[TimeControl "60"]
+[BlackElo "2003"]
+[WhiteElo "2117"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. d7 b4 5. c5 b3 6. e3 f3 7. d2 c2 8. e2 d1 9. a4
+f6 10. c1 b1 11. f1 f2 12. a3 c7 13. e7 b6 14. c6 b5 15. e6 a5 16. g6 d8 17. a6
+f8 18. g5 g4 19. f7 h5 20. h3 h6 21. e8 h4 22. c8 b8 23. h7 b7 24. g7 b2 25. a2
+h8 26. g8 h2 27. a8 -- 28. a7 -- 29. a1 -- 30. g1 g2 31. h1 g3 32. e1 46-18
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.03"]
+[Round "-"]
+[Black "paripariball"]
+[White "guitarium"]
+[Result "41-23"]
+[Time "16:35:00"]
+[TimeControl "60"]
+[BlackElo "2105"]
+[WhiteElo "2015"]
+
+1. f5 d6 2. c4 d3 3. c5 f4 4. e3 f3 5. e2 c6 6. e6 f6 7. d7 c7 8. e7 e8 9. d8
+c8 10. f7 f8 11. g3 b4 12. b5 a5 13. g4 b3 14. b6 c3 15. a6 a4 16. b7 g5 17. h6
+c2 18. b8 f1 19. d1 e1 20. f2 c1 21. d2 h3 22. h4 g1 23. g6 h5 24. h2 g7 25. h8
+g8 26. a3 g2 27. h7 a8 28. a7 a2 29. h1 -- 30. b1 b2 31. a1 41-23
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.03"]
+[Round "-"]
+[Black "guitarium"]
+[White "paripariball"]
+[Result "10-54"]
+[Time "16:32:47"]
+[TimeControl "60"]
+[BlackElo "2028"]
+[WhiteElo "2092"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 c5 6. f3 e3 7. g4 f7 8. e7 g6 9. h5
+f8 10. b6 f2 11. d2 h3 12. h4 h6 13. g3 e2 14. e1 c2 15. c7 c1 16. d1 g1 17. g2
+h1 18. h2 f1 19. g7 g8 20. h8 h7 21. e8 b3 22. b5 b4 23. a5 a6 24. a3 b7 25. b2
+a1 26. a2 b1 27. a7 a4 28. -- a8 29. -- b8 30. d7 d8 31. c8 c6 10-54
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.03"]
+[Round "-"]
+[Black "paripariball"]
+[White "guitarium"]
+[Result "46-18"]
+[Time "16:30:30"]
+[TimeControl "60"]
+[BlackElo "2078"]
+[WhiteElo "2042"]
+
+1. f5 d6 2. c4 d3 3. c5 f4 4. e3 f3 5. c2 c6 6. e6 d2 7. g4 b6 8. b5 c3 9. b4
+c1 10. f2 a3 11. e2 a5 12. d7 f1 13. a6 g3 14. h4 g1 15. b2 b3 16. a4 h3 17. h2
+g6 18. g5 h6 19. f6 e7 20. c7 d8 21. c8 h5 22. h7 f7 23. e8 f8 24. g8 a7 25. a2
+b8 26. a8 b7 27. g7 g2 28. h1 b1 29. d1 h8 30. e1 -- 31. a1 46-18
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.03"]
+[Round "-"]
+[Black "guitarium"]
+[White "paripariball"]
+[Result "34-30"]
+[Time "16:28:12"]
+[TimeControl "60"]
+[BlackElo "2023"]
+[WhiteElo "2097"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 f3 5. e6 e7 6. f7 c5 7. b6 g6 8. f8 d7 9. e3
+b5 10. c8 b4 11. c6 c7 12. a6 e2 13. a5 d2 14. g5 h6 15. c2 a3 16. a4 b3 17. a2
+c1 18. h4 b7 19. g4 d8 20. e8 a7 21. a8 b8 22. f2 g7 23. d1 b1 24. a1 b2 25. h8
+g8 26. h7 e1 27. h5 f1 28. g1 g3 29. h3 h2 30. h1 g2 34-30
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.03"]
+[Round "-"]
+[Black "guitarium"]
+[White "9loooooock"]
+[Result "43-21"]
+[Time "16:20:46"]
+[TimeControl "60"]
+[BlackElo "2019"]
+[WhiteElo "1671"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 f3 5. e6 e7 6. c6 g6 7. f8 f7 8. h6 c5 9. b6
+b5 10. e3 e2 11. a5 d2 12. b4 b3 13. g4 g5 14. d7 h5 15. g3 h3 16. f2 c8 17. e8
+a4 18. c1 d1 19. e1 c2 20. b1 a6 21. a3 a2 22. c7 b8 23. b7 a8 24. a7 d8 25. g7
+h7 26. b2 g1 27. a1 h8 28. f1 g2 29. h1 g8 30. h2 -- 31. h4 43-21
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.29"]
+[Round "-"]
+[Black "izzefosho"]
+[White "guitarium"]
+[Result "0-64"]
+[Time "17:01:14"]
+[TimeControl "60"]
+[BlackElo "1756"]
+[WhiteElo "2013"]
+
+1. d3 c5 2. e6 f5 3. f6 e3 4. d6 f7 5. g6 e7 6. f4 c4 7. c6 c3 8. d8 e8 9. d7
+c8 10. b5 b6 11. b4 f3 12. g3 g5 13. g4 c7 14. a6 a3 15. f8 g8 16. b7 g7 17. f2
+e2 18. e1 h4 19. d2 c2 20. h6 f1 21. h8 h3 22. a4 a8 23. b8 b3 24. c1 a5 25. a2
+a7 26. g1 d1 27. h2 h1 28. -- g2 29. -- b1 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.29"]
+[Round "-"]
+[Black "guitarium"]
+[White "izzefosho"]
+[Result "49-15"]
+[Time "16:59:23"]
+[TimeControl "60"]
+[BlackElo "2007"]
+[WhiteElo "1762"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 c5 6. f3 e3 7. g4 b5 8. b4 a3 9. b6
+f7 10. c2 d2 11. c6 g6 12. h5 d7 13. e7 b3 14. c8 a6 15. f8 g7 16. c7 c1 17. f2
+e2 18. e1 h6 19. g3 h4 20. d1 f1 21. h8 h3 22. h7 b7 23. a4 g8 24. a8 b8 25. a7
+a5 26. a2 b2 27. a1 b1 28. h2 g2 29. g1 d8 30. e8 -- 31. h1 49-15
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.29"]
+[Round "-"]
+[Black "izzefosho"]
+[White "guitarium"]
+[Result "25-39"]
+[Time "16:57:37"]
+[TimeControl "60"]
+[BlackElo "1769"]
+[WhiteElo "2000"]
+
+1. d3 c5 2. e6 f5 3. f6 e3 4. d6 f7 5. g6 e7 6. f4 c4 7. c6 c3 8. d8 e8 9. d7
+c8 10. b5 b6 11. b4 f3 12. g3 g5 13. g4 a4 14. a5 a6 15. e2 h6 16. d2 h5 17. b3
+c7 18. g8 a3 19. g7 h4 20. h3 h8 21. a7 a8 22. f8 h7 23. b8 b7 24. -- a2 25. b2
+a1 26. c2 b1 27. c1 d1 28. f2 g1 29. f1 e1 30. g2 h1 31. -- h2 25-39
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.29"]
+[Round "-"]
+[Black "guitarium"]
+[White "izzefosho"]
+[Result "45-19"]
+[Time "16:55:49"]
+[TimeControl "60"]
+[BlackElo "1993"]
+[WhiteElo "1776"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 c5 6. f3 e3 7. g4 b5 8. e2 f2 9. d2
+h4 10. c2 e1 11. h3 h2 12. b4 d1 13. c1 g3 14. h6 b1 15. c7 a4 16. f1 g1 17. b3
+a3 18. a6 c6 19. b6 g6 20. a5 a7 21. b2 f7 22. f8 d7 23. d8 c8 24. e7 e8 25. h5
+h7 26. g7 g8 27. h8 g2 28. h1 a2 29. a1 -- 30. b8 b7 31. a8 45-19
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.29"]
+[Round "-"]
+[Black "izzefosho"]
+[White "guitarium"]
+[Result "19-45"]
+[Time "16:54:08"]
+[TimeControl "60"]
+[BlackElo "1784"]
+[WhiteElo "1985"]
+
+1. d3 c5 2. f6 f5 3. e6 e3 4. d6 f7 5. g6 e7 6. f4 c4 7. c6 c3 8. d8 e8 9. d7
+c8 10. b5 b6 11. b4 c7 12. b3 a4 13. a5 a6 14. f2 h6 15. g8 f8 16. b8 g5 17. g4
+h3 18. g7 e2 19. c2 f3 20. d2 a3 21. g2 g3 22. h5 h4 23. b2 h7 24. b7 e1 25. c1
+h8 26. g1 a1 27. a2 b1 28. d1 f1 29. h2 h1 30. a7 a8 19-45
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.29"]
+[Round "-"]
+[Black "guitarium"]
+[White "izzefosho"]
+[Result "36-28"]
+[Time "16:52:09"]
+[TimeControl "60"]
+[BlackElo "1977"]
+[WhiteElo "1792"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 f3 5. e6 e7 6. c6 c5 7. b5 b4 8. d7 a6 9. e3
+c2 10. b6 d2 11. e2 f2 12. g4 d8 13. g3 c7 14. a4 a3 15. a5 g5 16. b3 b2 17. f7
+g6 18. h5 h6 19. a1 a2 20. b1 c1 21. d1 e1 22. f1 h4 23. h3 e8 24. b7 h2 25. g2
+b8 26. c8 h1 27. a8 g1 28. f8 g8 29. h8 g7 30. a7 -- 31. h7 36-28
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.29"]
+[Round "-"]
+[Black "izzefosho"]
+[White "guitarium"]
+[Result "39-25"]
+[Time "16:50:09"]
+[TimeControl "60"]
+[BlackElo "1767"]
+[WhiteElo "2002"]
+
+1. d3 c5 2. e6 f5 3. f6 e3 4. d6 f7 5. g6 e7 6. f4 c4 7. c6 c3 8. d8 e8 9. d7
+c8 10. b5 b6 11. b4 f3 12. g3 g5 13. g4 a4 14. f8 g8 15. a5 a6 16. e2 e1 17. c7
+b8 18. f2 h6 19. h5 f1 20. d2 a3 21. d1 c1 22. b3 a2 23. c2 b2 24. b7 h3 25. h7
+g7 26. g2 g1 27. h1 h2 28. h4 a8 29. h8 -- 30. b1 -- 31. a1 -- 32. a7 39-25
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.29"]
+[Round "-"]
+[Black "guitarium"]
+[White "izzefosho"]
+[Result "48-16"]
+[Time "16:44:24"]
+[TimeControl "60"]
+[BlackElo "1995"]
+[WhiteElo "1774"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 f3 5. e6 e7 6. f7 c5 7. b6 b5 8. e3 g6 9. g4
+g5 10. h6 h3 11. h4 f8 12. g3 d2 13. d7 h5 14. h2 e2 15. b4 c8 16. f2 b3 17. h7
+a6 18. c7 a5 19. c6 a7 20. e1 d8 21. d1 c1 22. b1 g1 23. g2 g7 24. c2 b2 25. e8
+g8 26. h8 h1 27. a1 f1 28. a2 b7 29. a3 a4 30. a8 -- 31. b8 48-16
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.29"]
+[Round "-"]
+[Black "izzefosho"]
+[White "guitarium"]
+[Result "7-57"]
+[Time "16:42:53"]
+[TimeControl "60"]
+[BlackElo "1782"]
+[WhiteElo "1987"]
+
+1. d3 c5 2. f6 f5 3. e6 e3 4. d6 f7 5. g6 e7 6. f4 c4 7. c6 c3 8. d8 e8 9. d7
+c8 10. b5 b6 11. b4 f3 12. g5 h5 13. h6 g4 14. f8 g8 15. c7 h4 16. h3 b8 17. f2
+a4 18. a5 a3 19. a6 a7 20. d2 b3 21. c2 b2 22. b1 a2 23. g7 e1 24. d1 a1 25. f1
+h8 26. b7 a8 27. -- c1 28. e2 h7 29. g3 h2 30. g2 g1 31. h1 7-57
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.29"]
+[Round "-"]
+[Black "guitarium"]
+[White "izzefosho"]
+[Result "21-43"]
+[Time "16:41:22"]
+[TimeControl "60"]
+[BlackElo "2013"]
+[WhiteElo "1756"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 d7 6. e3 c5 7. f3 g4 8. g6 e7 9. h3
+h6 10. h5 b3 11. b4 a3 12. b6 b5 13. a6 a5 14. c6 c7 15. f8 e8 16. d8 c8 17. b8
+f7 18. g8 g7 19. h8 h7 20. a7 a8 21. a4 b7 22. b2 h4 23. a2 g3 24. g2 h1 25. e2
+h2 26. g1 f2 27. d2 f1 28. e1 c1 29. d1 c2 30. b1 a1 21-43
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.29"]
+[Round "-"]
+[Black "izzefosho"]
+[White "guitarium"]
+[Result "28-36"]
+[Time "16:39:28"]
+[TimeControl "60"]
+[BlackElo "1762"]
+[WhiteElo "2007"]
+
+1. d3 c5 2. e6 f5 3. f6 e3 4. d6 e7 5. f4 c4 6. c6 c3 7. f8 d7 8. b5 b4 9. c8
+c7 10. b6 d8 11. e8 f3 12. a3 g3 13. b3 b7 14. g4 a7 15. a8 b8 16. a6 h4 17. d2
+f7 18. e2 f2 19. g5 g6 20. h3 e1 21. d1 c1 22. c2 b1 23. f1 g1 24. b2 h2 25. h5
+h6 26. g7 a4 27. a5 a1 28. a2 h8 29. h7 g8 30. h1 g2 28-36
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.29"]
+[Round "-"]
+[Black "guitarium"]
+[White "izzefosho"]
+[Result "64-0"]
+[Time "16:37:22"]
+[TimeControl "60"]
+[BlackElo "2000"]
+[WhiteElo "1769"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e3 f3 6. e6 c5 7. g3 e2 8. g4 d2 9. g6
+h4 10. h5 f2 11. c2 b5 12. b4 a4 13. f1 b3 14. e1 c1 15. h3 f7 16. e7 f8 17. d8
+d7 18. c7 g7 19. c6 b6 20. c8 h6 21. d1 g1 22. h8 g8 23. g2 e8 24. h7 h1 25. h2
+64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.29"]
+[Round "-"]
+[Black "guitarium"]
+[White "maknyus"]
+[Result "47-17"]
+[Time "07:18:02"]
+[TimeControl "60"]
+[BlackElo "1991"]
+[WhiteElo "1838"]
+
+1. f5 f6 2. e6 d6 3. e7 f7 4. d7 g5 5. c5 c6 6. d3 d8 7. c7 c8 8. f4 b6 9. h6
+h4 10. g6 g4 11. h5 h7 12. f8 f3 13. c4 e8 14. b8 g7 15. e3 c2 16. c3 b5 17. h3
+f2 18. b4 d2 19. a4 h2 20. e2 d1 21. g3 a6 22. b3 a5 23. a3 a2 24. b7 a8 25. a7
+g8 26. a1 g2 27. c1 b2 28. b1 -- 29. g1 f1 30. e1 -- 31. h1 -- 32. h8 47-17
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.29"]
+[Round "-"]
+[Black "maknyus"]
+[White "guitarium"]
+[Result "18-46"]
+[Time "07:16:04"]
+[TimeControl "60"]
+[BlackElo "1848"]
+[WhiteElo "1981"]
+
+1. f5 d6 2. c5 f4 3. e3 c6 4. f3 g5 5. e6 f6 6. h6 c3 7. g6 c4 8. f7 h5 9. e7
+d3 10. b5 d7 11. b6 f8 12. c8 e8 13. h4 g4 14. h3 b4 15. d2 a5 16. a6 b3 17. c2
+a7 18. a2 a4 19. c7 d8 20. g8 g3 21. f2 b7 22. a8 b8 23. a3 h8 24. g7 h7 25. --
+h2 26. g2 b2 27. c1 a1 28. -- b1 29. d1 e1 30. e2 h1 31. g1 f1 18-46
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.29"]
+[Round "-"]
+[Black "guitarium"]
+[White "maknyus"]
+[Result "64-0"]
+[Time "07:13:51"]
+[TimeControl "60"]
+[BlackElo "1970"]
+[WhiteElo "1859"]
+
+1. f5 f6 2. e6 d6 3. e7 f7 4. d7 g5 5. c5 e8 6. f4 e3 7. g6 c8 8. h4 c6 9. f3
+g4 10. g3 h6 11. d3 e2 12. c4 f2 13. h5 c2 14. c7 b6 15. d8 f8 16. b5 b3 17. b4
+a3 18. a5 c3 19. a4 h2 20. h7 a6 21. d2 d1 22. g7 b2 23. a1 a2 24. a7 b7 25. a8
+b8 26. b1 c1 27. h3 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.28"]
+[Round "-"]
+[Black "guitarium"]
+[White "eur777usd"]
+[Result "59-2"]
+[Time "16:18:13"]
+[TimeControl "60"]
+[BlackElo "1966"]
+[WhiteElo "1635"]
+
+1. f5 f6 2. e6 d6 3. e7 g5 4. c5 c6 5. e3 d3 6. c7 f3 7. f4 g4 8. h5 d7 9. f7
+b4 10. e8 b6 11. a6 c8 12. c4 c3 13. d8 f8 14. g6 b8 15. h3 h4 16. b5 h6 17. h7
+a4 18. a5 g7 19. h8 g8 20. a8 b7 21. a7 -- 22. g3 h2 23. h1 -- 24. g2 f2 25. f1
+g1 26. e1 d1 27. e2 d2 28. c1 -- 29. a3 -- 30. c2 b2 31. a1 59-2
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.28"]
+[Round "-"]
+[Black "eur777usd"]
+[White "guitarium"]
+[Result "12-52"]
+[Time "16:15:59"]
+[TimeControl "60"]
+[BlackElo "1639"]
+[WhiteElo "1962"]
+
+1. f5 d6 2. c5 f4 3. e3 c6 4. d3 f6 5. e6 d7 6. e7 c3 7. c4 c7 8. b6 b5 9. a6
+f8 10. d8 b8 11. e8 c8 12. f7 d2 13. b4 f3 14. c2 a3 15. a5 b3 16. a4 a7 17. g4
+a2 18. g6 g8 19. f2 e2 20. e1 h6 21. f1 g3 22. g5 h3 23. h5 h4 24. g7 g2 25. b2
+d1 26. c1 a1 27. b1 g1 28. h7 h8 29. h1 h2 30. b7 a8 12-52
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.28"]
+[Round "-"]
+[Black "guitarium"]
+[White "eur777usd"]
+[Result "43-21"]
+[Time "16:13:53"]
+[TimeControl "60"]
+[BlackElo "1957"]
+[WhiteElo "1644"]
+
+1. f5 f6 2. e6 f4 3. g6 c5 4. g4 g5 5. f3 e3 6. c4 g3 7. h5 f7 8. h3 h4 9. e2
+d3 10. c2 b4 11. f2 h6 12. h7 c3 13. d6 e7 14. h2 c6 15. d2 c1 16. d7 c7 17. f8
+e1 18. e8 f1 19. b8 c8 20. d8 g7 21. b5 a5 22. b6 a6 23. a3 b3 24. d1 b7 25. a8
+a7 26. h8 g8 27. g2 h1 28. g1 -- 29. a4 a2 30. a1 b1 31. b2 43-21
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.28"]
+[Round "-"]
+[Black "eur777usd"]
+[White "guitarium"]
+[Result "0-64"]
+[Time "16:11:56"]
+[TimeControl "60"]
+[BlackElo "1649"]
+[WhiteElo "1952"]
+
+1. f5 d6 2. c4 d3 3. c3 f4 4. c5 b3 5. c2 b4 6. c6 d2 7. e6 b5 8. a5 a6 9. a7
+b6 10. c7 g5 11. a4 a2 12. e3 f6 13. g3 f2 14. d1 e2 15. f3 g4 16. e1 f7 17. e7
+e8 18. h6 h5 19. h4 d7 20. g6 b8 21. f8 g8 22. g7 h8 23. h7 h3 24. b7 d8 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.28"]
+[Round "-"]
+[Black "guitarium"]
+[White "eur777usd"]
+[Result "64-0"]
+[Time "16:09:50"]
+[TimeControl "60"]
+[BlackElo "1947"]
+[WhiteElo "1654"]
+
+1. f5 f6 2. e6 f4 3. e3 c5 4. g5 f3 5. g6 e7 6. d3 g4 7. f2 g3 8. c4 f7 9. h3
+h4 10. h5 h6 11. h7 b4 12. d6 f1 13. f8 d8 14. e2 c3 15. b6 d7 16. c8 b8 17. b5
+b3 18. c6 e1 19. d2 c2 20. a4 g2 21. c1 d1 22. g8 h2 23. h1 g1 24. g7 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.28"]
+[Round "-"]
+[Black "eur777usd"]
+[White "guitarium"]
+[Result "0-64"]
+[Time "16:07:40"]
+[TimeControl "60"]
+[BlackElo "1659"]
+[WhiteElo "1942"]
+
+1. f5 d6 2. c5 f4 3. e3 c6 4. d3 f6 5. e6 d7 6. g3 c4 7. b4 b3 8. b5 a4 9. a6
+a3 10. b6 c3 11. g5 h5 12. e7 g4 13. d8 f7 14. h3 g6 15. h4 h6 16. f3 g7 17. f8
+g8 18. h8 h7 19. b2 a2 20. c7 f2 21. e2 a1 22. d2 a5 23. g2 a7 24. b7 a8 25. b8
+f1 26. g1 c8 27. e1 e8 28. b1 d1 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.28"]
+[Round "-"]
+[Black "guitarium"]
+[White "eur777usd"]
+[Result "47-17"]
+[Time "16:05:46"]
+[TimeControl "60"]
+[BlackElo "1936"]
+[WhiteElo "1665"]
+
+1. f5 f6 2. e6 f4 3. g5 e7 4. e3 g4 5. f3 d3 6. c3 d6 7. g6 h5 8. h6 h7 9. h4
+h3 10. g3 h2 11. c4 f2 12. e2 c5 13. d2 b4 14. f1 c2 15. b3 c1 16. e1 d1 17. b1
+a3 18. b5 a5 19. a4 b2 20. c6 c7 21. c8 b6 22. a6 d8 23. d7 b8 24. g2 a7 25. a1
+a2 26. a8 g1 27. h1 -- 28. b7 -- 29. e8 f8 30. h8 f7 31. g7 g8 47-17
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.28"]
+[Round "-"]
+[Black "eur777usd"]
+[White "guitarium"]
+[Result "33-31"]
+[Time "16:03:24"]
+[TimeControl "60"]
+[BlackElo "1637"]
+[WhiteElo "1964"]
+
+1. f5 d6 2. c4 d3 3. e6 f4 4. e3 f3 5. e2 f2 6. g4 g3 7. f1 h4 8. c5 g5 9. f6
+c6 10. d7 d2 11. h3 f7 12. h5 h6 13. h7 g6 14. e7 e1 15. c1 g1 16. f8 b4 17. c3
+g2 18. d1 c7 19. b5 c8 20. e8 b1 21. a4 b6 22. a6 d8 23. g7 b3 24. c2 a7 25. h1
+h2 26. a1 b7 27. a8 b8 28. -- a5 29. -- b2 30. a3 a2 31. -- h8 32. g8 33-31
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.28"]
+[Round "-"]
+[Black "guitarium"]
+[White "eur777usd"]
+[Result "64-0"]
+[Time "16:01:14"]
+[TimeControl "60"]
+[BlackElo "1960"]
+[WhiteElo "1641"]
+
+1. f5 f6 2. e6 f4 3. g5 e7 4. d7 d6 5. f3 g4 6. c6 e3 7. h5 c5 8. d2 e2 9. c7
+b6 10. c3 d3 11. e1 b3 12. g6 e8 13. c2 c1 14. c4 b5 15. b4 d1 16. a3 f1 17. f8
+f7 18. d8 a5 19. a7 g7 20. b7 a6 21. a4 c8 22. b8 a8 23. h8 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.28"]
+[Round "-"]
+[Black "eur777usd"]
+[White "guitarium"]
+[Result "0-64"]
+[Time "15:59:10"]
+[TimeControl "60"]
+[BlackElo "1646"]
+[WhiteElo "1955"]
+
+1. f5 d6 2. c4 f4 3. c5 d3 4. c3 f3 5. e3 b4 6. g5 e6 7. f6 g6 8. f2 h5 9. e7
+f7 10. d7 c6 11. g4 g3 12. b3 e2 13. f1 d2 14. h6 c8 15. f8 b5 16. c1 a3 17. c2
+h7 18. a6 a4 19. a5 a7 20. b6 e8 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.28"]
+[Round "-"]
+[Black "guitarium"]
+[White "eur777usd"]
+[Result "64-0"]
+[Time "15:57:03"]
+[TimeControl "60"]
+[BlackElo "1950"]
+[WhiteElo "1651"]
+
+1. f5 f6 2. e6 f4 3. g3 d6 4. e3 g4 5. c5 c4 6. c3 d3 7. e2 c2 8. f7 d2 9. e7
+b3 10. g6 b4 11. b5 c6 12. d7 b6 13. a5 c7 14. a6 e8 15. f8 d8 16. c8 a4 17. a3
+f1 18. c1 h6 19. d1 h2 20. h3 h4 21. h5 g5 22. h1 b2 23. a2 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.28"]
+[Round "-"]
+[Black "eur777usd"]
+[White "guitarium"]
+[Result "22-42"]
+[Time "15:55:00"]
+[TimeControl "60"]
+[BlackElo "1656"]
+[WhiteElo "1945"]
+
+1. f5 d6 2. c4 d3 3. c3 f4 4. c5 b3 5. c2 b4 6. c6 d2 7. e6 b5 8. e3 f3 9. a5
+a6 10. a7 b6 11. c7 g6 12. g4 h4 13. g3 h3 14. a2 c1 15. e2 f1 16. f2 a4 17. a3
+g1 18. e1 d1 19. h7 f6 20. g7 e7 21. g5 d7 22. f8 e8 23. d8 h5 24. f7 h6 25. h2
+h8 26. g8 c8 27. b8 a8 28. b7 h1 29. g2 a1 30. b1 b2 22-42
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.28"]
+[Round "-"]
+[Black "guitarium"]
+[White "eur777usd"]
+[Result "32-32"]
+[Time "15:52:36"]
+[TimeControl "60"]
+[BlackElo "1956"]
+[WhiteElo "1645"]
+
+1. f5 f6 2. e6 f4 3. g5 e7 4. e3 g4 5. f3 d3 6. c3 c4 7. g6 h5 8. h6 h7 9. h4
+h3 10. g3 h2 11. d6 c7 12. c5 f2 13. e2 e1 14. d2 c1 15. d7 c2 16. f8 b3 17. f7
+b4 18. f1 b6 19. g2 c8 20. d8 c6 21. d1 h1 22. g1 e8 23. b8 g7 24. b5 a5 25. a6
+a7 26. a3 a4 27. a8 b7 28. g8 h8 29. a2 b2 30. b1 a1 32-32
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.28"]
+[Round "-"]
+[Black "eur777usd"]
+[White "guitarium"]
+[Result "0-64"]
+[Time "15:50:36"]
+[TimeControl "60"]
+[BlackElo "1650"]
+[WhiteElo "1951"]
+
+1. f5 d6 2. c4 d3 3. c3 f4 4. c5 b3 5. c2 b4 6. c6 d2 7. e6 b5 8. e3 f3 9. a5
+a6 10. a7 b6 11. c7 g6 12. g5 h6 13. a2 c1 14. g4 h5 15. e2 f1 16. f2 g3 17. d1
+e1 18. b2 f6 19. h4 h3 20. f7 f8 21. g7 d7 22. a4 e7 23. d8 e8 24. g8 c8 25. b8
+a1 26. b1 a3 27. h2 h1 28. g1 g2 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.28"]
+[Round "-"]
+[Black "guitarium"]
+[White "eur777usd"]
+[Result "40-24"]
+[Time "15:48:47"]
+[TimeControl "60"]
+[BlackElo "1946"]
+[WhiteElo "1655"]
+
+1. f5 f6 2. e6 d6 3. e7 g5 4. c5 d7 5. c6 c4 6. c3 f4 7. f7 e8 8. f8 g8 9. d8
+c8 10. c7 b8 11. d3 b6 12. b5 e3 13. b4 a5 14. a4 a3 15. b3 a2 16. a6 a7 17. f3
+e2 18. g3 d2 19. h6 h4 20. g6 g4 21. h5 h3 22. g7 h8 23. h7 b7 24. e1 d1 25. c1
+c2 26. f1 f2 27. b1 b2 28. a1 -- 29. g1 g2 30. a8 -- 31. h1 h2 40-24
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.28"]
+[Round "-"]
+[Black "uroiji"]
+[White "guitarium"]
+[Result "28-36"]
+[Time "14:58:42"]
+[TimeControl "60"]
+[BlackElo "1497"]
+[WhiteElo "1944"]
+
+1. f5 d6 2. c4 d3 3. c5 f4 4. e3 f3 5. g4 g6 6. e6 c3 7. d2 g5 8. f6 e2 9. g3
+c6 10. h4 f2 11. h7 c1 12. d7 e7 13. c7 c2 14. f8 d8 15. f1 c8 16. e1 e8 17. b8
+h5 18. h6 f7 19. d1 g1 20. b6 b5 21. a5 g2 22. b4 h3 23. h1 h2 24. b1 h8 25. b7
+g7 26. g8 a8 27. -- a6 28. a7 a4 29. a3 b3 30. a2 b2 31. a1 28-36
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.28"]
+[Round "-"]
+[Black "guitarium"]
+[White "uroiji"]
+[Result "57-7"]
+[Time "14:57:01"]
+[TimeControl "60"]
+[BlackElo "1942"]
+[WhiteElo "1499"]
+
+1. f5 d6 2. c3 f4 3. f6 g5 4. f3 g3 5. e6 e3 6. g4 h5 7. h6 c5 8. h4 e7 9. d3
+f7 10. g6 h3 11. h2 c2 12. c4 b5 13. d2 d1 14. e2 e1 15. f2 f1 16. b4 a3 17. a4
+a5 18. b3 a2 19. g7 g2 20. f8 g8 21. h7 e8 22. h8 -- 23. d8 d7 24. c8 c7 25. b7
+b8 26. a8 a7 27. c6 b6 28. a6 b2 29. a1 b1 30. c1 -- 31. g1 h1 57-7
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.28"]
+[Round "-"]
+[Black "uroiji"]
+[White "guitarium"]
+[Result "12-52"]
+[Time "14:54:58"]
+[TimeControl "60"]
+[BlackElo "1501"]
+[WhiteElo "1940"]
+
+1. f5 d6 2. c4 d3 3. c5 f4 4. e3 f3 5. g4 g6 6. e6 c3 7. d2 e2 8. f6 b6 9. b5
+c6 10. b4 g5 11. c7 d7 12. f1 e7 13. f2 c1 14. e1 c2 15. a6 a3 16. a5 b3 17. g3
+h4 18. d8 h3 19. f8 e8 20. f7 g7 21. h5 h6 22. g8 h7 23. b2 h8 24. g2 a2 25. a4
+a1 26. b1 d1 27. -- a7 28. b7 a8 29. b8 c8 30. -- h1 31. h2 g1 12-52
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.28"]
+[Round "-"]
+[Black "guitarium"]
+[White "uroiji"]
+[Result "41-23"]
+[Time "14:52:49"]
+[TimeControl "60"]
+[BlackElo "1938"]
+[WhiteElo "1503"]
+
+1. f5 d6 2. c4 f4 3. c5 f6 4. g5 d3 5. e6 g6 6. f3 b5 7. e3 e7 8. f7 h5 9. c6
+d7 10. e8 g4 11. g3 h2 12. c8 f8 13. c3 d2 14. e2 e1 15. h3 h4 16. c2 b4 17. b6
+b1 18. f2 f1 19. a5 d8 20. g8 c7 21. a3 a7 22. b8 b7 23. c1 d1 24. a8 a6 25. b3
+a4 26. g2 b2 27. h6 h7 28. a1 a2 29. g1 g7 30. h8 -- 31. h1 41-23
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.27"]
+[Round "-"]
+[Black "yourwelcome"]
+[White "guitarium"]
+[Result "49-15"]
+[Time "18:29:57"]
+[TimeControl "60"]
+[BlackElo "1819"]
+[WhiteElo "1960"]
+
+1. f5 d6 2. c5 f4 3. e3 c6 4. d3 f6 5. e6 d7 6. g4 c4 7. g6 c3 8. f7 d2 9. e7
+f2 10. e2 f1 11. c8 f3 12. c7 d8 13. e8 g3 14. e1 d1 15. g5 h4 16. b6 h5 17. h6
+b5 18. a5 f8 19. g8 h7 20. b4 a4 21. a3 b3 22. h2 a6 23. a7 g7 24. g2 h1 25. h3
+b7 26. a2 b2 27. b8 -- 28. a8 -- 29. a1 b1 30. c1 c2 31. h8 -- 32. g1 49-15
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.27"]
+[Round "-"]
+[Black "guitarium"]
+[White "yourwelcome"]
+[Result "39-25"]
+[Time "18:27:59"]
+[TimeControl "60"]
+[BlackElo "1949"]
+[WhiteElo "1830"]
+
+1. f5 f6 2. e6 d6 3. e7 f8 4. c5 e3 5. f3 f4 6. g5 g4 7. c3 c6 8. d3 b5 9. g6
+h5 10. h6 h7 11. h4 h3 12. g3 c4 13. f7 e8 14. b4 a3 15. a6 a5 16. d7 c7 17. b6
+h2 18. c8 f2 19. d8 c2 20. d2 c1 21. e2 d1 22. a4 a7 23. e1 f1 24. b3 b7 25. g8
+a2 26. b2 a1 27. b1 g7 28. h8 -- 29. h1 -- 30. g1 g2 31. a8 b8 39-25
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.27"]
+[Round "-"]
+[Black "yourwelcome"]
+[White "guitarium"]
+[Result "14-50"]
+[Time "18:25:50"]
+[TimeControl "60"]
+[BlackElo "1842"]
+[WhiteElo "1937"]
+
+1. f5 d6 2. c5 f4 3. d3 e3 4. g4 g3 5. f3 e2 6. f2 g6 7. g5 c6 8. h4 e6 9. f6
+h3 10. h5 h6 11. e7 d7 12. c8 h2 13. c4 e1 14. c7 f8 15. e8 f7 16. d1 c1 17. g1
+c3 18. d2 c2 19. b4 a4 20. b5 b3 21. g8 d8 22. a5 a6 23. a3 a2 24. b2 f1 25. b6
+h1 26. h7 h8 27. g7 b1 28. g2 a1 29. -- b7 30. b8 a8 31. a7 14-50
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.27"]
+[Round "-"]
+[Black "guitarium"]
+[White "yourwelcome"]
+[Result "42-22"]
+[Time "18:23:45"]
+[TimeControl "60"]
+[BlackElo "1924"]
+[WhiteElo "1855"]
+
+1. f5 f6 2. e6 d6 3. d7 g5 4. g6 e7 5. e8 f8 6. f7 d8 7. c8 b8 8. g7 e3 9. c5
+c7 10. c6 b6 11. f3 b5 12. e2 g4 13. f4 c4 14. d3 g3 15. b3 b4 16. c3 f2 17. h4
+c2 18. d2 f1 19. e1 d1 20. a5 a3 21. a4 a6 22. g2 h1 23. g1 h2 24. h3 h8 25. g8
+h7 26. a8 h5 27. a7 b7 28. a2 b2 29. b1 a1 30. c1 -- 31. h6 42-22
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.27"]
+[Round "-"]
+[Black "yourwelcome"]
+[White "guitarium"]
+[Result "0-64"]
+[Time "18:21:41"]
+[TimeControl "60"]
+[BlackElo "1869"]
+[WhiteElo "1910"]
+
+1. f5 d6 2. c5 f4 3. e3 c4 4. e6 f6 5. d3 c6 6. b3 f3 7. g4 e2 8. d2 f2 9. g3
+c3 10. b4 b5 11. c2 a4 12. d1 f1 13. e1 c1 14. g6 g5 15. c7 h6 16. h5 d7 17. a6
+a3 18. b6 c8 19. h7 h3 20. e7 f8 21. b7 a8 22. b8 f7 23. g7 a5 24. h4 a7 25. h2
+g8 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.27"]
+[Round "-"]
+[Black "guitarium"]
+[White "yourwelcome"]
+[Result "47-17"]
+[Time "18:19:39"]
+[TimeControl "60"]
+[BlackElo "1894"]
+[WhiteElo "1885"]
+
+1. f5 f6 2. e6 d6 3. e7 g5 4. c5 f4 5. c4 d7 6. f7 c6 7. c8 b5 8. g6 e8 9. d8
+b8 10. c7 d3 11. h4 b4 12. g4 f8 13. f3 e3 14. g3 f2 15. e2 f1 16. c2 d2 17. c1
+d1 18. c3 b6 19. a4 a3 20. a5 a6 21. b3 h3 22. h2 b7 23. e1 h5 24. h6 g2 25. a8
+a7 26. a2 b1 27. h7 g7 28. g8 g1 29. h8 b2 30. a1 -- 31. h1 47-17
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.27"]
+[Round "-"]
+[Black "yourwelcome"]
+[White "guitarium"]
+[Result "0-64"]
+[Time "18:17:31"]
+[TimeControl "60"]
+[BlackElo "1902"]
+[WhiteElo "1877"]
+
+1. f5 d6 2. c5 f4 3. e3 c4 4. d3 e6 5. f6 f3 6. c3 g4 7. g3 b5 8. g6 g5 9. b6
+f2 10. h5 c6 11. h4 b4 12. e2 b3 13. a4 a3 14. a5 c2 15. d2 e1 16. c1 d1 17. f1
+h3 18. a2 f7 19. h2 a7 20. b1 h7 21. e7 g7 22. d7 e8 23. d8 c8 24. h8 h6 25. g2
+h1 26. g1 c7 27. g8 a1 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.27"]
+[Round "-"]
+[Black "guitarium"]
+[White "yourwelcome"]
+[Result "0-64"]
+[Time "18:15:22"]
+[TimeControl "60"]
+[BlackElo "1893"]
+[WhiteElo "1886"]
+
+1. f5 f6 2. e6 d6 3. d7 f7 4. e7 g5 5. c5 f4 6. c4 c6 7. d3 d8 8. c7 c8 9. f8
+b6 10. e3 f3 11. g4 h3 12. g3 b5 13. b4 e8 14. b8 a3 15. g8 d2 16. c2 b3 17. e2
+c1 18. c3 f1 19. a6 f2 20. d1 e1 21. h5 g6 22. h6 h4 23. h2 g7 24. a5 a4 25. b7
+a8 26. a7 h8 27. b2 b1 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.27"]
+[Round "-"]
+[Black "yourwelcome"]
+[White "guitarium"]
+[Result "64-0"]
+[Time "18:13:21"]
+[TimeControl "60"]
+[BlackElo "1868"]
+[WhiteElo "1911"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. e3 f3 5. e6 f6 6. g4 e2 7. d2 c6 8. g3 f2 9. g5
+c5 10. e1 c1 11. f1 h6 12. d1 g1 13. e7 h5 14. h3 e8 15. g6 h7 16. d7 b3 17. f8
+g8 18. f7 b4 19. b6 c7 20. d8 c8 21. b2 c2 22. a4 b5 23. a5 g7 24. a2 a3 25. b7
+a8 26. b8 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.27"]
+[Round "-"]
+[Black "guitarium"]
+[White "yourwelcome"]
+[Result "29-35"]
+[Time "18:11:05"]
+[TimeControl "60"]
+[BlackElo "1931"]
+[WhiteElo "1848"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 f3 5. e6 e7 6. f7 b3 7. c6 b4 8. e3 d2 9. g4
+c5 10. f2 g5 11. e2 e1 12. b6 d7 13. h6 h3 14. h4 b5 15. e8 d8 16. c8 c7 17. a5
+f8 18. g8 a4 19. b8 a6 20. c1 c2 21. a3 b7 22. f1 g1 23. d1 b1 24. b2 a1 25. a2
+g2 26. g3 h5 27. g6 h7 28. h1 g7 29. h8 h2 30. a7 a8 29-35
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.27"]
+[Round "-"]
+[Black "yourwelcome"]
+[White "guitarium"]
+[Result "64-0"]
+[Time "18:08:56"]
+[TimeControl "60"]
+[BlackElo "1826"]
+[WhiteElo "1953"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. e6 b3 5. e2 c5 6. c6 e3 7. d2 f6 8. f3 c2 9. b4
+e1 10. d1 c1 11. f2 g4 12. g5 a4 13. g6 h6 14. g2 f1 15. h5 h4 16. h3 b5 17. b6
+g3 18. g1 h1 19. h2 c7 20. c8 a7 21. a6 a5 22. a2 e7 23. d7 f7 24. f8 g7 25. h8
+h7 26. g8 b7 27. b2 e8 28. d8 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.27"]
+[Round "-"]
+[Black "guitarium"]
+[White "yourwelcome"]
+[Result "36-28"]
+[Time "18:06:46"]
+[TimeControl "60"]
+[BlackElo "1942"]
+[WhiteElo "1837"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e3 f3 6. e6 d7 7. e7 g6 8. g4 c5 9. g3
+f7 10. b6 b5 11. a6 h3 12. c6 f2 13. h5 e2 14. d2 h4 15. h2 c1 16. c7 c2 17. h6
+g7 18. c8 d8 19. g2 b3 20. b4 a5 21. h7 a7 22. h8 g8 23. f8 e8 24. a4 b7 25. a3
+h1 26. d1 e1 27. b2 a2 28. a8 b8 29. a1 b1 30. f1 g1 36-28
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.27"]
+[Round "-"]
+[Black "yourwelcome"]
+[White "guitarium"]
+[Result "64-0"]
+[Time "18:04:35"]
+[TimeControl "60"]
+[BlackElo "1815"]
+[WhiteElo "1964"]
+
+1. f5 d6 2. c5 f4 3. d3 c4 4. c3 c6 5. d7 f6 6. c7 b5 7. b4 d2 8. b6 a4 9. b3
+a3 10. e3 f3 11. c2 a6 12. a5 c1 13. e2 f1 14. f2 e6 15. b7 e8 16. g4 g5 17. g3
+h4 18. d1 e1 19. d8 e7 20. f8 a8 21. a7 b8 22. c8 g8 23. g2 h1 24. g6 f7 25. h5
+h6 26. g7 h8 27. b1 b2 28. h7 a1 29. h2 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.27"]
+[Round "-"]
+[Black "guitarium"]
+[White "yourwelcome"]
+[Result "41-23"]
+[Time "18:02:27"]
+[TimeControl "60"]
+[BlackElo "1954"]
+[WhiteElo "1825"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 f3 5. e6 e7 6. c6 g6 7. f8 c5 8. b4 b5 9. e3
+a3 10. b3 e2 11. d2 f2 12. e1 f7 13. g4 c7 14. d7 g5 15. a5 a4 16. a2 h3 17. g3
+c2 18. d1 b1 19. a6 g1 20. b6 b7 21. h5 h6 22. h4 d8 23. g8 b2 24. f1 c1 25. a1
+h2 26. h1 g2 27. a8 e8 28. b8 h8 29. a7 c8 30. g7 h7 41-23
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.27"]
+[Round "-"]
+[Black "yourwelcome"]
+[White "guitarium"]
+[Result "0-64"]
+[Time "18:00:22"]
+[TimeControl "60"]
+[BlackElo "1836"]
+[WhiteElo "1943"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e3 f7 6. c6 c5 7. d7 e7 8. e6 b6 9. g3
+f3 10. g4 e2 11. g6 d2 12. c2 b5 13. b4 h4 14. h5 f2 15. h3 a3 16. c1 b3 17. e8
+d8 18. c8 c7 19. b8 f8 20. g8 e1 21. g1 f1 22. d1 g2 23. a5 a7 24. b2 a1 25. a2
+a4 26. a6 b1 27. h1 h2 28. g7 h8 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.27"]
+[Round "-"]
+[Black "guitarium"]
+[White "yourwelcome"]
+[Result "32-32"]
+[Time "17:58:19"]
+[TimeControl "60"]
+[BlackElo "1948"]
+[WhiteElo "1831"]
+
+1. f5 f6 2. e6 d6 3. d7 f7 4. e7 g5 5. c5 c6 6. d3 f3 7. g4 f4 8. c4 b5 9. e3
+g3 10. b4 e8 11. c8 c2 12. d2 c1 13. e2 d1 14. f1 f2 15. g6 c3 16. b3 a5 17. a6
+b6 18. c7 a3 19. a4 a7 20. h5 f8 21. d8 b8 22. h4 h3 23. g7 b7 24. e1 h8 25. g8
+h7 26. a8 h6 27. g2 g1 28. a2 b2 29. h2 h1 30. b1 a1 32-32
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.27"]
+[Round "-"]
+[Black "yourwelcome"]
+[White "guitarium"]
+[Result "19-45"]
+[Time "17:56:40"]
+[TimeControl "60"]
+[BlackElo "1843"]
+[WhiteElo "1936"]
+
+1. f5 d6 2. c5 f4 3. e3 c6 4. d3 f6 5. e6 d7 6. e7 c7 7. c4 f8 8. b6 b5 9. a6
+b3 10. b4 f3 11. g5 a3 12. a4 f7 13. g6 c3 14. e2 d2 15. f2 e1 16. c1 d1 17. f1
+c2 18. b1 b2 19. d8 e8 20. g8 a5 21. a1 a2 22. -- g3 23. g4 h5 24. h3 h4 25. h6
+b8 26. c8 h8 27. -- b7 28. a8 g1 29. g2 a7 30. h1 h7 31. g7 h2 19-45
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.27"]
+[Round "-"]
+[Black "guitarium"]
+[White "yourwelcome"]
+[Result "46-18"]
+[Time "17:54:47"]
+[TimeControl "60"]
+[BlackElo "1923"]
+[WhiteElo "1856"]
+
+1. f5 f6 2. e6 d6 3. d7 g5 4. g6 e7 5. e8 f8 6. f7 d8 7. c8 b8 8. g7 c7 9. c5
+e3 10. c6 b4 11. b5 f4 12. c3 a5 13. b6 c4 14. h4 a6 15. g4 h3 16. f3 g3 17. d3
+c2 18. e2 e1 19. f1 g1 20. d2 d1 21. f2 h5 22. b3 h8 23. a4 h2 24. g8 g2 25. a8
+a3 26. b7 a7 27. a2 b2 28. b1 a1 29. c1 -- 30. h1 -- 31. h6 h7 46-18
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.27"]
+[Round "-"]
+[Black "yourwelcome"]
+[White "guitarium"]
+[Result "36-28"]
+[Time "17:52:38"]
+[TimeControl "60"]
+[BlackElo "1835"]
+[WhiteElo "1944"]
+
+1. f5 d6 2. c4 d3 3. e6 f4 4. e3 f3 5. c6 f6 6. g5 h6 7. c3 g6 8. d2 e7 9. f8
+d8 10. f7 d7 11. c7 c8 12. e8 g8 13. e2 e1 14. g3 f2 15. h5 h3 16. g4 h4 17. d1
+b8 18. g7 c5 19. b5 b6 20. b4 g2 21. a7 a3 22. b3 c1 23. c2 b1 24. f1 g1 25. h1
+h2 26. a1 b2 27. a2 a4 28. a5 a6 29. h7 h8 30. b7 a8 36-28
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.27"]
+[Round "-"]
+[Black "guitarium"]
+[White "yourwelcome"]
+[Result "45-19"]
+[Time "17:50:59"]
+[TimeControl "60"]
+[BlackElo "1932"]
+[WhiteElo "1847"]
+
+1. f5 f6 2. e6 d6 3. d7 g5 4. g6 f4 5. c5 f7 6. c6 e7 7. f8 e8 8. d8 h6 9. g8
+b5 10. g4 b6 11. e3 f3 12. h4 g3 13. c7 b8 14. c3 c4 15. d3 d2 16. b4 e2 17. c2
+b3 18. h3 h5 19. h7 d1 20. h2 g2 21. h1 g1 22. f1 g7 23. f2 -- 24. e1 -- 25. h8
+-- 26. c8 b7 27. a7 a6 28. a8 -- 29. a5 c1 30. b1 a3 31. a4 a2 32. a1 b2 45-19
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.27"]
+[Round "-"]
+[Black "yourwelcome"]
+[White "guitarium"]
+[Result "18-46"]
+[Time "17:48:51"]
+[TimeControl "60"]
+[BlackElo "1860"]
+[WhiteElo "1919"]
+
+1. f5 d6 2. c5 f4 3. d3 e3 4. g4 g5 5. e6 c4 6. g3 c3 7. f3 f6 8. g6 f2 9. c7
+b6 10. d7 c6 11. f7 e8 12. e2 f1 13. b5 d8 14. e7 a6 15. b4 a5 16. d2 e1 17. a3
+f8 18. c2 a4 19. b3 a2 20. c1 h3 21. b8 h6 22. h5 c8 23. g8 h4 24. b7 a7 25. g7
+h8 26. h7 a8 27. g1 h1 28. h2 g2 29. d1 b1 30. b2 a1 18-46
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.27"]
+[Round "-"]
+[Black "guitarium"]
+[White "yourwelcome"]
+[Result "43-21"]
+[Time "17:46:33"]
+[TimeControl "60"]
+[BlackElo "1904"]
+[WhiteElo "1875"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 f3 5. e6 e7 6. f7 c5 7. b6 b5 8. e3 g6 9. g4
+g5 10. h6 f2 11. d2 e2 12. g3 h5 13. h4 c1 14. d8 b4 15. h7 h2 16. c6 f8 17. c2
+b3 18. d7 a6 19. c7 b8 20. d1 f1 21. b1 e1 22. g1 b2 23. a1 a2 24. a3 a4 25. c8
+e8 26. a5 g2 27. g7 a7 28. a8 h8 29. g8 h3 30. b7 -- 31. h1 43-21
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.27"]
+[Round "-"]
+[Black "yourwelcome"]
+[White "guitarium"]
+[Result "33-31"]
+[Time "17:44:19"]
+[TimeControl "60"]
+[BlackElo "1856"]
+[WhiteElo "1923"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. e6 b3 5. e2 c5 6. d7 e3 7. d2 f6 8. f3 c2 9. b6
+e7 10. b5 b4 11. g6 g3 12. g5 c6 13. g4 h6 14. c7 d8 15. a4 h5 16. a3 c8 17. b7
+e1 18. d1 h4 19. f2 f1 20. g7 a8 21. f7 e8 22. g8 c1 23. f8 a5 24. h3 h2 25. g2
+h1 26. g1 a2 27. a6 a7 28. b2 h8 29. h7 a1 30. b1 -- 31. b8 33-31
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.27"]
+[Round "-"]
+[Black "guitarium"]
+[White "yourwelcome"]
+[Result "45-19"]
+[Time "17:42:29"]
+[TimeControl "60"]
+[BlackElo "1909"]
+[WhiteElo "1870"]
+
+1. f5 f6 2. e6 d6 3. e7 g5 4. c5 c6 5. e3 d3 6. c7 f3 7. f4 g4 8. h5 h4 9. f7
+h6 10. d7 g6 11. c4 b4 12. b3 b5 13. a4 a6 14. a3 f8 15. a5 e8 16. a7 d8 17. c3
+b2 18. c2 b1 19. d1 d2 20. e2 f2 21. g3 c8 22. b6 h3 23. g7 b7 24. e1 c1 25. a8
+b8 26. g8 f1 27. a2 h8 28. h2 g2 29. a1 h1 30. h7 -- 31. g1 45-19
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.27"]
+[Round "-"]
+[Black "yourwelcome"]
+[White "guitarium"]
+[Result "0-64"]
+[Time "17:40:18"]
+[TimeControl "60"]
+[BlackElo "1886"]
+[WhiteElo "1893"]
+
+1. f5 d6 2. c5 f4 3. d3 e3 4. g4 g5 5. e2 h3 6. e6 f6 7. g3 f3 8. h6 h4 9. f2
+f1 10. c7 e1 11. f7 e7 12. f8 d8 13. d7 c8 14. h5 e8 15. b8 c6 16. c4 g6 17. h2
+c2 18. d2 b4 19. h7 d1 20. c3 b3 21. a4 b6 22. a5 b5 23. g2 h1 24. g7 h8 25. g8
+a7 26. a3 a8 27. c1 b1 28. b2 a1 29. a2 a6 30. b7 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.27"]
+[Round "-"]
+[Black "guitarium"]
+[White "yourwelcome"]
+[Result "46-18"]
+[Time "17:38:14"]
+[TimeControl "60"]
+[BlackElo "1876"]
+[WhiteElo "1903"]
+
+1. f5 d6 2. c3 d3 3. c4 b3 4. c6 f4 5. e6 c5 6. b5 a6 7. e3 f3 8. b4 b6 9. a5
+a4 10. g4 c7 11. f2 d7 12. d2 g6 13. e2 c2 14. c1 e7 15. f6 f1 16. f7 d1 17. h6
+g5 18. h5 h3 19. h4 h7 20. f8 d8 21. b8 g7 22. b7 b2 23. e1 g3 24. g2 c8 25. e8
+h1 26. g1 b1 27. g8 a7 28. h2 -- 29. a8 -- 30. h8 -- 31. a3 a2 32. a1 46-18
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.27"]
+[Round "-"]
+[Black "yourwelcome"]
+[White "guitarium"]
+[Result "37-27"]
+[Time "17:36:11"]
+[TimeControl "60"]
+[BlackElo "1887"]
+[WhiteElo "1892"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. e3 g5 5. c6 b6 6. f6 c5 7. f3 e2 8. d2 g6 9. e6
+g3 10. f2 f7 11. g4 f1 12. h3 e1 13. d1 c1 14. b5 a5 15. c2 b1 16. g2 e7 17. h6
+h5 18. h4 h1 19. g1 h2 20. a1 b4 21. a4 a3 22. g7 g8 23. b2 b3 24. d7 a2 25. c7
+h7 26. f8 b8 27. c8 b7 28. d8 e8 29. h8 -- 30. a8 a7 31. a6 37-27
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.27"]
+[Round "-"]
+[Black "guitarium"]
+[White "yourwelcome"]
+[Result "26-38"]
+[Time "17:33:54"]
+[TimeControl "60"]
+[BlackElo "1910"]
+[WhiteElo "1869"]
+
+1. f5 d6 2. c3 f4 3. f6 f3 4. d3 c4 5. e3 e2 6. c6 d2 7. e6 c2 8. g3 g4 9. h3
+h5 10. f2 g5 11. e1 g6 12. c5 d1 13. h6 f1 14. h4 b6 15. b5 a6 16. b4 b3 17. b2
+e7 18. c7 d7 19. a5 a1 20. f8 e8 21. d8 f7 22. b7 a4 23. g2 b8 24. a8 c8 25. a7
+h1 26. a3 a2 27. g7 h8 28. h7 h2 29. g1 g8 30. b1 c1 26-38
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.27"]
+[Round "-"]
+[Black "yourwelcome"]
+[White "guitarium"]
+[Result "36-28"]
+[Time "17:31:53"]
+[TimeControl "60"]
+[BlackElo "1849"]
+[WhiteElo "1930"]
+
+1. f5 d6 2. c5 f4 3. e3 c6 4. d3 f6 5. e6 d7 6. g3 c4 7. b4 b3 8. b5 a4 9. a2
+a3 10. a5 d2 11. e2 g4 12. c3 e1 13. f3 f2 14. c7 c2 15. h4 b6 16. g6 c8 17. e7
+a6 18. a7 d8 19. f8 e8 20. b8 h6 21. g5 g7 22. f7 h3 23. h5 h7 24. g2 g1 25. f1
+d1 26. c1 b1 27. h1 h2 28. a1 b2 29. g8 h8 30. b7 a8 36-28
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.27"]
+[Round "-"]
+[Black "guitarium"]
+[White "yourwelcome"]
+[Result "0-64"]
+[Time "17:29:44"]
+[TimeControl "60"]
+[BlackElo "1951"]
+[WhiteElo "1828"]
+
+1. f5 d6 2. c3 d3 3. c4 b5 4. b4 f4 5. f6 f3 6. e6 e7 7. f7 c5 8. e3 g6 9. g5
+g3 10. g4 d2 11. e2 h5 12. c6 h4 13. h3 c2 14. d1 f1 15. e1 a4 16. c1 b3 17. c7
+b1 18. f8 h2 19. a6 a5 20. b6 d7 21. d8 a7 22. h7 c8 23. g7 f2 24. h6 h8 25. g8
+g2 26. a2 e8 27. b2 a1 28. a3 -- 29. a8 -- 30. b8 b7 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.26"]
+[Round "-"]
+[Black "boykrajork"]
+[White "guitarium"]
+[Result "0-64"]
+[Time "10:31:27"]
+[TimeControl "60"]
+[BlackElo "1675"]
+[WhiteElo "1945"]
+
+1. e6 f4 2. c3 c4 3. d3 d6 4. c5 c6 5. d7 f6 6. c7 b6 7. e7 b5 8. f7 e3 9. b4
+c8 10. a5 d2 11. g5 f5 12. d1 g6 13. a6 f8 14. f2 e2 15. f1 c2 16. b3 e1 17. g3
+f3 18. g4 c1 19. b1 h5 20. e8 d8 21. h7 h6 22. h4 h2 23. g7 g8 24. b7 b8 25. h3
+h8 26. -- a8 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.26"]
+[Round "-"]
+[Black "guitarium"]
+[White "boykrajork"]
+[Result "40-24"]
+[Time "10:29:09"]
+[TimeControl "60"]
+[BlackElo "1939"]
+[WhiteElo "1681"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. e3 f6 5. g5 h5 6. g6 h6 7. c5 f3 8. g3 c2 9. d2
+g4 10. h4 h3 11. c7 b4 12. b5 h2 13. a3 f2 14. e2 c1 15. e1 b3 16. a2 e6 17. e7
+a6 18. a5 b6 19. g7 d7 20. c6 d1 21. b1 e8 22. d8 f7 23. f1 c8 24. g8 h8 25. h7
+f8 26. h1 a4 27. a7 b2 28. g1 g2 29. a1 b7 30. b8 a8 40-24
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.25"]
+[Round "-"]
+[Black "reversimax"]
+[White "guitarium"]
+[Result "22-42"]
+[Time "09:25:24"]
+[TimeControl "60"]
+[BlackElo "1658"]
+[WhiteElo "1934"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. e6 f6 5. e3 c5 6. c6 b5 7. b6 f3 8. b4 e2 9. d7
+a5 10. a4 a3 11. g5 g4 12. f7 e7 13. d2 f2 14. c7 c1 15. d1 b3 16. e1 f1 17. c2
+a6 18. g6 f8 19. g3 g2 20. e8 c8 21. g8 d8 22. b8 b7 23. a2 a1 24. h1 b1 25. b2
+h5 26. h4 h3 27. g1 h6 28. a8 a7 29. g7 h8 30. h7 h2 22-42
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.25"]
+[Round "-"]
+[Black "guitarium"]
+[White "reversimax"]
+[Result "47-17"]
+[Time "09:23:35"]
+[TimeControl "60"]
+[BlackElo "1928"]
+[WhiteElo "1664"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e3 f3 6. e6 e7 7. d7 e2 8. f1 c2 9. d2
+d1 10. c1 c8 11. e1 c7 12. f2 c6 13. g3 b4 14. a5 b2 15. b3 a2 16. a4 b5 17. a6
+b6 18. c5 h3 19. a1 b1 20. a3 g2 21. g4 g1 22. h1 h2 23. h4 -- 24. a7 -- 25. h6
+h5 26. f7 g6 27. h7 h8 28. g7 g8 29. b8 a8 30. b7 -- 31. d8 e8 32. f8 47-17
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.25"]
+[Round "-"]
+[Black "reversimax"]
+[White "guitarium"]
+[Result "28-36"]
+[Time "09:21:15"]
+[TimeControl "60"]
+[BlackElo "1670"]
+[WhiteElo "1922"]
+
+1. f5 d6 2. c3 d3 3. c6 f4 4. f3 e3 5. c4 c5 6. d2 b4 7. f6 b3 8. e6 c7 9. c2
+e2 10. f2 c1 11. b5 e7 12. d7 f7 13. b6 c8 14. a4 a6 15. a3 a5 16. a7 e1 17. d1
+b1 18. f1 b2 19. b7 g1 20. e8 d8 21. a1 a2 22. h1 a8 23. b8 f8 24. g2 g4 25. g3
+g6 26. h4 g5 27. h5 h6 28. h7 g7 29. h8 g8 30. -- h2 31. h3 28-36
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.25"]
+[Round "-"]
+[Black "guitarium"]
+[White "reversimax"]
+[Result "64-0"]
+[Time "09:18:58"]
+[TimeControl "60"]
+[BlackElo "1916"]
+[WhiteElo "1676"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e3 f3 6. e6 f7 7. h5 b4 8. e7 c6 9. b5
+g6 10. g4 e2 11. d2 d1 12. g3 f2 13. c5 c7 14. c2 d7 15. f8 e8 16. h6 g8 17. b6
+g7 18. b3 c1 19. c8 d8 20. h8 h7 21. b2 a6 22. b8 a5 23. f1 a1 24. e1 a4 25. b7
+64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.25"]
+[Round "-"]
+[Black "reversimax"]
+[White "guitarium"]
+[Result "0-64"]
+[Time "09:16:28"]
+[TimeControl "60"]
+[BlackElo "1683"]
+[WhiteElo "1909"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 f7 6. g3 f3 7. e3 c5 8. g4 e7 9. h5
+e2 10. c6 d2 11. c2 h6 12. d7 f2 13. g6 h3 14. h7 h4 15. h2 c8 16. c1 b3 17. f1
+b4 18. b6 b5 19. a3 d1 20. e1 a2 21. a1 a6 22. a4 b2 23. a5 b1 24. a7 b7 25. a8
+c7 26. b8 d8 27. e8 g2 28. h1 g1 29. g7 g8 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.25"]
+[Round "-"]
+[Black "guitarium"]
+[White "reversimax"]
+[Result "0-64"]
+[Time "09:14:21"]
+[TimeControl "60"]
+[BlackElo "1936"]
+[WhiteElo "1656"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e3 e7 6. e6 d7 7. g3 c5 8. b6 b4 9. c6
+b5 10. c7 b3 11. d8 e8 12. a4 a6 13. a3 f2 14. a5 e2 15. a7 c2 16. f8 f7 17. g8
+c8 18. b8 g4 19. c1 h4 20. h3 g6 21. h6 h2 22. f1 e1 23. d1 d2 24. f3 g2 25. g1
+h1 26. h5 h7 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.25"]
+[Round "-"]
+[Black "reversimax"]
+[White "guitarium"]
+[Result "21-43"]
+[Time "09:12:28"]
+[TimeControl "60"]
+[BlackElo "1662"]
+[WhiteElo "1930"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 f7 6. c7 c5 7. c6 e3 8. d2 e7 9. f2
+e2 10. f1 c2 11. c1 d7 12. d8 b5 13. b4 b6 14. a5 a3 15. a6 a4 16. a2 b3 17. f3
+e8 18. g4 h3 19. g6 c8 20. h6 h4 21. b7 g3 22. h5 h7 23. g8 f8 24. b8 d1 25. g2
+a8 26. a7 a1 27. e1 h2 28. g7 h1 29. g1 b1 30. b2 h8 21-43
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.25"]
+[Round "-"]
+[Black "guitarium"]
+[White "reversimax"]
+[Result "24-40"]
+[Time "09:10:11"]
+[TimeControl "60"]
+[BlackElo "1958"]
+[WhiteElo "1634"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e3 f3 6. e6 f7 7. h5 b4 8. e7 c6 9. d7
+d2 10. e2 f2 11. g4 c5 12. b6 h4 13. h3 h6 14. h7 g3 15. h2 g6 16. f8 c7 17. b5
+c2 18. a3 c8 19. b3 d8 20. e8 g8 21. b7 b2 22. a1 g2 23. g1 b8 24. h1 f1 25. d1
+e1 26. g7 a8 27. a7 a6 28. a5 a4 29. -- a2 30. c1 b1 31. -- h8 24-40
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.25"]
+[Round "-"]
+[Black "reversimax"]
+[White "guitarium"]
+[Result "24-40"]
+[Time "09:08:02"]
+[TimeControl "60"]
+[BlackElo "1638"]
+[WhiteElo "1954"]
+
+1. f5 d6 2. c5 f4 3. e3 c6 4. e6 f6 5. d7 c7 6. e7 e8 7. d8 c8 8. f7 f8 9. b6
+a6 10. g4 b5 11. b4 c4 12. g5 g6 13. a5 d3 14. a7 a3 15. b7 a4 16. d2 f3 17. a2
+c2 18. e2 b3 19. g3 c3 20. h7 d1 21. e1 f1 22. f2 g1 23. b1 a8 24. b8 a1 25. g7
+c1 26. b2 h4 27. h6 h5 28. h3 g2 29. h1 h2 30. g8 h8 24-40
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.25"]
+[Round "-"]
+[Black "guitarium"]
+[White "reversimax"]
+[Result "38-26"]
+[Time "09:05:40"]
+[TimeControl "60"]
+[BlackElo "1949"]
+[WhiteElo "1643"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e3 f3 6. e6 e7 7. d7 e2 8. g4 c5 9. c6
+c7 10. d2 f2 11. g3 c1 12. f7 g6 13. d8 f8 14. c8 c2 15. f1 e1 16. d1 h4 17. e8
+g1 18. g8 h3 19. g2 b3 20. a3 b4 21. a4 b6 22. b5 a6 23. h6 a5 24. a7 b7 25. b8
+g7 26. h5 h7 27. h8 a8 28. h2 a2 29. b1 h1 30. b2 a1 38-26
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.25"]
+[Round "-"]
+[Black "reversimax"]
+[White "guitarium"]
+[Result "19-45"]
+[Time "09:03:33"]
+[TimeControl "60"]
+[BlackElo "1648"]
+[WhiteElo "1944"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 f7 6. e3 c5 7. d7 e7 8. c6 c8 9. d8
+e8 10. f8 g8 11. g3 c7 12. h5 b6 13. a7 g4 14. b7 f3 15. h4 d2 16. g6 e2 17. c2
+b5 18. d1 f2 19. b3 b4 20. a4 a5 21. e1 h6 22. h7 h2 23. a6 b2 24. h3 h8 25. g7
+a3 26. a1 a8 27. a2 b8 28. -- g2 29. g1 f1 30. -- h1 31. -- c1 32. b1 19-45
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.25"]
+[Round "-"]
+[Black "guitarium"]
+[White "reversimax"]
+[Result "42-22"]
+[Time "09:01:13"]
+[TimeControl "60"]
+[BlackElo "1939"]
+[WhiteElo "1653"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e3 f3 6. e6 c5 7. g3 f2 8. g6 e7 9. h5
+g4 10. h4 b4 11. d2 e2 12. c2 d1 13. f1 h3 14. h2 h7 15. e1 g1 16. f7 b3 17. b1
+g8 18. a3 g2 19. a5 a4 20. h1 c1 21. b2 a6 22. a7 a1 23. d7 d8 24. c7 b7 25. b5
+b6 26. c6 h6 27. a8 b8 28. c8 e8 29. f8 g7 30. a2 -- 31. h8 42-22
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.25"]
+[Round "-"]
+[Black "reversimax"]
+[White "guitarium"]
+[Result "19-45"]
+[Time "08:59:01"]
+[TimeControl "60"]
+[BlackElo "1658"]
+[WhiteElo "1934"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. c5 b3 5. c2 b4 6. e3 e6 7. f3 f6 8. a3 g5 9. a4
+g3 10. h3 e2 11. g4 f2 12. e1 d2 13. b6 h4 14. c6 d1 15. c1 f1 16. g1 b2 17. e7
+a5 18. b5 a2 19. a1 b7 20. b8 a6 21. g2 b1 22. h5 h1 23. a7 h2 24. f7 g6 25. h6
+h7 26. g7 h8 27. g8 f8 28. c7 d7 29. e8 a8 30. c8 d8 19-45
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.25"]
+[Round "-"]
+[Black "guitarium"]
+[White "reversimax"]
+[Result "54-7"]
+[Time "08:56:46"]
+[TimeControl "60"]
+[BlackElo "1928"]
+[WhiteElo "1664"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e3 f3 6. e6 f7 7. h5 h4 8. h3 c5 9. g3
+b4 10. g6 e7 11. g4 c2 12. f8 d2 13. e8 g7 14. c7 h7 15. c6 f2 16. e1 h6 17. e2
+g1 18. b3 g2 19. h1 h2 20. d1 a3 21. f1 b5 22. b6 c8 23. a5 a4 24. g8 a6 25. h8
+d7 26. d8 c1 27. b8 -- 28. b1 -- 29. b7 -- 30. b2 a2 54-7
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.25"]
+[Round "-"]
+[Black "deviltunai"]
+[White "guitarium"]
+[Result "0-64"]
+[Time "08:49:36"]
+[TimeControl "60"]
+[BlackElo "1637"]
+[WhiteElo "1923"]
+
+1. f5 d6 2. c5 f4 3. e3 c6 4. d3 f6 5. e6 d7 6. g3 c4 7. b4 b3 8. g5 c3 9. b5
+a5 10. a4 a3 11. b6 a6 12. f7 g6 13. c2 h4 14. h6 e8 15. f8 e7 16. h7 g8 17. g4
+h3 18. c7 d8 19. b8 b2 20. g7 h8 21. b7 h5 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.25"]
+[Round "-"]
+[Black "guitarium"]
+[White "deviltunai"]
+[Result "64-0"]
+[Time "08:47:31"]
+[TimeControl "60"]
+[BlackElo "1918"]
+[WhiteElo "1642"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 f3 5. e6 e7 6. f7 c5 7. b6 b4 8. a5 b3 9. c6
+d7 10. b5 c7 11. e3 g5 12. g6 g4 13. c8 a6 14. e8 d8 15. a4 b7 16. f8 d2 17. h5
+h4 18. h3 g3 19. c2 b8 20. h2 h6 21. h7 g7 22. h8 g8 23. c1 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.25"]
+[Round "-"]
+[Black "deviltunai"]
+[White "guitarium"]
+[Result "0-64"]
+[Time "08:45:22"]
+[TimeControl "60"]
+[BlackElo "1648"]
+[WhiteElo "1912"]
+
+1. f5 d6 2. c5 f4 3. d7 f6 4. d3 c3 5. b3 c2 6. c1 a3 7. c4 b4 8. a5 e6 9. e3
+d2 10. e2 f1 11. f3 d1 12. c6 a4 13. a2 b5 14. e1 b1 15. a6 e7 16. b6 c8 17. g4
+g3 18. g5 c7 19. f8 d8 20. h3 g6 21. f7 f2 22. h6 g7 23. e8 g8 24. b7 b8 25. h7
+h8 26. g1 h1 27. b2 h5 28. h4 a8 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.25"]
+[Round "-"]
+[Black "guitarium"]
+[White "deviltunai"]
+[Result "51-13"]
+[Time "08:43:17"]
+[TimeControl "60"]
+[BlackElo "1906"]
+[WhiteElo "1654"]
+
+1. f5 d6 2. c3 g5 3. c6 b6 4. f6 e7 5. h5 f4 6. g6 c5 7. f7 d3 8. f3 e3 9. c4
+b5 10. b4 a3 11. e6 d2 12. e2 g4 13. h3 c2 14. d1 f1 15. e1 g3 16. f2 c1 17. h4
+g1 18. b3 a4 19. d8 g2 20. d7 e8 21. c8 b8 22. f8 g8 23. c7 b7 24. a6 a5 25. a2
+h6 26. h1 h2 27. b1 b2 28. a7 -- 29. a8 -- 30. a1 -- 31. g7 h7 32. h8 51-13
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.23"]
+[Round "-"]
+[Black "guitarium"]
+[White "x0ca"]
+[Result "50-14"]
+[Time "00:21:21"]
+[TimeControl "60"]
+[BlackElo "1901"]
+[WhiteElo "1596"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 c5 6. f3 e3 7. g4 f7 8. e7 g6 9. h6
+h5 10. h4 f8 11. f2 e2 12. e1 b5 13. d2 c2 14. b3 d1 15. c1 a3 16. b4 h3 17. h2
+g3 18. a6 a5 19. h7 g1 20. f1 b1 21. a4 a7 22. d7 c8 23. c6 b6 24. c7 d8 25. g2
+b2 26. a1 g7 27. h1 a2 28. a8 -- 29. b8 b7 30. h8 g8 31. e8 50-14
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.23"]
+[Round "-"]
+[Black "x0ca"]
+[White "guitarium"]
+[Result "0-64"]
+[Time "00:19:15"]
+[TimeControl "60"]
+[BlackElo "1601"]
+[WhiteElo "1896"]
+
+1. e6 f6 2. f5 f4 3. e3 d6 4. e7 f7 5. c6 c5 6. c4 f3 7. d7 e8 8. g4 g5 9. h6
+h4 10. f2 h3 11. g6 g3 12. d8 h5 13. h2 d3 14. e2 d2 15. c1 c2 16. c3 c8 17. c7
+d1 18. f8 g8 19. h7 f1 20. e1 b1 21. g2 b8 22. b7 a8 23. b6 a5 24. a6 a7 25. b4
+a3 26. a4 b5 27. b3 h1 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.23"]
+[Round "-"]
+[Black "guitarium"]
+[White "x0ca"]
+[Result "38-26"]
+[Time "00:17:01"]
+[TimeControl "60"]
+[BlackElo "1891"]
+[WhiteElo "1606"]
+
+1. f5 d6 2. c5 f4 3. e3 d3 4. e6 f3 5. c4 f6 6. d2 c6 7. d7 c2 8. e2 d1 9. f1
+c1 10. f2 e1 11. b1 b3 12. c3 b4 13. c7 b5 14. e7 f7 15. a6 e8 16. a5 a3 17. b6
+d8 18. g5 g4 19. g6 a4 20. c8 a7 21. h3 h4 22. h5 b8 23. b7 b2 24. f8 g8 25. a1
+a8 26. g7 g3 27. a2 g1 28. h1 -- 29. g2 -- 30. h2 -- 31. h6 h7 32. h8 38-26
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.23"]
+[Round "-"]
+[Black "x0ca"]
+[White "guitarium"]
+[Result "0-64"]
+[Time "00:14:49"]
+[TimeControl "60"]
+[BlackElo "1611"]
+[WhiteElo "1886"]
+
+1. e6 f6 2. f5 f4 3. e3 c5 4. g5 d3 5. g6 e7 6. d6 f7 7. c4 d7 8. c3 g3 9. g4
+h4 10. h6 h3 11. b6 f3 12. c6 c7 13. f2 h5 14. h2 b5 15. a6 a4 16. b4 b3 17. a3
+a5 18. h7 d2 19. c2 e2 20. c1 e1 21. b2 f1 22. d1 g2 23. d8 e8 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.23"]
+[Round "-"]
+[Black "guitarium"]
+[White "x0ca"]
+[Result "51-13"]
+[Time "00:12:47"]
+[TimeControl "60"]
+[BlackElo "1880"]
+[WhiteElo "1617"]
+
+1. f5 d6 2. c5 f4 3. d3 e3 4. g4 g5 5. f2 c4 6. e6 c6 7. f3 f6 8. h6 d2 9. c2
+e2 10. c3 g6 11. b4 h3 12. h5 g3 13. f1 d1 14. b5 e1 15. c1 b6 16. c7 a5 17. e7
+f7 18. g1 e8 19. a4 d7 20. a6 b3 21. d8 a3 22. a2 b2 23. g2 b8 24. c8 b7 25. b1
+h1 26. a1 -- 27. a8 -- 28. a7 -- 29. f8 g7 30. h7 g8 31. h8 -- 32. h4 -- 33. h2
+51-13
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.23"]
+[Round "-"]
+[Black "x0ca"]
+[White "guitarium"]
+[Result "15-49"]
+[Time "00:10:42"]
+[TimeControl "60"]
+[BlackElo "1623"]
+[WhiteElo "1874"]
+
+1. e6 f4 2. e3 d6 3. c5 f3 4. f5 f6 5. g4 g3 6. g5 h5 7. h4 h3 8. f2 e2 9. c7
+h6 10. e7 f1 11. g6 h7 12. g2 d3 13. c3 d2 14. d1 e1 15. g1 f7 16. f8 d7 17. d8
+c8 18. g7 b5 19. a5 c1 20. c2 h2 21. b8 h1 22. -- e8 23. g8 h8 24. -- a8 25. --
+c6 26. c4 b6 27. a7 b1 28. b7 a6 29. b4 b3 30. a4 a3 31. b2 a2 32. a1 15-49
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.23"]
+[Round "-"]
+[Black "guitarium"]
+[White "x0ca"]
+[Result "53-11"]
+[Time "00:08:39"]
+[TimeControl "60"]
+[BlackElo "1867"]
+[WhiteElo "1630"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 c5 6. f3 e3 7. g4 f7 8. e7 g6 9. h5
+b4 10. f8 d2 11. d7 d8 12. e2 f1 13. d1 f2 14. c2 h3 15. e1 c1 16. h4 h6 17. g3
+e8 18. c8 c7 19. g8 h2 20. c6 b6 21. b7 a7 22. a3 b5 23. a4 a6 24. a5 a2 25. b8
+g7 26. a8 -- 27. a1 -- 28. b3 b2 29. b1 -- 30. g1 g2 31. h1 -- 32. h7 h8 53-11
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.23"]
+[Round "-"]
+[Black "x0ca"]
+[White "guitarium"]
+[Result "19-45"]
+[Time "00:06:25"]
+[TimeControl "60"]
+[BlackElo "1637"]
+[WhiteElo "1860"]
+
+1. e6 f4 2. e3 d6 3. c5 d3 4. f5 f6 5. c4 f3 6. d2 c6 7. d7 c2 8. e2 d1 9. f1
+c1 10. f2 e1 11. g5 g4 12. e7 c3 13. b1 c7 14. g6 h5 15. h3 h4 16. b6 b5 17. c8
+f8 18. d8 h2 19. a4 a5 20. a6 b3 21. b4 a3 22. h6 g3 23. h1 a7 24. b2 g1 25. g2
+a2 26. b7 a1 27. e8 a8 28. b8 f7 29. g8 h8 30. -- g7 31. h7 19-45
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.23"]
+[Round "-"]
+[Black "guitarium"]
+[White "x0ca"]
+[Result "0-64"]
+[Time "00:04:05"]
+[TimeControl "60"]
+[BlackElo "1887"]
+[WhiteElo "1610"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e3 f3 6. e6 c5 7. g3 e2 8. g4 d2 9. c2
+f7 10. e7 g6 11. h6 f2 12. c7 c6 13. d7 h3 14. c1 b5 15. b6 d1 16. b3 b4 17. a3
+a5 18. e1 f1 19. g1 h5 20. a6 e8 21. a4 d8 22. g8 c8 23. g7 h8 24. f8 h7 25. h2
+h1 26. g2 b2 27. b1 a1 28. h4 a2 29. b7 a8 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.23"]
+[Round "-"]
+[Black "x0ca"]
+[White "guitarium"]
+[Result "0-64"]
+[Time "00:02:14"]
+[TimeControl "60"]
+[BlackElo "1616"]
+[WhiteElo "1881"]
+
+1. e6 f4 2. e3 d6 3. c5 f3 4. f5 f6 5. g4 g3 6. g5 h5 7. h4 h3 8. g6 h6 9. f2
+f1 10. c7 e2 11. e7 f7 12. g8 c3 13. d3 c2 14. d2 e1 15. b3 b4 16. c1 a3 17. c4
+d7 18. d8 c6 19. a5 a4 20. a2 d1 21. b6 b5 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.22"]
+[Round "-"]
+[Black "guitarium"]
+[White "x0ca"]
+[Result "45-19"]
+[Time "23:59:55"]
+[TimeControl "60"]
+[BlackElo "1875"]
+[WhiteElo "1622"]
+
+1. f5 d6 2. c3 f4 3. f6 d3 4. c4 g5 5. e3 f3 6. e6 c5 7. g3 e2 8. f1 f2 9. e1
+d2 10. c2 b4 11. b5 b3 12. g6 e7 13. h5 g4 14. h4 a6 15. f7 f8 16. a3 c1 17. c7
+d1 18. c6 a4 19. d7 b6 20. b1 c8 21. b2 h2 22. h3 h6 23. g7 h7 24. h8 g1 25. h1
+g2 26. a5 g8 27. a7 a1 28. e8 d8 29. b8 b7 30. a8 -- 31. a2 45-19
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.22"]
+[Round "-"]
+[Black "crimsonfart"]
+[White "guitarium"]
+[Result "22-42"]
+[Time "23:53:36"]
+[TimeControl "60"]
+[BlackElo "1565"]
+[WhiteElo "1870"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 d7 6. g3 f3 7. e3 c5 8. e7 f8 9. g6
+g4 10. b6 f2 11. h5 e2 12. d2 f7 13. f1 b5 14. a6 b4 15. a5 e1 16. d1 c1 17. b1
+c2 18. b3 g2 19. d8 h2 20. h4 e8 21. g8 c6 22. c7 h3 23. h1 g1 24. -- a1 25. --
+a3 26. a4 c8 27. b8 a2 28. b2 a7 29. b7 a8 30. -- h8 31. -- g7 32. h7 h6 22-42
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.22"]
+[Round "-"]
+[Black "guitarium"]
+[White "crimsonfart"]
+[Result "43-21"]
+[Time "23:51:20"]
+[TimeControl "60"]
+[BlackElo "1865"]
+[WhiteElo "1570"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 c5 6. f3 b5 7. e3 g4 8. h4 e7 9. h3
+d2 10. d7 f7 11. c6 c8 12. e2 h6 13. h5 e1 14. h7 g6 15. f2 c2 16. f1 b6 17. a5
+g3 18. d8 e8 19. h2 d1 20. a6 g1 21. b1 b3 22. b4 a3 23. a4 a7 24. c7 b7 25. b2
+c1 26. h1 g7 27. f8 h8 28. g8 g2 29. a8 b8 30. a2 a1 43-21
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.22"]
+[Round "-"]
+[Black "crimsonfart"]
+[White "guitarium"]
+[Result "26-38"]
+[Time "23:49:16"]
+[TimeControl "60"]
+[BlackElo "1575"]
+[WhiteElo "1860"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 f7 6. e3 c5 7. d7 e7 8. c6 c8 9. g4
+f3 10. g3 h4 11. c7 b6 12. e8 b5 13. b4 d8 14. b8 a3 15. h3 b3 16. h5 c2 17. c1
+d2 18. d1 e2 19. e1 g6 20. a5 a4 21. h6 a6 22. f8 h7 23. h8 g8 24. g7 a8 25. a2
+a1 26. -- b2 27. b1 f2 28. g2 f1 29. g1 h1 30. -- h2 31. -- b7 32. a7 26-38
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.22"]
+[Round "-"]
+[Black "guitarium"]
+[White "crimsonfart"]
+[Result "58-6"]
+[Time "23:47:09"]
+[TimeControl "60"]
+[BlackElo "1854"]
+[WhiteElo "1581"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 c5 6. f3 b5 7. e3 g4 8. h4 e7 9. h3
+g6 10. h7 e2 11. f7 f2 12. d8 c2 13. d7 f8 14. c6 b6 15. a6 c7 16. c8 a5 17. a4
+b4 18. b3 e8 19. g8 h6 20. h5 a2 21. g3 g7 22. h8 h2 23. h1 -- 24. g2 -- 25. f1
+d2 26. a7 e1 27. b7 g1 28. d1 a3 29. a1 c1 30. b2 b8 31. b1 -- 32. a8 58-6
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.22"]
+[Round "-"]
+[Black "crimsonfart"]
+[White "guitarium"]
+[Result "21-43"]
+[Time "23:45:06"]
+[TimeControl "60"]
+[BlackElo "1587"]
+[WhiteElo "1848"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 c5 6. f3 b5 7. d2 f7 8. e7 g6 9. h6
+f8 10. b4 h4 11. h5 h7 12. a6 g4 13. b6 g3 14. c6 e2 15. e8 d8 16. h2 d7 17. f1
+e3 18. g2 c2 19. c7 a3 20. b3 e1 21. c1 d1 22. f2 c8 23. b7 a8 24. b8 a7 25. g7
+h3 26. h8 g8 27. -- h1 28. -- g1 29. -- b1 30. b2 a5 31. a4 a2 32. a1 21-43
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.22"]
+[Round "-"]
+[Black "guitarium"]
+[White "crimsonfart"]
+[Result "41-23"]
+[Time "23:43:07"]
+[TimeControl "60"]
+[BlackElo "1842"]
+[WhiteElo "1593"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e3 f7 6. g6 f3 7. h5 e2 8. e7 c5 9. g4
+g3 10. f2 d2 11. h4 h6 12. h7 b5 13. f8 h2 14. d1 c2 15. e6 e8 16. d8 g1 17. f1
+e1 18. c1 g2 19. c7 d7 20. c8 b1 21. c6 g7 22. b6 a6 23. h8 b4 24. h3 g8 25. h1
+b7 26. a1 b8 27. a8 a7 28. a5 a3 29. a4 b2 30. a2 b3 41-23
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.22"]
+[Round "-"]
+[Black "crimsonfart"]
+[White "guitarium"]
+[Result "24-40"]
+[Time "23:41:24"]
+[TimeControl "60"]
+[BlackElo "1600"]
+[WhiteElo "1835"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 f7 6. g3 f3 7. e3 c5 8. g4 e2 9. d2
+g6 10. b6 h3 11. e1 f2 12. h4 h5 13. f1 e7 14. c6 b5 15. d7 b4 16. e8 c2 17. a3
+a4 18. a6 a5 19. b3 c1 20. f8 h2 21. h7 d1 22. b1 c7 23. c8 b7 24. b8 a8 25. a7
+d8 26. g7 h6 27. h1 h8 28. g2 g8 29. -- g1 30. -- a1 31. -- a2 32. b2 24-40
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.22"]
+[Round "-"]
+[Black "guitarium"]
+[White "crimsonfart"]
+[Result "36-28"]
+[Time "23:39:35"]
+[TimeControl "60"]
+[BlackElo "1828"]
+[WhiteElo "1607"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 c5 6. f3 e3 7. g4 f7 8. e7 g6 9. h5
+b4 10. f8 h6 11. g3 d8 12. e8 h4 13. h3 h2 14. c7 f2 15. c8 d7 16. e2 e1 17. g7
+c2 18. c6 b6 19. a5 a6 20. b3 b5 21. a3 h8 22. a4 a2 23. h7 g8 24. h1 b8 25. g2
+g1 26. d2 b2 27. f1 d1 28. c1 b1 29. a1 b7 30. a7 a8 36-28
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.22"]
+[Round "-"]
+[Black "crimsonfart"]
+[White "guitarium"]
+[Result "26-38"]
+[Time "23:37:34"]
+[TimeControl "60"]
+[BlackElo "1615"]
+[WhiteElo "1820"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 f7 6. g3 f3 7. e3 c5 8. g4 e7 9. b6
+e2 10. c6 d2 11. c2 b5 12. d7 b4 13. c7 g6 14. h5 h6 15. f8 h4 16. h3 h2 17. e1
+f1 18. d1 f2 19. a3 a4 20. a6 a5 21. b3 c1 22. g2 g7 23. b2 g8 24. h8 h1 25. h7
+g1 26. e8 b8 27. d8 a1 28. a2 b7 29. c8 a8 30. a7 b1 26-38
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.22"]
+[Round "-"]
+[Black "guitarium"]
+[White "crimsonfart"]
+[Result "33-31"]
+[Time "23:35:25"]
+[TimeControl "60"]
+[BlackElo "1812"]
+[WhiteElo "1623"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e3 f3 6. e6 c5 7. g3 b4 8. g4 h4 9. h3
+e2 10. e1 d2 11. c7 g6 12. h6 f1 13. g1 h5 14. f2 g2 15. c2 d7 16. d1 e7 17. b3
+f7 18. a5 a3 19. e8 f8 20. c8 d8 21. g8 g7 22. b6 c6 23. b5 a6 24. a4 c1 25. b1
+b2 26. a1 a2 27. h1 h2 28. h8 h7 29. b7 a8 30. a7 b8 33-31
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "guitarium"]
+[White "gerfix"]
+[Result "43-21"]
+[Time "11:26:16"]
+[TimeControl "60"]
+[BlackElo "1801"]
+[WhiteElo "1698"]
+
+1. f5 f6 2. e6 f4 3. g5 e7 4. e3 g3 5. f3 d6 6. h3 h5 7. c4 c3 8. c5 b4 9. g6
+f7 10. b5 b3 11. d3 c6 12. b6 a5 13. d7 a6 14. e8 g4 15. h6 h7 16. f8 d2 17. e2
+c7 18. b8 g7 19. h4 e1 20. c2 f2 21. c1 h2 22. g1 f1 23. d1 d8 24. h8 b7 25. h1
+g2 26. a8 a7 27. a4 a3 28. a2 b2 29. c8 g8 30. b1 a1 43-21
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "gerfix"]
+[White "guitarium"]
+[Result "12-52"]
+[Time "11:24:35"]
+[TimeControl "60"]
+[BlackElo "1710"]
+[WhiteElo "1789"]
+
+1. d3 c5 2. d6 e3 3. f4 c6 4. f5 c3 5. c4 b5 6. f2 e6 7. e7 f7 8. d2 f6 9. d7
+d8 10. e8 f8 11. c7 c8 12. b3 c2 13. g6 e1 14. c1 a4 15. a3 b4 16. a5 b6 17. a6
+g7 18. b1 h6 19. e2 g1 20. f3 d1 21. b7 a1 22. f1 g2 23. h3 a2 24. h1 b2 25. h7
+g8 26. g5 h8 27. -- b8 28. a8 a7 29. -- h5 30. h4 h2 31. g3 g4 12-52
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "guitarium"]
+[White "gerfix"]
+[Result "42-22"]
+[Time "11:22:52"]
+[TimeControl "60"]
+[BlackElo "1775"]
+[WhiteElo "1724"]
+
+1. f5 f6 2. e6 f4 3. g5 e7 4. e3 g3 5. f3 d6 6. h3 h5 7. c4 c3 8. c5 b4 9. g6
+f7 10. b5 d3 11. c6 b3 12. a4 c7 13. b6 a3 14. d2 a5 15. d7 e8 16. h6 h4 17. g4
+d1 18. f8 g8 19. c8 g7 20. d8 e2 21. f2 g1 22. h8 g2 23. e1 f1 24. b8 h7 25. c2
+b1 26. c1 b2 27. a7 b7 28. h1 h2 29. a8 -- 30. a6 -- 31. a2 a1 42-22
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "gerfix"]
+[White "guitarium"]
+[Result "11-53"]
+[Time "11:21:08"]
+[TimeControl "60"]
+[BlackElo "1739"]
+[WhiteElo "1760"]
+
+1. d3 c5 2. e6 f5 3. d6 e3 4. f4 f3 5. g6 c6 6. c4 g5 7. e2 c7 8. g3 f6 9. e7
+c2 10. h5 c3 11. f7 d2 12. b6 d7 13. f2 g4 14. b5 b4 15. a3 f8 16. b3 e8 17. c8
+h4 18. h6 h7 19. e1 c1 20. d8 b8 21. h3 h2 22. g7 d1 23. b1 g1 24. b7 a8 25. a7
+a4 26. g2 h1 27. a5 a6 28. -- f1 29. -- g8 30. h8 a1 31. -- b2 32. -- a2 11-53
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "guitarium"]
+[White "gerfix"]
+[Result "46-18"]
+[Time "11:19:14"]
+[TimeControl "60"]
+[BlackElo "1743"]
+[WhiteElo "1756"]
+
+1. f5 f6 2. e6 f4 3. g5 e7 4. e3 g3 5. f3 d6 6. h3 h5 7. c4 c3 8. g6 h6 9. c5
+g4 10. c7 d3 11. d2 f2 12. h4 e2 13. h7 c1 14. c2 g2 15. d7 b3 16. f8 b4 17. f7
+b6 18. a5 c6 19. b5 c8 20. e8 d8 21. b8 a4 22. d1 f1 23. e1 g1 24. a6 a7 25. a2
+b7 26. a8 a3 27. h2 a1 28. b1 g7 29. h1 -- 30. b2 -- 31. g8 h8 46-18
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "gerfix"]
+[White "guitarium"]
+[Result "26-38"]
+[Time "11:17:28"]
+[TimeControl "60"]
+[BlackElo "1774"]
+[WhiteElo "1725"]
+
+1. d3 c5 2. d6 e3 3. f4 c6 4. f5 c3 5. c4 b5 6. f2 e6 7. e7 f7 8. d2 f6 9. d7
+d8 10. e8 f8 11. c7 c8 12. b3 c2 13. g6 e1 14. c1 a3 15. b4 h6 16. a6 b2 17. b8
+a8 18. a1 b1 19. a2 b7 20. g7 g5 21. h5 h4 22. h7 g4 23. h3 g3 24. f3 e2 25. d1
+g2 26. h1 h2 27. g1 f1 28. a4 a5 29. b6 a7 30. g8 h8 26-38
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "guitarium"]
+[White "gerfix"]
+[Result "48-16"]
+[Time "11:15:53"]
+[TimeControl "60"]
+[BlackElo "1705"]
+[WhiteElo "1794"]
+
+1. f5 f6 2. e6 f4 3. g5 e7 4. e3 g6 5. d3 g3 6. f3 c5 7. g4 h3 8. h4 h5 9. c6
+c4 10. d6 d2 11. c3 c2 12. e2 f2 13. c1 d7 14. f7 f8 15. d1 b5 16. e1 f1 17. g1
+b3 18. a3 a2 19. a4 a5 20. b4 g2 21. h1 h2 22. h6 g7 23. h7 b2 24. b1 -- 25. d8
+e8 26. a1 c7 27. a6 b6 28. a7 b7 29. a8 b8 30. c8 -- 31. g8 h8 48-16
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "guitarium"]
+[White "reversimax"]
+[Result "50-14"]
+[Time "06:57:20"]
+[TimeControl "60"]
+[BlackElo "1695"]
+[WhiteElo "1558"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 c5 6. f3 f7 7. e7 e3 8. g4 b4 9. e2
+d2 10. g3 f1 11. h6 h4 12. h5 h7 13. c7 g6 14. c6 f2 15. h2 g7 16. b5 d8 17. e8
+a5 18. c8 f8 19. c1 e1 20. b3 h3 21. h8 g8 22. d7 b6 23. a6 c2 24. g2 b7 25. a4
+a3 26. a2 b2 27. a7 g1 28. h1 b8 29. a8 -- 30. b1 a1 31. d1 50-14
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "reversimax"]
+[White "guitarium"]
+[Result "17-47"]
+[Time "06:55:11"]
+[TimeControl "60"]
+[BlackElo "1569"]
+[WhiteElo "1684"]
+
+1. f5 d6 2. c5 f4 3. e3 c6 4. f3 g6 5. e6 f6 6. g5 h5 7. d7 d3 8. e7 c4 9. g4
+c3 10. f7 c7 11. h4 d8 12. c8 b8 13. h6 e2 14. b6 e8 15. b5 b4 16. f2 a5 17. e1
+h3 18. d2 h7 19. g3 c2 20. a4 a3 21. b3 f1 22. d1 a6 23. f8 g8 24. g2 h2 25. g1
+a2 26. b7 b1 27. b2 a1 28. g7 h8 29. -- c1 30. -- h1 31. -- a8 32. a7 17-47
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "guitarium"]
+[White "reversimax"]
+[Result "64-0"]
+[Time "06:52:56"]
+[TimeControl "60"]
+[BlackElo "1672"]
+[WhiteElo "1581"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 c5 6. f3 f7 7. e7 d7 8. e3 g6 9. h5
+b3 10. b4 a3 11. a5 b5 12. b6 c2 13. c6 d2 14. c7 g4 15. g3 a7 16. a4 a6 17. h4
+d8 18. d1 f2 19. e1 e2 20. h6 g1 21. c1 g7 22. h8 h7 23. g8 f8 24. e8 c8 25. b8
+b7 26. f1 b1 27. a8 b2 28. a2 a1 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "reversimax"]
+[White "guitarium"]
+[Result "27-37"]
+[Time "06:50:56"]
+[TimeControl "60"]
+[BlackElo "1594"]
+[WhiteElo "1659"]
+
+1. f5 d6 2. c5 f4 3. e3 c6 4. e6 f6 5. g3 c3 6. g5 f3 7. e7 d7 8. b6 e8 9. d3
+g6 10. g4 h4 11. f7 c7 12. f8 d8 13. f2 g8 14. b8 e2 15. d1 c4 16. b5 d2 17. c1
+b4 18. h6 a6 19. a3 a4 20. b2 b3 21. c2 h5 22. h3 a1 23. a2 b1 24. a5 e1 25. f1
+g1 26. h7 g2 27. c8 a8 28. a7 b7 29. g7 h8 30. h1 h2 27-37
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "guitarium"]
+[White "reversimax"]
+[Result "13-51"]
+[Time "06:48:50"]
+[TimeControl "60"]
+[BlackElo "1680"]
+[WhiteElo "1573"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. d7 e3 5. f2 e2 6. g3 c5 7. c2 d2 8. d1 b3 9. f1
+e1 10. c6 b5 11. b4 b6 12. a5 a6 13. a7 a4 14. a3 c7 15. a2 c1 16. b1 f3 17. e6
+e8 18. g4 h4 19. h3 h2 20. g5 g2 21. b2 e7 22. f6 h5 23. g6 a1 24. h6 a8 25. f8
+d8 26. c8 b8 27. g1 h1 28. f7 h7 29. g7 g8 30. h8 b7 13-51
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "reversimax"]
+[White "guitarium"]
+[Result "42-22"]
+[Time "06:46:46"]
+[TimeControl "60"]
+[BlackElo "1550"]
+[WhiteElo "1703"]
+
+1. f5 d6 2. c5 f4 3. e3 c6 4. e6 f6 5. d7 c7 6. e7 e8 7. d8 c8 8. f7 f8 9. g4
+b4 10. g6 c4 11. b5 h6 12. d3 b3 13. c3 g5 14. h5 e2 15. d2 d1 16. c2 a6 17. c1
+b1 18. a4 a3 19. e1 f1 20. a2 f3 21. h7 h3 22. h4 h8 23. g7 g3 24. g8 b2 25. a1
+-- 26. a5 b6 27. a7 -- 28. g1 -- 29. b7 a8 30. b8 -- 31. h2 h1 32. g2 f2 42-22
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "guitarium"]
+[White "reversimax"]
+[Result "35-29"]
+[Time "06:44:33"]
+[TimeControl "60"]
+[BlackElo "1693"]
+[WhiteElo "1560"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 c5 6. f3 f7 7. e7 d7 8. e3 g6 9. h5
+b3 10. b4 e2 11. d2 h4 12. h3 g4 13. g3 f2 14. h6 d1 15. b6 b5 16. f1 c2 17. e1
+g1 18. a6 a5 19. a4 a3 20. a2 g2 21. b1 b7 22. e8 c1 23. h1 h2 24. a7 d8 25. f8
+c6 26. a8 c7 27. c8 b2 28. -- g8 29. h8 b8 30. g7 h7 31. a1 35-29
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "reversimax"]
+[White "guitarium"]
+[Result "26-38"]
+[Time "06:42:29"]
+[TimeControl "60"]
+[BlackElo "1571"]
+[WhiteElo "1682"]
+
+1. f5 d6 2. c5 f4 3. e3 c6 4. e6 f6 5. g3 c3 6. g5 f3 7. e7 d7 8. f2 g4 9. h5
+g6 10. f7 e8 11. d3 c4 12. c8 c7 13. b8 d2 14. f8 g8 15. b7 b6 16. a5 e2 17. e1
+a6 18. a7 b4 19. d1 h6 20. h7 h4 21. h3 c2 22. a4 b5 23. c1 b3 24. a3 b2 25. b1
+a8 26. d8 a2 27. h8 g7 28. -- g1 29. f1 a1 30. -- h2 31. g2 h1 26-38
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "guitarium"]
+[White "reversimax"]
+[Result "40-24"]
+[Time "06:40:05"]
+[TimeControl "60"]
+[BlackElo "1670"]
+[WhiteElo "1583"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 c5 6. f3 f7 7. e7 e3 8. g4 g6 9. h5
+h6 10. g3 f2 11. h4 b4 12. d7 e8 13. c7 c6 14. e2 b8 15. c2 h3 16. b5 a4 17. a6
+b6 18. f1 h2 19. g8 f8 20. d8 c1 21. b3 d2 22. d1 a3 23. b7 b1 24. a1 a8 25. b2
+e1 26. a2 c8 27. g7 g1 28. a5 g2 29. a7 h8 30. h7 -- 31. h1 40-24
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "guitarium"]
+[White "justforfun"]
+[Result "51-13"]
+[Time "06:36:05"]
+[TimeControl "60"]
+[BlackElo "1659"]
+[WhiteElo "1558"]
+
+1. f5 f6 2. e6 d6 3. e7 f4 4. g5 d7 5. c6 e8 6. c5 c4 7. c8 g6 8. h6 f7 9. d8
+b8 10. g4 b6 11. b5 a6 12. a4 b4 13. b3 d3 14. a3 c7 15. a5 a2 16. c3 e3 17. e2
+c2 18. d2 f3 19. g3 f1 20. e1 d1 21. f2 g1 22. b2 g2 23. c1 h2 24. h1 h3 25. h4
+h5 26. g8 a1 27. b1 f8 28. a8 h7 29. a7 -- 30. b7 -- 31. h8 -- 32. g7 51-13
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "guitarium"]
+[White "guhei"]
+[Result "64-0"]
+[Time "06:22:48"]
+[TimeControl "60"]
+[BlackElo "1654"]
+[WhiteElo "1371"]
+
+1. f5 d6 2. c5 f4 3. e3 c4 4. e6 c6 5. f3 f7 6. e7 f8 7. c3 f6 8. b5 b4 9. d3
+b6 10. d7 e8 11. a3 g5 12. c7 d8 13. g4 b3 14. h6 c2 15. g6 d2 16. a4 a5 17. a6
+e2 18. f2 g3 19. h4 f1 20. a2 h3 21. d1 e1 22. c1 b1 23. b8 h5 24. g2 h7 25. g8
+h8 26. g7 c8 27. b7 a8 28. b2 a7 29. -- a1 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "guhei"]
+[White "guitarium"]
+[Result "0-64"]
+[Time "06:20:37"]
+[TimeControl "60"]
+[BlackElo "1377"]
+[WhiteElo "1648"]
+
+1. f5 d6 2. c4 d3 3. c5 f4 4. e3 f3 5. c2 c6 6. e6 f6 7. d7 b5 8. b4 b6 9. f7
+d2 10. g6 c3 11. b3 a4 12. g4 a3 13. c7 g3 14. d1 e2 15. g5 f2 16. e1 f1 17. h3
+c1 18. a6 c8 19. a5 e8 20. d8 e7 21. b7 h6 22. h4 f8 23. g7 a7 24. b1 a1 25. a2
+b2 26. g2 g1 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "guitarium"]
+[White "guhei"]
+[Result "64-0"]
+[Time "06:18:27"]
+[TimeControl "60"]
+[BlackElo "1642"]
+[WhiteElo "1383"]
+
+1. f5 d6 2. c3 d3 3. c4 f3 4. f4 g6 5. e3 d2 6. e2 g4 7. e6 c6 8. c5 d7 9. g5
+g3 10. f6 h6 11. f2 e7 12. h4 f1 13. h5 e1 14. c1 d1 15. g1 b6 16. c2 b4 17. h7
+h2 18. g7 f7 19. f8 b3 20. b2 b1 21. a1 g2 22. c8 d8 23. e8 a2 24. a3 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "guhei"]
+[White "guitarium"]
+[Result "19-45"]
+[Time "06:16:26"]
+[TimeControl "60"]
+[BlackElo "1389"]
+[WhiteElo "1636"]
+
+1. f5 d6 2. c4 d3 3. c5 f4 4. e3 f3 5. g4 g6 6. d2 g3 7. e6 g5 8. f2 e2 9. f1
+c6 10. d7 e7 11. f6 f7 12. e8 b5 13. b4 c1 14. a6 b6 15. d1 c2 16. c7 c8 17. d8
+f8 18. a5 b8 19. h6 h4 20. g7 c3 21. b3 b2 22. h5 h3 23. h2 e1 24. a1 b1 25. b7
+a8 26. a7 h8 27. g8 a4 28. a2 a3 29. -- h7 30. -- h1 31. -- g1 32. g2 19-45
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "guitarium"]
+[White "guhei"]
+[Result "64-0"]
+[Time "06:14:19"]
+[TimeControl "60"]
+[BlackElo "1629"]
+[WhiteElo "1396"]
+
+1. f5 d6 2. c3 d3 3. c4 f3 4. f4 g6 5. e3 d2 6. e2 g4 7. e6 c2 8. c5 b3 9. d1
+d7 10. b4 a4 11. b5 f6 12. g3 e1 13. f1 f2 14. g1 h3 15. h5 g5 16. h6 a5 17. h7
+g2 18. e7 e8 19. f7 c6 20. d8 c7 21. f8 c8 22. h1 g8 23. c1 b1 24. a2 a3 25. a1
+h2 26. h4 g7 27. b6 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "burbick"]
+[White "guitarium"]
+[Result "0-64"]
+[Time "06:06:02"]
+[TimeControl "60"]
+[BlackElo "1558"]
+[WhiteElo "1616"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. g6 e3 6. h5 c5 7. c6 b5 8. e6 c7 9. e2
+f3 10. f2 g4 11. h3 e7 12. d2 c2 13. d7 f7 14. d8 f8 15. b3 e8 16. b4 c8 17. a6
+e1 18. f1 d1 19. c1 a4 20. a5 a7 21. b6 a3 22. b2 a2 23. b8 a8 24. g7 g8 25. --
+b7 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "guitarium"]
+[White "burbick"]
+[Result "47-17"]
+[Time "06:03:56"]
+[TimeControl "60"]
+[BlackElo "1601"]
+[WhiteElo "1573"]
+
+1. f5 d6 2. c3 d3 3. c4 b3 4. c6 b6 5. d7 e8 6. c2 c1 7. a3 f4 8. e3 d2 9. c5
+b4 10. c7 b5 11. d8 c8 12. a6 e6 13. f6 g5 14. g4 h4 15. f2 f3 16. e2 f1 17. g3
+g6 18. h3 f7 19. h5 h6 20. e7 f8 21. h7 e1 22. a4 a5 23. g2 g7 24. d1 h2 25. h8
+g8 26. b8 b7 27. h1 b2 28. g1 a2 29. a8 a7 30. a1 b1 47-17
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "kecbrb"]
+[White "guitarium"]
+[Result "23-41"]
+[Time "05:55:56"]
+[TimeControl "60"]
+[BlackElo "1249"]
+[WhiteElo "1597"]
+
+1. f5 d6 2. c3 d3 3. c6 f4 4. e6 g6 5. d2 d7 6. f6 e7 7. f7 c7 8. e3 g5 9. f3
+g4 10. c8 g3 11. d8 f8 12. h2 f2 13. h5 e2 14. h6 c1 15. e1 c5 16. c4 h4 17. h3
+f1 18. g1 b5 19. a5 b6 20. a6 b4 21. a4 a3 22. a2 b3 23. c2 b2 24. e8 d1 25. g8
+h1 26. g2 h7 27. a1 b1 28. g7 a7 29. a8 h8 30. b7 b8 23-41
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "guitarium"]
+[White "kecbrb"]
+[Result "56-8"]
+[Time "05:54:01"]
+[TimeControl "60"]
+[BlackElo "1593"]
+[WhiteElo "1253"]
+
+1. f5 f6 2. e6 f4 3. g6 c6 4. g4 d6 5. e3 f3 6. g5 d3 7. c5 g3 8. c4 c3 9. f2
+h4 10. h5 h6 11. h3 h2 12. b4 a4 13. d2 d1 14. c2 f1 15. d7 d8 16. b3 a3 17. b6
+a6 18. c7 c1 19. c8 b8 20. e7 e8 21. f8 g8 22. f7 b7 23. b5 g7 24. a8 a5 25. h8
+a7 26. a2 b2 27. h7 -- 28. h1 -- 29. g1 e2 30. g2 -- 31. e1 -- 32. b1 a1 56-8
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "kecbrb"]
+[White "guitarium"]
+[Result "6-58"]
+[Time "05:52:17"]
+[TimeControl "60"]
+[BlackElo "1257"]
+[WhiteElo "1589"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. c5 b3 5. f3 b5 6. d2 b4 7. d7 e1 8. a5 e2 9. a4
+c6 10. b6 c7 11. d8 e3 12. c1 a3 13. a2 f2 14. c2 d1 15. f1 a7 16. b7 c8 17. b8
+a8 18. a6 a1 19. -- e8 20. e7 f7 21. f8 g8 22. g7 h6 23. h7 h8 24. -- e6 25. f6
+g6 26. g5 h5 27. b2 b1 28. -- g1 29. g2 h1 30. g3 h3 31. g4 h4 32. h2 6-58
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "guitarium"]
+[White "kecbrb"]
+[Result "58-5"]
+[Time "05:50:26"]
+[TimeControl "60"]
+[BlackElo "1585"]
+[WhiteElo "1261"]
+
+1. f5 f6 2. e6 f4 3. g5 d6 4. e7 g6 5. e3 f3 6. g4 h4 7. d3 d2 8. h6 e8 9. d7
+f7 10. c6 d8 11. e2 e1 12. c3 c4 13. c5 b4 14. c7 c8 15. c2 h5 16. h3 g3 17. h2
+b1 18. f2 f1 19. a4 b3 20. b5 a3 21. b6 a5 22. h7 b7 23. a8 a7 24. a6 g7 25. h8
+g2 26. b8 g8 27. f8 -- 28. c1 b2 29. d1 -- 30. a2 -- 31. a1 -- 32. g1 58-5
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "kecbrb"]
+[White "guitarium"]
+[Result "16-47"]
+[Time "05:48:30"]
+[TimeControl "60"]
+[BlackElo "1266"]
+[WhiteElo "1580"]
+
+1. f5 d6 2. c3 d3 3. c6 f4 4. e6 g5 5. g3 f6 6. e3 c5 7. g4 f3 8. c4 d2 9. f2
+e2 10. h5 g6 11. c1 f1 12. e1 c2 13. e7 h3 14. h6 b4 15. a4 f7 16. f8 d7 17. b1
+e8 18. d8 c8 19. b8 c7 20. b6 d1 21. g1 b3 22. a3 b5 23. a5 a7 24. a6 a2 25. g2
+h4 26. h2 g8 27. h8 h1 28. g7 h7 29. b2 a1 30. -- b7 16-47
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "guitarium"]
+[White "kecbrb"]
+[Result "64-0"]
+[Time "05:46:39"]
+[TimeControl "60"]
+[BlackElo "1575"]
+[WhiteElo "1271"]
+
+1. f5 f6 2. e6 d6 3. f7 f4 4. d7 f8 5. e3 c8 6. e7 f3 7. g6 h6 8. c3 d3 9. e2
+e1 10. g5 h5 11. c6 c7 12. c5 b4 13. c4 b3 14. f2 f1 15. c2 b6 16. a3 c1 17. g3
+d2 18. d1 h3 19. d8 e8 20. a4 a5 21. b5 a2 22. a6 a7 23. g2 b1 24. a1 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "kecbrb"]
+[White "guitarium"]
+[Result "15-49"]
+[Time "05:44:48"]
+[TimeControl "60"]
+[BlackElo "1281"]
+[WhiteElo "1565"]
+
+1. e6 f4 2. c3 c4 3. c5 c6 4. g3 g4 5. c7 f5 6. f6 d6 7. d7 f7 8. h4 e7 9. e8
+b5 10. f8 g5 11. b4 c8 12. h5 b6 13. a4 a3 14. a2 a5 15. a6 b3 16. d3 d2 17. d1
+e3 18. e2 f3 19. f2 d8 20. b8 g6 21. h6 e1 22. c2 c1 23. -- h3 24. h2 b1 25. g2
+f1 26. g1 h1 27. b2 b7 28. a7 a8 29. -- a1 30. -- g7 31. h7 g8 32. -- h8 15-49
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "guitarium"]
+[White "kecbrb"]
+[Result "56-8"]
+[Time "05:42:59"]
+[TimeControl "60"]
+[BlackElo "1565"]
+[WhiteElo "1281"]
+
+1. f5 f6 2. e6 f4 3. g4 g6 4. g5 h6 5. e3 d3 6. f3 h3 7. g3 d6 8. c4 h2 9. c6
+e2 10. d7 d8 11. h4 h5 12. c7 b4 13. d2 d1 14. e1 f1 15. c3 c2 16. c5 b5 17. b6
+a6 18. a3 f2 19. c1 b1 20. f7 c8 21. e7 f8 22. a5 e8 23. b3 b2 24. a7 b7 25. a8
+b8 26. g7 h8 27. g8 -- 28. a4 -- 29. a2 -- 30. h7 -- 31. a1 -- 32. g2 g1 33. h1
+56-8
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "kecbrb"]
+[White "guitarium"]
+[Result "21-43"]
+[Time "05:41:06"]
+[TimeControl "60"]
+[BlackElo "1287"]
+[WhiteElo "1559"]
+
+1. f5 d6 2. c3 d3 3. e3 f3 4. c5 c6 5. f4 c4 6. f2 c2 7. d7 e6 8. c7 e7 9. f7
+f6 10. g5 d2 11. b6 g4 12. h3 e2 13. g3 h6 14. h4 g6 15. e1 h5 16. h7 b5 17. a5
+f8 18. e8 d8 19. c8 b8 20. g7 b4 21. d1 c1 22. b1 a4 23. a3 a6 24. b3 a2 25. b7
+a7 26. -- g8 27. h8 a8 28. b2 g1 29. g2 h1 30. h2 a1 31. -- f1 21-43
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "guitarium"]
+[White "kecbrb"]
+[Result "64-0"]
+[Time "05:39:41"]
+[TimeControl "60"]
+[BlackElo "1553"]
+[WhiteElo "1293"]
+
+1. f5 f6 2. e6 f4 3. g5 d6 4. e7 f7 5. e3 h4 6. g4 d2 7. f3 f2 8. g3 h5 9. h3
+h2 10. c5 d7 11. c4 b4 12. e8 d8 13. c8 c7 14. b6 b7 15. a6 a7 16. a8 -- 17. b8
+c6 18. b5 a5 19. a4 -- 20. b3 a3 21. a2 b2 22. c1 b1 23. a1 -- 24. c2 -- 25. c3
+-- 26. d3 -- 27. d1 -- 28. f8 -- 29. g8 -- 30. e2 -- 31. g6 g7 32. h8 -- 33. h7
+-- 34. h6 -- 35. g1 e1 36. f1 -- 37. g2 -- 38. h1 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "kecbrb"]
+[White "guitarium"]
+[Result "25-39"]
+[Time "05:37:46"]
+[TimeControl "60"]
+[BlackElo "1299"]
+[WhiteElo "1547"]
+
+1. d3 c5 2. f6 f5 3. f4 e3 4. f3 g4 5. e6 d6 6. c3 c4 7. g3 d2 8. h4 c2 9. c6
+c7 10. d1 f2 11. f1 c1 12. e2 d7 13. d8 g5 14. b4 e1 15. b1 b3 16. h6 f7 17. a3
+b5 18. f8 c8 19. a6 g6 20. h5 g2 21. b6 h2 22. h1 g1 23. h3 a1 24. g7 a2 25. b2
+a5 26. a4 e7 27. e8 h8 28. b8 h7 29. g8 b7 30. a8 a7 25-39
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "guitarium"]
+[White "kecbrb"]
+[Result "41-23"]
+[Time "05:35:58"]
+[TimeControl "60"]
+[BlackElo "1540"]
+[WhiteElo "1306"]
+
+1. f5 f6 2. e6 f4 3. g5 d6 4. e7 h6 5. f3 g4 6. e3 g6 7. g3 d3 8. f7 h3 9. d7
+f8 10. c3 c8 11. d2 d1 12. h5 h4 13. e1 f1 14. e2 f2 15. c2 c1 16. c4 c5 17. c6
+c7 18. b5 a5 19. d8 e8 20. b3 b2 21. b4 a3 22. a4 -- 23. b6 a6 24. b7 a8 25. a7
+-- 26. b8 -- 27. h2 h1 28. a1 a2 29. b1 g2 30. g7 g8 31. h8 h7 32. g1 41-23
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "kecbrb"]
+[White "guitarium"]
+[Result "7-57"]
+[Time "05:34:12"]
+[TimeControl "60"]
+[BlackElo "1321"]
+[WhiteElo "1525"]
+
+1. f5 d6 2. c3 d3 3. c6 f4 4. e6 g5 5. g3 e3 6. g4 g6 7. h5 f6 8. h6 c5 9. b5
+e7 10. c4 d7 11. c7 f3 12. c8 f7 13. f8 b4 14. a4 b3 15. d2 e2 16. e1 c2 17. a3
+f1 18. c1 h4 19. h3 d1 20. g1 f2 21. g2 e8 22. d8 h1 23. h2 h7 24. g8 b2 25. b1
+a1 26. g7 a2 27. -- b6 28. a5 a7 29. b7 a6 30. -- a8 31. -- b8 32. -- h8 7-57
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "guitarium"]
+[White "kecbrb"]
+[Result "39-25"]
+[Time "05:32:10"]
+[TimeControl "60"]
+[BlackElo "1525"]
+[WhiteElo "1321"]
+
+1. f5 f6 2. e6 f4 3. g5 d6 4. e7 f7 5. e3 d3 6. c6 f3 7. c5 c4 8. g6 h5 9. f8
+d8 10. g4 h4 11. b3 d7 12. c3 a3 13. d2 d1 14. c2 b4 15. g3 c1 16. a4 a5 17. e2
+e1 18. f1 g1 19. f2 h3 20. b6 a6 21. e8 g8 22. a2 a1 23. b5 b2 24. b1 g2 25. h1
+h2 26. h6 -- 27. h7 g7 28. h8 -- 29. c8 c7 30. b7 a7 31. -- a8 32. b8 39-25
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "summonerrydia"]
+[White "guitarium"]
+[Result "35-29"]
+[Time "05:27:34"]
+[TimeControl "120"]
+[BlackElo "1774"]
+[WhiteElo "1506"]
+
+1. f5 d6 2. c5 f4 3. d3 e3 4. g4 g3 5. e6 c4 6. f2 g6 7. f3 f6 8. g5 h3 9. h5
+b4 10. b3 e2 11. c6 c2 12. c3 d2 13. h4 h6 14. f1 a3 15. c7 d7 16. d8 b5 17. e7
+b6 18. f7 h2 19. a4 d1 20. a5 a6 21. b1 c1 22. e1 f8 23. e8 b2 24. b7 a8 25. a7
+g2 26. g1 b8 27. c8 -- 28. h7 h8 29. h1 g7 30. g8 -- 31. a1 a2 35-29
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "guitarium"]
+[White "summonerrydia"]
+[Result "33-31"]
+[Time "05:24:18"]
+[TimeControl "120"]
+[BlackElo "1506"]
+[WhiteElo "1774"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 f3 5. e6 e7 6. f7 g5 7. c6 c5 8. e3 d7 9. b6
+e2 10. g4 h3 11. d2 g3 12. h6 h4 13. f1 b5 14. f2 a6 15. e8 d8 16. c8 c7 17. b8
+f8 18. g8 b4 19. b3 c2 20. a3 c1 21. e1 a4 22. g6 d1 23. b1 g2 24. h5 h7 25. h1
+g1 26. h2 a1 27. a2 b2 28. b7 g7 29. h8 a8 30. a7 -- 31. a5 33-31
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "summonerrydia"]
+[White "guitarium"]
+[Result "64-0"]
+[Time "05:20:26"]
+[TimeControl "120"]
+[BlackElo "1768"]
+[WhiteElo "1512"]
+
+1. f5 d6 2. c5 f4 3. d3 e3 4. g4 g3 5. e6 c4 6. f2 f6 7. f3 h3 8. c7 e2 9. c3
+d7 10. h4 h5 11. c6 g5 12. d8 b4 13. b3 d2 14. a3 b5 15. b6 a4 16. e7 a5 17. a6
+f7 18. d1 f1 19. c2 b1 20. e1 c1 21. g2 b2 22. g8 f8 23. e8 b8 24. g7 b7 25. c8
+h8 26. g6 h7 27. h6 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "guitarium"]
+[White "lelik12"]
+[Result "64-0"]
+[Time "04:06:30"]
+[TimeControl "180"]
+[BlackElo "1497"]
+[WhiteElo "1485"]
+
+1. f5 f6 2. e6 f4 3. g5 e7 4. e3 d6 5. d3 f3 6. g3 e2 7. g6 g4 8. h4 h3 9. f7
+f8 10. c5 h5 11. h7 c6 12. c3 b5 13. d2 c4 14. c2 f2 15. b4 a4 16. d7 e8 17. b3
+a3 18. c8 c7 19. e1 f1 20. g1 c1 21. b8 h6 22. h2 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "lelik12"]
+[White "guitarium"]
+[Result "0-64"]
+[Time "04:04:20"]
+[TimeControl "180"]
+[BlackElo "1502"]
+[WhiteElo "1480"]
+
+1. f5 d6 2. c4 d3 3. c3 f4 4. f6 g5 5. c6 e3 6. e6 c7 7. d7 d8 8. e8 f8 9. c8
+b8 10. g4 c5 11. b6 f3 12. b5 g6 13. h5 e7 14. h6 g3 15. f7 b4 16. a5 g8 17. c2
+d2 18. e1 d1 19. c1 f2 20. e2 h4 21. h3 b3 22. f1 b2 23. a4 a2 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "m0800"]
+[White "guitarium"]
+[Result "23-41"]
+[Time "04:01:01"]
+[TimeControl "60"]
+[BlackElo "1284"]
+[WhiteElo "1472"]
+
+1. e6 f4 2. e3 d6 3. c6 d7 4. c4 d3 5. c5 c3 6. f5 d2 7. f3 e7 8. f6 g4 9. e2
+c2 10. f2 g3 11. g5 f7 12. g6 h6 13. c8 h5 14. h3 h4 15. h7 b3 16. f8 d1 17. h2
+g1 18. f1 e1 19. b4 a4 20. b1 b5 21. b6 c7 22. a5 e8 23. d8 g7 24. b2 a3 25. a2
+g2 26. c1 a1 27. -- a6 28. b7 a8 29. b8 a7 30. g8 h8 31. h1 23-41
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "guitarium"]
+[White "m0800"]
+[Result "64-0"]
+[Time "03:58:44"]
+[TimeControl "60"]
+[BlackElo "1463"]
+[WhiteElo "1293"]
+
+1. f5 f6 2. e6 f4 3. g5 c6 4. f3 d6 5. e3 h5 6. c4 d3 7. c3 b4 8. b5 b3 9. c5
+a5 10. e7 f7 11. d7 d8 12. g4 h4 13. g6 c8 14. h6 h7 15. c7 f2 16. d2 d1 17. e2
+f1 18. e8 f8 19. b6 a6 20. h3 h2 21. g3 b8 22. c2 c1 23. b7 g2 24. h1 g1 25. h8
+a8 26. e1 g7 27. b1 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "m0800"]
+[White "guitarium"]
+[Result "0-64"]
+[Time "03:56:39"]
+[TimeControl "60"]
+[BlackElo "1302"]
+[WhiteElo "1454"]
+
+1. e6 f4 2. c3 c4 3. f3 d6 4. f5 e7 5. f6 g6 6. c5 e3 7. d3 g5 8. e8 d7 9. h5
+g3 10. h3 h6 11. g4 f7 12. d8 d2 13. e2 h4 14. h7 c6 15. c1 c7 16. b5 c8 17. b8
+b6 18. a6 b3 19. a3 b4 20. a5 c2 21. f8 g7 22. d1 f1 23. e1 b1 24. b2 a1 25. a2
+f2 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "guitarium"]
+[White "m0800"]
+[Result "64-0"]
+[Time "03:54:54"]
+[TimeControl "60"]
+[BlackElo "1444"]
+[WhiteElo "1312"]
+
+1. f5 f6 2. e6 d6 3. e7 f3 4. c6 f4 5. c5 c7 6. d7 e8 7. f8 c8 8. f7 g6 9. h6
+h5 10. h4 c4 11. e3 g7 12. d8 d3 13. b8 b7 14. g8 -- 15. g3 g4 16. h8 h7 17. g5
+h3 18. b3 c3 19. h2 a3 20. e2 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "m0800"]
+[White "guitarium"]
+[Result "0-64"]
+[Time "03:53:02"]
+[TimeControl "60"]
+[BlackElo "1323"]
+[WhiteElo "1433"]
+
+1. e6 f4 2. e3 d6 3. c6 d7 4. c4 f5 5. f6 c5 6. d8 f3 7. g4 g5 8. f2 d3 9. d2
+h3 10. b4 g3 11. h5 f1 12. e2 e1 13. d1 c1 14. c2 b3 15. a2 c3 16. h2 h1 17. g1
+g2 18. b2 h4 19. b1 a1 20. -- h6 21. -- g6 22. -- a3 23. -- b6 24. f7 a4 25. c7
+b8 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "guitarium"]
+[White "m0800"]
+[Result "64-0"]
+[Time "03:51:03"]
+[TimeControl "60"]
+[BlackElo "1421"]
+[WhiteElo "1335"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 f3 5. e6 c6 6. c5 e7 7. f7 g5 8. f8 d8 9. g6
+b4 10. h5 b3 11. e8 g8 12. d7 h4 13. h3 h7 14. c7 c8 15. b5 a6 16. b6 a5 17. e3
+d2 18. g4 g3 19. h6 h2 20. a3 b7 21. c2 e2 22. a8 b8 23. h8 g7 24. a4 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "m0800"]
+[White "guitarium"]
+[Result "0-64"]
+[Time "03:49:01"]
+[TimeControl "60"]
+[BlackElo "1348"]
+[WhiteElo "1408"]
+
+1. e6 f4 2. c3 c4 3. d3 d6 4. f6 e7 5. c5 c6 6. d7 c8 7. c7 b6 8. a5 a6 9. a7
+b5 10. g4 f3 11. f5 g6 12. f2 e3 13. e8 g3 14. f8 h4 15. g5 f7 16. e2 h5 17. h3
+d2 18. h6 b3 19. b4 a4 20. a3 c2 21. e1 b2 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "guitarium"]
+[White "m0800"]
+[Result "64-0"]
+[Time "03:46:54"]
+[TimeControl "60"]
+[BlackElo "1393"]
+[WhiteElo "1363"]
+
+1. f5 f6 2. e6 f4 3. g5 c6 4. f3 d6 5. e3 g4 6. h5 h3 7. g3 e2 8. d2 f2 9. d3
+h6 10. h7 c1 11. c5 c3 12. c4 b6 13. b5 a4 14. a5 a6 15. b4 a3 16. b3 a2 17. e7
+c2 18. f1 e8 19. e1 h2 20. d1 g1 21. g6 g2 22. f7 f8 23. d8 c8 24. d7 c7 25. b7
+a8 26. a7 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "guitarium"]
+[White "zhuxiuxiu"]
+[Result "39-25"]
+[Time "03:42:24"]
+[TimeControl "60"]
+[BlackElo "1385"]
+[WhiteElo "1200"]
+
+1. f5 d6 2. c3 f4 3. f6 g5 4. e6 f3 5. e3 c4 6. g4 e2 7. f2 e7 8. d3 h4 9. c6
+c5 10. b4 d2 11. b5 g6 12. g3 h3 13. d7 f1 14. h5 b3 15. c1 e1 16. h2 a4 17. f8
+a5 18. b6 h6 19. h7 a6 20. c7 b7 21. f7 b8 22. c8 d8 23. e8 g8 24. a8 a7 25. h8
+g7 26. b2 a1 27. a3 a2 28. g2 c2 29. g1 h1 30. b1 d1 39-25
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "guitarium"]
+[White "k54ja"]
+[Result "64-0"]
+[Time "03:28:34"]
+[TimeControl "60"]
+[BlackElo "1381"]
+[WhiteElo "1058"]
+
+1. f5 f4 2. e3 d6 3. f3 g5 4. f6 e2 5. d3 d2 6. h5 g4 7. h4 g6 8. h6 g3 9. e6
+f7 10. e7 d7 11. f8 g7 12. c5 c4 13. h8 h7 14. h3 c6 15. g8 e8 16. d8 h2 17. h1
+-- 18. b3 c3 19. c8 a2 20. c7 b8 21. a8 -- 22. b7 b6 23. a6 a7 24. a5 a4 25. b5
+-- 26. e1 f2 27. c1 c2 28. g2 -- 29. g1 -- 30. b4 d1 31. f1 b1 32. a1 -- 33. a3
+-- 34. b2 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "k54ja"]
+[White "guitarium"]
+[Result "13-51"]
+[Time "03:27:01"]
+[TimeControl "60"]
+[BlackElo "1062"]
+[WhiteElo "1377"]
+
+1. f5 d6 2. c5 f4 3. f3 g4 4. e3 e6 5. h4 c4 6. b4 d3 7. c3 b6 8. c6 b5 9. a6
+a3 10. a5 b3 11. g5 f6 12. g6 d7 13. d8 f7 14. e7 h5 15. h6 c8 16. b8 e8 17. f8
+c7 18. b7 c2 19. c1 a8 20. d2 g8 21. a7 a4 22. g7 e1 23. e2 h8 24. h7 g3 25. f2
+h3 26. b2 b1 27. a1 a2 28. h2 f1 29. g2 g1 30. -- h1 31. -- d1 13-51
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "guitarium"]
+[White "k54ja"]
+[Result "54-10"]
+[Time "03:25:37"]
+[TimeControl "60"]
+[BlackElo "1372"]
+[WhiteElo "1067"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. c5 f6 5. e3 b5 6. c6 b4 7. a6 b6 8. a4 b3 9. a3
+c2 10. a5 e6 11. d2 d1 12. e2 e1 13. c1 b1 14. a7 b2 15. c7 c8 16. d7 d8 17. e7
+e8 18. f8 g8 19. f7 b7 20. g4 h4 21. a2 g5 22. a8 g6 23. b8 -- 24. h8 -- 25. g7
+h7 26. f3 f2 27. a1 g3 28. f1 g2 29. h6 h5 30. h3 g1 31. h2 -- 32. h1 54-10
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "k54ja"]
+[White "guitarium"]
+[Result "14-50"]
+[Time "03:24:06"]
+[TimeControl "60"]
+[BlackElo "1072"]
+[WhiteElo "1367"]
+
+1. f5 d6 2. c5 f4 3. f3 g4 4. e3 e6 5. f6 c4 6. d3 g5 7. h4 g6 8. c6 h5 9. h6
+b6 10. a6 d7 11. d8 c2 12. c3 b3 13. c1 d2 14. d1 b5 15. a5 g3 16. b4 h3 17. h2
+a4 18. a3 f7 19. e2 f2 20. g1 b2 21. f8 a2 22. a1 e1 23. f1 b1 24. e7 h1 25. --
+h7 26. g7 h8 27. g8 e8 28. -- c8 29. c7 g2 30. -- b7 31. b8 a8 32. a7 14-50
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "guitarium"]
+[White "k54ja"]
+[Result "53-11"]
+[Time "03:22:27"]
+[TimeControl "60"]
+[BlackElo "1362"]
+[WhiteElo "1077"]
+
+1. f5 d6 2. c3 f4 3. f6 c4 4. e3 f3 5. d3 f7 6. c6 c5 7. d7 e6 8. e7 d8 9. c7
+c8 10. f8 c2 11. d2 d1 12. g6 h6 13. b5 a5 14. b4 a4 15. a3 a2 16. b3 b6 17. g4
+h4 18. g8 e2 19. h5 b2 20. g5 g7 21. e1 f1 22. h8 f2 23. h7 -- 24. e8 -- 25. g3
+h3 26. a1 c1 27. a6 b7 28. b8 -- 29. b1 a8 30. a7 -- 31. g1 g2 32. h2 h1 53-11
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "guitarium"]
+[White "taiwara"]
+[Result "64-0"]
+[Time "03:18:54"]
+[TimeControl "60"]
+[BlackElo "1343"]
+[WhiteElo "1405"]
+
+1. f5 d6 2. c3 f4 3. f6 f3 4. d3 c4 5. e3 e2 6. c6 d2 7. e6 e7 8. c5 d7 9. f7
+g4 10. g5 h6 11. c2 g6 12. c8 d8 13. e8 b3 14. d1 b4 15. c7 e1 16. h4 c1 17. h3
+g3 18. h2 b6 19. f1 g1 20. f2 g8 21. a4 a5 22. b7 b5 23. f8 g7 24. h8 a3 25. h7
+g2 26. h1 b8 27. h5 -- 28. a7 -- 29. a8 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "guitarium"]
+[White "shirley01"]
+[Result "64-0"]
+[Time "03:13:07"]
+[TimeControl "60"]
+[BlackElo "1339"]
+[WhiteElo "1023"]
+
+1. f5 f6 2. e6 d6 3. f7 g6 4. e7 g5 5. f4 g4 6. h6 d7 7. c6 f8 8. c8 c7 9. c4
+b4 10. d8 c5 11. b6 a6 12. b5 a5 13. h3 g3 14. d3 e3 15. c3 b3 16. f3 f2 17. e2
+e1 18. d2 c2 19. f1 g1 20. c1 h5 21. e8 b8 22. h4 g2 23. d1 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "shirley01"]
+[White "guitarium"]
+[Result "0-51"]
+[Time "03:11:53"]
+[TimeControl "60"]
+[BlackElo "1028"]
+[WhiteElo "1334"]
+
+1. f5 d6 2. c3 d3 3. c6 f4 4. e6 f6 5. g3 c5 6. g4 g5 7. g6 f3 8. b5 h3 9. e3
+f7 10. e8 h6 11. h5 h4 12. f2 c4 13. b3 h7 14. g7 h8 15. h2 e1 16. f1 h1 17. d1
+g2 18. -- g1 19. e2 c1 20. -- d2 21. c2 b1 22. -- f8 23. g8 d8 24. -- e7 25. --
+d7 26. -- c7 27. -- a4 0-51
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "guitarium"]
+[White "shirley01"]
+[Result "51-13"]
+[Time "03:09:53"]
+[TimeControl "60"]
+[BlackElo "1329"]
+[WhiteElo "1033"]
+
+1. f5 f4 2. e3 f6 3. d3 c4 4. c5 c3 5. e6 d6 6. b5 c6 7. b4 d2 8. e2 f3 9. g4
+b3 10. f2 g3 11. b6 g5 12. c7 a6 13. d7 d8 14. c2 a3 15. h6 h4 16. g6 f1 17. e1
+c1 18. g1 g7 19. h7 d1 20. b1 b2 21. a5 a4 22. a1 a2 23. h8 g8 24. f8 f7 25. h5
+g2 26. e8 h3 27. a7 b7 28. b8 a8 29. c8 -- 30. e7 -- 31. h2 h1 51-13
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "shirley01"]
+[White "guitarium"]
+[Result "0-64"]
+[Time "03:08:11"]
+[TimeControl "60"]
+[BlackElo "1038"]
+[WhiteElo "1324"]
+
+1. f5 d6 2. c4 d3 3. c5 f4 4. e3 f3 5. d2 f6 6. d7 c1 7. g6 g5 8. g3 h6 9. f7
+e8 10. h4 g4 11. h5 h3 12. d1 e1 13. f8 g8 14. g7 e6 15. e7 f2 16. f1 g1 17. g2
+b5 18. c6 h2 19. a5 b3 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "guitarium"]
+[White "shirley01"]
+[Result "50-14"]
+[Time "03:06:08"]
+[TimeControl "60"]
+[BlackElo "1319"]
+[WhiteElo "1043"]
+
+1. f5 f6 2. e6 f4 3. g5 d6 4. e7 g6 5. c5 c4 6. f3 b5 7. f7 c6 8. h6 e8 9. e3
+h4 10. c3 g4 11. d3 c2 12. b4 b3 13. c7 f8 14. d7 d8 15. c8 b8 16. b6 a6 17. a5
+a4 18. h5 h7 19. g3 h3 20. e2 e1 21. c1 d1 22. f1 d2 23. f2 g2 24. g7 h8 25. g8
+-- 26. a8 -- 27. a7 b7 28. h1 g1 29. h2 b1 30. a1 -- 31. b2 a2 32. a3 50-14
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "shirley01"]
+[White "guitarium"]
+[Result "2-62"]
+[Time "03:04:28"]
+[TimeControl "60"]
+[BlackElo "1049"]
+[WhiteElo "1313"]
+
+1. f5 d6 2. c3 d3 3. c6 f4 4. d2 d1 5. f6 e6 6. f3 e3 7. c2 c4 8. c7 e2 9. c5
+d7 10. f2 e1 11. f7 c1 12. e7 b1 13. f1 g1 14. g2 h1 15. g3 h4 16. h2 h3 17. b2
+b6 18. b4 g4 19. g5 h6 20. h5 a1 21. b3 a4 22. a7 b5 23. a5 a6 24. a3 a2 25. h7
+h8 26. -- g6 27. -- g7 28. -- g8 29. -- a8 30. -- f8 31. -- b8 32. d8 e8 33. --
+c8 34. -- b7 2-62
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "guitarium"]
+[White "shirley01"]
+[Result "60-1"]
+[Time "03:02:55"]
+[TimeControl "60"]
+[BlackElo "1307"]
+[WhiteElo "1055"]
+
+1. f5 f6 2. e6 f4 3. g5 d6 4. e7 g6 5. c5 g4 6. d3 c4 7. e3 d2 8. c6 b5 9. c3
+c7 10. f7 b4 11. d7 d8 12. f3 g8 13. f8 g3 14. h8 g7 15. e8 b6 16. c8 -- 17. b8
+b7 18. a8 a7 19. a6 a5 20. h7 h6 21. b3 a3 22. a4 -- 23. f2 f1 24. a2 -- 25. c2
+b2 26. a1 -- 27. h5 -- 28. h4 -- 29. b1 -- 30. c1 -- 31. e2 -- 32. g2 h3 33. h1
+-- 34. h2 60-1
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "valthem"]
+[White "guitarium"]
+[Result "7-57"]
+[Time "03:00:49"]
+[TimeControl "60"]
+[BlackElo "1267"]
+[WhiteElo "1292"]
+
+1. d3 c5 2. f6 f5 3. e6 f3 4. c4 e3 5. c3 b4 6. f4 g4 7. e2 f2 8. b3 d6 9. a4
+g5 10. g6 d7 11. e7 e8 12. f7 c6 13. f8 c7 14. b6 d8 15. c8 h6 16. h3 h5 17. h4
+h2 18. d2 g3 19. f1 c1 20. d1 c2 21. b1 e1 22. b2 a1 23. g2 h1 24. h7 g1 25. a2
+a3 26. -- a5 27. -- b5 28. -- h8 29. -- g7 30. -- g8 31. -- b8 32. b7 a8 33. a7
+a6 7-57
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "guitarium"]
+[White "valthem"]
+[Result "58-6"]
+[Time "02:59:10"]
+[TimeControl "60"]
+[BlackElo "1276"]
+[WhiteElo "1283"]
+
+1. f5 d6 2. c3 f4 3. f6 d3 4. c4 g5 5. e6 d7 6. e3 f7 7. e7 c5 8. b6 f3 9. c6
+c7 10. e8 c8 11. g3 f8 12. d8 b5 13. a6 a5 14. a4 b4 15. a3 c2 16. d2 f2 17. b3
+h3 18. c1 e2 19. f1 b2 20. g7 h8 21. g8 a2 22. a1 b7 23. a7 -- 24. b1 -- 25. e1
+d1 26. a8 g1 27. b8 -- 28. h1 -- 29. g2 -- 30. h2 g4 31. h4 h5 32. h7 h6 33. g6
+58-6
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "valthem"]
+[White "guitarium"]
+[Result "0-63"]
+[Time "02:57:29"]
+[TimeControl "60"]
+[BlackElo "1301"]
+[WhiteElo "1258"]
+
+1. d3 c5 2. d6 e3 3. f4 c6 4. f5 c3 5. c4 b5 6. b4 b6 7. e6 a3 8. c7 d7 9. c8
+e8 10. e7 f3 11. a6 a5 12. b3 a7 13. c2 a2 14. d2 a4 15. g3 f8 16. f7 g8 17. g7
+f6 18. g5 h8 19. h7 h6 20. b7 e2 21. e1 g6 22. g4 a8 23. -- b8 24. -- d8 25. --
+h3 26. f2 c1 27. b2 a1 28. h4 h5 29. -- b1 30. -- h2 31. g2 d1 32. -- g1 33. --
+f1 0-63
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "guitarium"]
+[White "valthem"]
+[Result "53-11"]
+[Time "02:55:46"]
+[TimeControl "60"]
+[BlackElo "1238"]
+[WhiteElo "1321"]
+
+1. f5 d6 2. c3 d3 3. c4 f3 4. d7 e6 5. e3 c2 6. d2 c5 7. f4 f6 8. c6 e7 9. g5
+g4 10. c7 h5 11. f8 f2 12. e2 b6 13. f7 f1 14. e1 c1 15. g6 h6 16. d1 c8 17. d8
+e8 18. b8 b7 19. g8 g7 20. h8 h7 21. g3 g2 22. h4 h3 23. b3 a3 24. h1 b4 25. a4
+a5 26. h2 b5 27. g1 a2 28. a8 b2 29. a7 -- 30. a6 -- 31. a1 b1 53-11
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "valthem"]
+[White "guitarium"]
+[Result "39-25"]
+[Time "02:53:25"]
+[TimeControl "60"]
+[BlackElo "1308"]
+[WhiteElo "1251"]
+
+1. f5 d6 2. c5 f4 3. e3 c4 4. d3 e6 5. f3 c3 6. b4 b3 7. c6 d2 8. f6 a4 9. d1
+b5 10. b6 c7 11. d7 a5 12. a6 a7 13. c8 e8 14. e7 f7 15. f8 g8 16. c2 e2 17. e1
+g6 18. g4 g5 19. h5 f2 20. h6 h3 21. a2 f1 22. h4 h7 23. g1 g3 24. g2 g7 25. b7
+b2 26. c1 a3 27. a8 b8 28. d8 h1 29. h2 b1 30. h8 -- 31. a1 39-25
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "taiwara"]
+[White "guitarium"]
+[Result "15-49"]
+[Time "02:48:16"]
+[TimeControl "60"]
+[BlackElo "1403"]
+[WhiteElo "1228"]
+
+1. f5 f6 2. e6 f4 3. e3 d7 4. d3 d6 5. g4 c5 6. e7 f3 7. c4 c6 8. b5 f8 9. g3
+h4 10. c8 e8 11. c7 c3 12. c2 e2 13. f1 h3 14. f2 d2 15. g5 g6 16. d8 b8 17. h6
+f7 18. h5 b6 19. c1 h7 20. a6 b4 21. a3 b3 22. a2 a5 23. a4 b7 24. g7 g2 25. g1
+h2 26. b2 h1 27. a7 a8 28. -- a1 29. -- b1 30. -- g8 31. h8 e1 32. d1 15-49
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "hipnoise"]
+[White "guitarium"]
+[Result "13-51"]
+[Time "02:44:30"]
+[TimeControl "60"]
+[BlackElo "1157"]
+[WhiteElo "1215"]
+
+1. f5 d6 2. c7 f3 3. c5 d7 4. c3 e6 5. f4 c6 6. f2 c4 7. b4 d3 8. e3 f6 9. b5
+c8 10. e8 b6 11. e7 d8 12. b8 f7 13. a6 a3 14. b3 a5 15. g5 f8 16. g8 g6 17. h6
+h4 18. g4 h3 19. g3 a4 20. a2 f1 21. e2 h2 22. g2 e1 23. d2 h1 24. g1 h5 25. g7
+d1 26. c2 h8 27. h7 a8 28. c1 a7 29. b7 a1 30. -- b1 31. -- b2 13-51
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.19"]
+[Round "-"]
+[Black "guitarium"]
+[White "hipnoise"]
+[Result "62-0"]
+[Time "02:43:07"]
+[TimeControl "60"]
+[BlackElo "1200"]
+[WhiteElo "1172"]
+
+1. f5 f4 2. e3 f6 3. d3 c5 4. d6 c7 5. d7 e7 6. e6 c4 7. c6 b6 8. f3 e2 9. c3
+f2 10. d8 d2 11. a6 a5 12. a4 b3 13. c8 b8 14. a8 b7 15. a7 e8 16. f8 -- 17. f7
+g8 18. b5 -- 19. h8 -- 20. g7 -- 21. b4 -- 22. g6 h7 23. h5 -- 24. h6 -- 25. g5
+-- 26. g4 -- 27. c2 a3 28. a2 c1 29. g3 h4 30. h2 -- 31. h3 -- 32. f1 g2 33. h1
+-- 34. g1 -- 35. e1 -- 36. d1 -- 37. b1 62-0
+

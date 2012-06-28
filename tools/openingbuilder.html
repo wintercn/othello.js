@@ -1,0 +1,152 @@
+﻿<style>
+    .visited { color:green }
+</style>
+<body>
+<textarea id="players">ruru
+foompykatt
+kira
+putanend
+murakamitakeshi
+mblaqgo
+qrystal
+lwmeee
+yukinko
+blacktigers
+acchan
+azunyan
+irumo
+guitarissimo
+sichmphu
+bigmatto
+wbyasty
+simasuke
+strongfair
+reversimaster
+masterium
+skreamo
+harunyan
+mochikura
+spirifer
+paripariball
+suwoi
+suumero
+naoxoxoxox
+knitzofround
+mrsatan
+emyu
+newk
+reishi
+killermachine
+suegin
+daihuku
+ayaturupon
+gucky
+reversikurnik
+tukematukeru
+ipadrepus
+pfalzyasty
+fuuro
+ludicolo
+niwaniwani
+lvlarch
+mordercapl
+varane
+kariume
+lightrta
+chavesdooito
+daichi
+yarkgart
+guitarium
+furinkazan
+aljowa
+hayates</textarea>
+<button onclick="start();">start</button>
+<div id="container"></div>
+<div id="progress"></div>
+</body>
+<script src="../src/pgn.js"></script>
+<script>
+
+var opening = {count:0};
+
+function start() {
+
+var list = document.querySelector("#players").value.split("\n");
+var index = {};
+var current = 0;
+var page = 0;
+
+var container = document.querySelector("#container");
+
+document.querySelector("#progress").innerHTML = list.map(function(e){
+    return "<span>"+e+" </span>";
+}).join("");
+
+function getpage() {
+    if(current<list.length) {
+        document.querySelector("#progress").childNodes[current].className = "visited";
+        var xhr = new XMLHttpRequest;
+        xhr.open("GET","../data/playok/"+list[current]+".txt",true);
+        xhr.onreadystatechange = function(e) {
+            if(this.readyState == 4) {
+                var text = this.responseText;
+                var data = parsePGN(this.responseText);
+                data.forEach(function(g){
+                    var node = opening;
+                    if(g.steps[0]=="c4") {
+                        g.steps = g.steps.map(function(e){
+                            return String.fromCharCode(8-(e.charCodeAt(0)-97)+96)+String.fromCharCode(8-(e.charCodeAt(1)-49)+48);
+                        })
+                    }
+                    if(g.steps[0]=="d3") {
+                        g.steps = g.steps.map(function(e){
+                            return String.fromCharCode(8-(e.charCodeAt(1)-49)+96)+String.fromCharCode(8-(e.charCodeAt(0)-97)+48);
+                        })
+                    }
+                    if(g.steps[0]=="e6") {
+                        g.steps = g.steps.map(function(e){
+                            return String.fromCharCode((e.charCodeAt(1)-49)+97)+String.fromCharCode((e.charCodeAt(0)-97)+49);
+                        })
+                    }
+                    g.steps.forEach(function(step) {
+                        if(!node[step])
+                            node[step] = {count:0};
+                        node = node[step];
+                        node.count ++;
+                    });
+                });
+                current++;
+                getpage();
+            }
+        }
+        xhr.send(null);
+    }
+    else {
+        finish();
+    }
+}
+getpage();
+
+}
+
+function finish(){
+    function walk(o){
+        for(var p in o) {
+            if(p == "count") continue;
+            if(o[p].count<100) {
+                delete o[p];
+            }
+            else {
+                walk(o[p]);
+            }
+        }
+    }
+    walk(opening);
+    container.innerText = (JSON.stringify(opening));
+}
+
+
+
+
+
+</script>

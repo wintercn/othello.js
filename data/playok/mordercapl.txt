@@ -1,0 +1,6121 @@
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.26"]
+[Round "-"]
+[Black "mordercapl"]
+[White "storyteller"]
+[Result "0-64"]
+[Time "13:06:47"]
+[TimeControl "120"]
+[BlackElo "2032"]
+[WhiteElo "1683"]
+
+1. e6 f4 2. f3 d6 3. f5 e7 4. d7 f6 5. f7 c8 6. c7 c6 7. d3 c4 8. c5 e3 9. e2
+g3 10. h3 d8 11. g4 c3 12. b4 e8 13. f8 g8 14. g7 h8 15. h7 h6 16. g6 h5 17. b6
+g5 18. b8 a8 19. c2 b7 20. -- a6 21. a7 a5 22. a4 b5 23. -- a3 24. -- b3 25. --
+b2 26. a2 b1 27. d2 a1 28. -- c1 29. -- f1 30. d1 f2 31. e1 h4 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.17"]
+[Round "-"]
+[Black "mordercapl"]
+[White "mk1141"]
+[Result "50-13"]
+[Time "18:51:37"]
+[TimeControl "420"]
+[BlackElo "2030"]
+[WhiteElo "1512"]
+
+1. c4 e3 2. f5 b4 3. f3 f4 4. e2 e6 5. g5 f6 6. d6 g4 7. h5 c7 8. f7 h3 9. c3
+g3 10. e7 d3 11. d2 f2 12. b5 h6 13. h4 d7 14. g6 c5 15. e1 e8 16. b6 f8 17. g7
+c2 18. c6 b3 19. a5 a3 20. a4 c1 21. g2 a6 22. c8 d8 23. g8 g1 24. d1 f1 25. h1
+h2 26. b8 b7 27. a8 a7 28. a2 b2 29. b1 h7 30. h8 50-13
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.17"]
+[Round "-"]
+[Black "mordercapl"]
+[White "tsan1"]
+[Result "61-3"]
+[Time "18:47:17"]
+[TimeControl "60"]
+[BlackElo "2028"]
+[WhiteElo "1568"]
+
+1. f5 f6 2. e6 d6 3. c5 f4 4. g5 g4 5. d7 c4 6. e7 f7 7. g6 h6 8. h4 e8 9. h3
+b5 10. f3 c6 11. c7 h5 12. h7 e3 13. g3 f2 14. f8 c8 15. d8 g8 16. b6 a6 17. e1
+g1 18. d2 d3 19. f1 d1 20. e2 h2 21. h1 g2 22. c1 c2 23. b2 b1 24. a1 a2 25. c3
+b3 26. a3 -- 27. a5 a4 28. b4 -- 29. b7 b8 30. g7 a7 31. a8 -- 32. h8 61-3
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.17"]
+[Round "-"]
+[Black "mordercapl"]
+[White "storyteller"]
+[Result "49-15"]
+[Time "13:06:50"]
+[TimeControl "180"]
+[BlackElo "2021"]
+[WhiteElo "1796"]
+
+1. f5 d6 2. c4 d3 3. c3 f4 4. c5 b3 5. c2 e3 6. d2 b6 7. b4 e6 8. c6 b5 9. f7
+e7 10. f6 e2 11. a6 g6 12. f8 c7 13. c8 d7 14. f1 d1 15. f2 f3 16. c1 b1 17. h5
+e8 18. d8 g7 19. h8 b7 20. a8 b8 21. g5 g4 22. e1 g1 23. a7 h7 24. h6 g8 25. g3
+g2 26. h4 h3 27. h2 b2 28. a1 a3 29. a2 a4 30. h1 -- 31. a5 49-15
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.17"]
+[Round "-"]
+[Black "mordercapl"]
+[White "satosan"]
+[Result "52-12"]
+[Time "12:57:24"]
+[TimeControl "300"]
+[BlackElo "2019"]
+[WhiteElo "1553"]
+
+1. e6 f4 2. d3 e7 3. f3 e3 4. g4 c4 5. d2 c3 6. c5 e2 7. d1 b6 8. b3 f1 9. f6
+f2 10. b4 f5 11. g5 g3 12. d7 c1 13. e1 b5 14. c2 d6 15. h4 h3 16. d8 h5 17. c6
+f7 18. a5 e8 19. c7 b2 20. g6 a2 21. a3 h6 22. g2 h1 23. g1 c8 24. h2 a6 25. a1
+b1 26. a7 b7 27. a8 b8 28. a4 -- 29. g7 h8 30. h7 g8 31. f8 52-12
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.17"]
+[Round "-"]
+[Black "mordercapl"]
+[White "hirak"]
+[Result "51-13"]
+[Time "12:51:47"]
+[TimeControl "180"]
+[BlackElo "2014"]
+[WhiteElo "1727"]
+
+1. d3 c5 2. e6 f5 3. f6 e3 4. d6 e7 5. f7 c6 6. g6 g5 7. f4 h6 8. e8 c3 9. c4
+b5 10. d7 g3 11. f3 g4 12. b6 f8 13. e2 c8 14. d8 d2 15. f2 e1 16. g7 b4 17. c7
+a6 18. b7 h7 19. h5 h4 20. a7 g2 21. h1 g1 22. a5 a8 23. b8 a4 24. f1 g8 25. c1
+c2 26. b1 b2 27. d1 -- 28. a2 a1 29. h2 h3 30. h8 a3 31. b3 51-13
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.17"]
+[Round "-"]
+[Black "hirak"]
+[White "mordercapl"]
+[Result "12-52"]
+[Time "12:47:44"]
+[TimeControl "180"]
+[BlackElo "1732"]
+[WhiteElo "2009"]
+
+1. f5 d6 2. c5 f4 3. e3 c6 4. d3 f6 5. e6 d7 6. e7 c7 7. c4 f8 8. b6 b5 9. a6
+b3 10. b4 f3 11. d8 e8 12. f7 c8 13. g4 g3 14. g6 g8 15. g5 h6 16. e2 h3 17. b7
+h5 18. h4 f2 19. f1 d1 20. e1 g1 21. g7 a8 22. b8 h8 23. h7 a3 24. a4 a7 25. c2
+a5 26. g2 b2 27. b1 a2 28. h2 h1 29. -- c3 30. d2 a1 31. -- c1 12-52
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.13"]
+[Round "-"]
+[Black "dadodudou"]
+[White "mordercapl"]
+[Result "20-44"]
+[Time "22:58:31"]
+[TimeControl "120"]
+[BlackElo "1626"]
+[WhiteElo "2006"]
+
+1. c4 c3 2. d3 c5 3. d6 f4 4. b3 c6 5. b4 b6 6. e6 d7 7. f5 f6 8. g4 e3 9. f3
+h3 10. h5 e2 11. d2 b5 12. e7 g3 13. c2 d1 14. c8 a3 15. c7 h4 16. g6 a4 17. e1
+g5 18. h6 f1 19. c1 f7 20. a6 b1 21. f2 g7 22. a5 b2 23. h2 d8 24. e8 g8 25. h8
+f8 26. a1 a7 27. g1 h7 28. -- h1 29. -- g2 30. -- b7 31. b8 a8 32. -- a2 20-44
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.13"]
+[Round "-"]
+[Black "mordercapl"]
+[White "dadodudou"]
+[Result "49-15"]
+[Time "22:55:11"]
+[TimeControl "120"]
+[BlackElo "2003"]
+[WhiteElo "1629"]
+
+1. f5 f6 2. e6 f4 3. e3 c5 4. c4 e7 5. c6 d2 6. e2 c3 7. d3 f3 8. f2 e1 9. f1
+d1 10. g4 d6 11. g5 g6 12. c1 c2 13. b4 b5 14. g3 a3 15. b6 c7 16. a4 a6 17. a5
+b2 18. b1 b3 19. f7 e8 20. a1 a2 21. h7 g2 22. b7 h6 23. h1 g1 24. h2 h8 25. h3
+h4 26. c8 a8 27. a7 b8 28. d8 -- 29. h5 -- 30. d7 -- 31. g8 f8 32. g7 49-15
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.13"]
+[Round "-"]
+[Black "dadodudou"]
+[White "mordercapl"]
+[Result "0-64"]
+[Time "22:51:11"]
+[TimeControl "120"]
+[BlackElo "1632"]
+[WhiteElo "2000"]
+
+1. c4 c3 2. d3 c5 3. d6 e3 4. b3 b4 5. d2 c2 6. f6 c6 7. e6 b5 8. a4 c1 9. a5
+b6 10. d7 a6 11. b2 c7 12. c8 b7 13. f3 f4 14. a8 e2 15. f5 g3 16. a7 g4 17. h4
+g6 18. g5 h6 19. h3 h5 20. h7 f7 21. e7 d8 22. f1 d1 23. e1 f2 24. e8 a1 25. g2
+a3 26. a2 b1 27. -- h1 28. g1 h2 29. -- g8 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.13"]
+[Round "-"]
+[Black "mordercapl"]
+[White "dadodudou"]
+[Result "64-0"]
+[Time "22:47:26"]
+[TimeControl "120"]
+[BlackElo "1996"]
+[WhiteElo "1636"]
+
+1. f5 f6 2. e6 f4 3. g5 e7 4. e3 f3 5. c5 c4 6. g3 c6 7. d6 d7 8. c3 g4 9. h5
+h3 10. h4 h6 11. g6 c2 12. c7 c8 13. f7 h2 14. b5 b4 15. d3 b3 16. a3 a4 17. e8
+d8 18. g7 f2 19. a5 a6 20. a7 b6 21. c1 e2 22. a2 h8 23. h7 g8 24. f8 b2 25. h1
+d2 26. f1 g1 27. g2 e1 28. b7 b8 29. a8 -- 30. b1 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.13"]
+[Round "-"]
+[Black "mordercapl"]
+[White "jimgordon"]
+[Result "58-6"]
+[Time "21:04:36"]
+[TimeControl "120"]
+[BlackElo "1994"]
+[WhiteElo "1550"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. c5 b3 5. c2 b4 6. e3 d2 7. f3 f6 8. e6 e7 9. c6
+b5 10. c7 g6 11. g5 h5 12. e1 g4 13. g3 e2 14. h4 h3 15. f7 d7 16. d8 c8 17. f1
+d1 18. a4 a5 19. a6 b6 20. e8 f8 21. a7 g1 22. a3 b7 23. a8 b8 24. h6 h7 25. c1
+b1 26. f2 g2 27. h1 h2 28. h8 -- 29. b2 a2 30. g8 -- 31. a1 -- 32. g7 58-6
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.13"]
+[Round "-"]
+[Black "jimgordon"]
+[White "mordercapl"]
+[Result "8-56"]
+[Time "21:00:53"]
+[TimeControl "120"]
+[BlackElo "1552"]
+[WhiteElo "1992"]
+
+1. e6 f6 2. f5 f4 3. g6 c5 4. g4 g5 5. f3 e3 6. e2 d6 7. c3 d3 8. g3 d2 9. c4
+f2 10. h5 c6 11. c1 h3 12. f1 h4 13. h2 d7 14. e7 f8 15. b5 b4 16. a5 a3 17. b3
+c2 18. d8 f7 19. b6 e8 20. g8 h7 21. d1 e1 22. b2 a1 23. b1 a2 24. g7 a4 25. --
+c8 26. c7 h8 27. -- h6 28. -- h1 29. -- g1 30. -- g2 31. -- b8 32. b7 a8 33. a7
+a6 8-56
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.13"]
+[Round "-"]
+[Black "mordercapl"]
+[White "jimgordon"]
+[Result "64-0"]
+[Time "20:56:41"]
+[TimeControl "120"]
+[BlackElo "1990"]
+[WhiteElo "1554"]
+
+1. e6 f4 2. c3 e7 3. f3 f2 4. f6 d6 5. f5 e3 6. d3 g4 7. g5 h6 8. f7 g6 9. c7
+c2 10. d2 c1 11. f8 b4 12. e2 d1 13. g3 h4 14. b3 c6 15. d7 a4 16. b5 c5 17. c4
+a6 18. a5 b6 19. a3 a2 20. g7 d8 21. e8 h8 22. f1 g8 23. h3 g2 24. h7 h2 25. h5
+b2 26. h1 -- 27. a1 b1 28. g1 -- 29. e1 -- 30. a7 b7 31. a8 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.10"]
+[Round "-"]
+[Black "mordercapl"]
+[White "exia09"]
+[Result "64-0"]
+[Time "22:45:23"]
+[TimeControl "120"]
+[BlackElo "1988"]
+[WhiteElo "1523"]
+
+1. f5 d6 2. c4 d3 3. c3 f4 4. f6 g5 5. e6 c5 6. f3 f7 7. e7 e3 8. g4 b4 9. f8
+h4 10. h3 h2 11. g3 d7 12. h6 g6 13. e2 d8 14. c2 c1 15. h7 d2 16. g7 f1 17. e8
+h8 18. h5 g8 19. h1 f2 20. b3 a4 21. g1 b2 22. e1 g2 23. c6 b5 24. b7 c7 25. b6
+a5 26. a1 a3 27. d1 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.10"]
+[Round "-"]
+[Black "exia09"]
+[White "mordercapl"]
+[Result "0-64"]
+[Time "22:42:19"]
+[TimeControl "120"]
+[BlackElo "1525"]
+[WhiteElo "1986"]
+
+1. e6 f4 2. e3 d6 3. c5 f3 4. c6 e7 5. f5 f6 6. f8 c3 7. d3 c4 8. b5 b3 9. c2
+e2 10. f7 d2 11. d1 b4 12. a4 e1 13. a3 c1 14. g5 b6 15. g4 a5 16. f1 g1 17. f2
+a2 18. a7 c7 19. b8 d8 20. b2 d7 21. a6 a8 22. e8 b7 23. c8 g8 24. g7 g3 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.10"]
+[Round "-"]
+[Black "mordercapl"]
+[White "playon"]
+[Result "7-56"]
+[Time "15:21:03"]
+[TimeControl "180"]
+[BlackElo "2016"]
+[WhiteElo "1555"]
+
+1. e6 f4 2. d3 c4 3. c3 d6 4. f3 c5 5. f5 f6 6. c7 d7 7. d8 c6 8. b4 e3 9. e7
+b5 10. d2 f8 11. g5 a3 12. f7 g6 13. g4 h5 14. h4 c8 15. b8 b3 16. h7 h6 17. g7
+h8 18. g8 e8 19. a5 a8 20. b7 a7 21. b2 b6 22. -- a6 23. -- a4 24. -- a2 25. --
+a1 26. -- c2 27. -- d1 28. c1 b1 29. -- e1 30. -- e2 31. g2 g3 32. f2 h3 33. --
+f1 34. h1 g1 7-56
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.10"]
+[Round "-"]
+[Black "mordercapl"]
+[White "qwerasdf1"]
+[Result "64-0"]
+[Time "15:13:20"]
+[TimeControl "180"]
+[BlackElo "2014"]
+[WhiteElo "1532"]
+
+1. c4 c3 2. d3 c5 3. b4 b3 4. b5 d2 5. c6 e3 6. c2 e6 7. a3 c1 8. e2 f2 9. d6
+d7 10. e1 b2 11. d8 c7 12. a1 e7 13. f1 a5 14. g3 d1 15. b1 a4 16. f4 f3 17. g4
+h3 18. f5 h5 19. a6 g1 20. a2 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.10"]
+[Round "-"]
+[Black "qwerasdf1"]
+[White "mordercapl"]
+[Result "0-64"]
+[Time "15:10:22"]
+[TimeControl "180"]
+[BlackElo "1534"]
+[WhiteElo "2012"]
+
+1. e6 f4 2. e3 d6 3. c5 f3 4. c4 f6 5. f5 g4 6. g5 g3 7. d3 h6 8. f2 e2 9. e7
+g6 10. h5 c7 11. d7 h4 12. f7 e1 13. h2 f8 14. g2 h3 15. f1 h1 16. d1 e8 17. g7
+d8 18. h7 c8 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.10"]
+[Round "-"]
+[Black "mordercapl"]
+[White "munyumunyu"]
+[Result "43-21"]
+[Time "15:06:28"]
+[TimeControl "60"]
+[BlackElo "1997"]
+[WhiteElo "1980"]
+
+1. f5 f6 2. e6 f4 3. e3 d6 4. e7 d3 5. c6 f7 6. g6 e8 7. g5 d7 8. f8 g8 9. f3
+c5 10. c7 b6 11. d8 c8 12. c4 c3 13. b5 a4 14. b4 a3 15. b7 b3 16. a7 g4 17. h3
+g7 18. g3 h4 19. h8 h5 20. b8 a6 21. d2 c2 22. c1 e2 23. f1 f2 24. g1 b2 25. h7
+h6 26. a1 e1 27. d1 b1 28. a2 h1 29. a5 a8 30. g2 h2 43-21
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.10"]
+[Round "-"]
+[Black "munyumunyu"]
+[White "mordercapl"]
+[Result "36-28"]
+[Time "15:04:49"]
+[TimeControl "60"]
+[BlackElo "1962"]
+[WhiteElo "2015"]
+
+1. f5 d6 2. c3 f4 3. f6 c4 4. e3 f3 5. d3 e2 6. g4 e6 7. d2 f2 8. g3 g5 9. h4
+g6 10. h7 d1 11. f1 c2 12. f7 h2 13. e1 g1 14. e7 g2 15. c7 h6 16. h5 f8 17. c5
+d8 18. b3 a4 19. c1 c6 20. d7 e8 21. c8 b8 22. h3 h8 23. h1 b5 24. a6 a5 25. g8
+g7 26. a8 b4 27. a3 b1 28. b7 b2 29. a1 a7 30. a2 b6 36-28
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.10"]
+[Round "-"]
+[Black "mordercapl"]
+[White "munyumunyu"]
+[Result "49-15"]
+[Time "15:02:48"]
+[TimeControl "60"]
+[BlackElo "2000"]
+[WhiteElo "1977"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 f3 5. e6 e7 6. c6 g5 7. e3 d7 8. g4 h3 9. f2
+e2 10. g3 f1 11. f7 c7 12. h6 h5 13. h4 h7 14. g2 b6 15. e8 d8 16. c8 h1 17. b8
+c5 18. a6 f8 19. g8 b7 20. d2 h2 21. b5 b3 22. e1 c2 23. d1 c1 24. a8 a5 25. a7
+b4 26. g6 g7 27. a3 a4 28. h8 a2 29. a1 -- 30. b2 b1 31. g1 49-15
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.10"]
+[Round "-"]
+[Black "munyumunyu"]
+[White "mordercapl"]
+[Result "41-23"]
+[Time "15:01:02"]
+[TimeControl "60"]
+[BlackElo "1958"]
+[WhiteElo "2019"]
+
+1. f5 d6 2. c3 f4 3. f6 c4 4. e3 f3 5. d3 e2 6. g4 e6 7. d2 f2 8. g3 g5 9. h4
+g6 10. h7 d1 11. f7 c2 12. f1 h2 13. e1 g1 14. e7 g2 15. c7 h6 16. h5 f8 17. c5
+d8 18. b4 a5 19. a4 h3 20. h1 d7 21. a6 b3 22. b5 c6 23. a3 b2 24. b6 g7 25. c8
+b8 26. e8 a7 27. a8 b7 28. c1 a1 29. b1 a2 30. g8 h8 41-23
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.09"]
+[Round "-"]
+[Black "satosan"]
+[White "mordercapl"]
+[Result "20-44"]
+[Time "23:26:10"]
+[TimeControl "300"]
+[BlackElo "1611"]
+[WhiteElo "2016"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 d7 6. e7 c5 7. f3 g4 8. e3 g6 9. b6
+b5 10. c6 g3 11. a6 f2 12. f7 d8 13. e8 f8 14. h4 h5 15. h6 c7 16. f1 e2 17. e1
+b7 18. h3 g2 19. h2 h1 20. g1 d1 21. a8 b4 22. d2 a4 23. b8 c8 24. a5 b3 25. a3
+c2 26. c1 h7 27. g7 b2 28. b1 a1 29. g8 a2 30. -- h8 31. -- a7 20-44
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.09"]
+[Round "-"]
+[Black "mordercapl"]
+[White "satosan"]
+[Result "59-5"]
+[Time "23:19:29"]
+[TimeControl "300"]
+[BlackElo "2013"]
+[WhiteElo "1614"]
+
+1. d3 c5 2. f6 f5 3. e6 e3 4. d6 f7 5. g6 e7 6. f4 c4 7. c6 e2 8. c3 c7 9. c2
+d2 10. f3 b5 11. b3 b4 12. f8 b6 13. e8 f2 14. d7 d8 15. e1 f1 16. d1 a3 17. c1
+g5 18. h6 g8 19. g1 g4 20. b7 g3 21. h5 h3 22. h4 h7 23. c8 b1 24. a1 h2 25. h8
+g2 26. h1 a7 27. b8 -- 28. a8 -- 29. a6 a5 30. g7 -- 31. a4 b2 32. a2 59-5
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.09"]
+[Round "-"]
+[Black "mordercapl"]
+[White "lightrta"]
+[Result "60-4"]
+[Time "23:08:21"]
+[TimeControl "180"]
+[BlackElo "2002"]
+[WhiteElo "1880"]
+
+1. d3 c3 2. c4 c5 3. d6 e3 4. f5 f6 5. b5 b6 6. b3 a6 7. f4 e6 8. b4 g6 9. c2
+d7 10. e2 d2 11. f3 f1 12. c6 a5 13. c7 e7 14. e1 d1 15. c1 b1 16. a4 d8 17. a7
+a2 18. g5 h5 19. f8 e8 20. c8 g3 21. f2 b7 22. b8 g1 23. a8 -- 24. a3 -- 25. a1
+-- 26. h1 -- 27. b2 -- 28. h3 h2 29. g2 h4 30. g4 f7 31. g8 g7 32. h8 h7 33. h6
+60-4
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.09"]
+[Round "-"]
+[Black "takatin"]
+[White "mordercapl"]
+[Result "17-47"]
+[Time "23:01:59"]
+[TimeControl "180"]
+[BlackElo "1396"]
+[WhiteElo "2001"]
+
+1. d3 c3 2. c4 c5 3. b3 f4 4. c6 d2 5. f5 b5 6. e1 c2 7. e3 c1 8. a5 e2 9. b4
+f6 10. f3 f2 11. f1 d1 12. b1 e6 13. g1 d6 14. d7 c7 15. e7 a3 16. a4 a6 17. b6
+a2 18. g3 g4 19. h4 a7 20. f7 h3 21. h2 d8 22. e8 g6 23. h5 c8 24. g2 h6 25. g5
+h1 26. b2 f8 27. b8 a1 28. g8 b7 29. g7 h8 30. h7 a8 17-47
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.09"]
+[Round "-"]
+[Black "mordercapl"]
+[White "takatin"]
+[Result "60-3"]
+[Time "22:57:04"]
+[TimeControl "180"]
+[BlackElo "2000"]
+[WhiteElo "1397"]
+
+1. e6 f4 2. c3 c4 3. d3 d6 4. f6 c6 5. f5 g5 6. g4 f3 7. e3 e2 8. d2 h5 9. g3
+f7 10. h6 h7 11. h3 g6 12. f2 e1 13. f1 c5 14. d1 c1 15. b1 b4 16. c2 g2 17. b3
+a3 18. b5 a4 19. a6 b6 20. a7 b2 21. g1 b7 22. h4 h2 23. h1 -- 24. a8 d7 25. h8
+b8 26. c7 c8 27. g7 e7 28. a5 -- 29. a2 -- 30. d8 e8 31. g8 -- 32. f8 60-3
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.09"]
+[Round "-"]
+[Black "takatin"]
+[White "mordercapl"]
+[Result "50-14"]
+[Time "22:54:06"]
+[TimeControl "180"]
+[BlackElo "1366"]
+[WhiteElo "2031"]
+
+1. f5 d6 2. c5 f4 3. e3 c6 4. f3 g5 5. h6 g4 6. e6 f6 7. h5 c3 8. g6 c4 9. e7
+f8 10. d8 d2 11. e2 f7 12. d7 e8 13. g8 h3 14. g3 e1 15. c8 h2 16. b6 b7 17. a8
+f2 18. d3 a7 19. a6 c7 20. c1 h4 21. h1 g7 22. b8 g2 23. h8 h7 24. g1 f1 25. d1
+c2 26. b5 b3 27. b4 a3 28. a5 -- 29. a4 a2 30. a1 b1 31. b2 50-14
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.09"]
+[Round "-"]
+[Black "mordercapl"]
+[White "vimdynamici"]
+[Result "57-7"]
+[Time "20:32:08"]
+[TimeControl "120"]
+[BlackElo "2027"]
+[WhiteElo "1711"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 d7 6. e7 c5 7. f3 f8 8. e3 f7 9. c8
+g6 10. e8 b3 11. a3 g4 12. g3 d2 13. e2 b4 14. c6 f1 15. e1 d8 16. c7 b5 17. a4
+a5 18. a6 b8 19. b6 d1 20. h4 h2 21. h5 b7 22. a7 h6 23. h3 f2 24. h1 g2 25. a8
+a2 26. g8 -- 27. g7 h8 28. a1 -- 29. c1 b1 30. h7 c2 31. g1 -- 32. b2 57-7
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.09"]
+[Round "-"]
+[Black "vimdynamici"]
+[White "mordercapl"]
+[Result "17-47"]
+[Time "20:30:47"]
+[TimeControl "120"]
+[BlackElo "1716"]
+[WhiteElo "2022"]
+
+1. f5 d6 2. c3 f4 3. f6 c4 4. d3 f3 5. e3 e2 6. g4 e6 7. d2 f2 8. g3 g5 9. h6
+d1 10. f1 h4 11. e1 g1 12. c7 c6 13. b4 h5 14. h3 c1 15. c2 b5 16. c5 f7 17. a6
+b1 18. f8 g6 19. d7 e7 20. h7 b3 21. a3 b6 22. a5 d8 23. e8 g8 24. g7 c8 25. b7
+a4 26. b2 g2 27. h1 h2 28. a1 a2 29. -- h8 30. -- a8 31. a7 b8 17-47
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.09"]
+[Round "-"]
+[Black "mordercapl"]
+[White "robot"]
+[Result "64-0"]
+[Time "20:26:22"]
+[TimeControl "60"]
+[BlackElo "2018"]
+[WhiteElo "1666"]
+
+1. f5 f6 2. e6 f4 3. e3 d6 4. e7 f7 5. g4 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.09"]
+[Round "-"]
+[Black "mordercapl"]
+[White "flashbacked"]
+[Result "44-20"]
+[Time "20:24:45"]
+[TimeControl "60"]
+[BlackElo "2016"]
+[WhiteElo "1549"]
+
+1. f5 f6 2. e6 d6 3. c5 f4 4. g5 c4 5. f3 g6 6. f7 g3 7. d3 e3 8. c3 g4 9. e2
+e7 10. c6 b5 11. f2 b4 12. b6 d7 13. e8 d8 14. c8 f8 15. g8 c7 16. b8 d1 17. e1
+c2 18. d2 c1 19. h6 f1 20. h5 h4 21. h3 a6 22. h2 g7 23. a3 a5 24. b2 a1 25. a4
+b7 26. h7 a2 27. h8 b3 28. a8 a7 29. g2 h1 30. b1 -- 31. g1 44-20
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.09"]
+[Round "-"]
+[Black "flashbacked"]
+[White "mordercapl"]
+[Result "11-53"]
+[Time "20:23:15"]
+[TimeControl "60"]
+[BlackElo "1551"]
+[WhiteElo "2014"]
+
+1. f5 d6 2. c5 f4 3. d3 e3 4. g4 g5 5. f2 c4 6. c3 c6 7. e6 f3 8. d7 e2 9. f1
+g3 10. h4 e7 11. d2 f6 12. h6 e8 13. f8 d8 14. c8 b5 15. b4 c7 16. b8 g6 17. a6
+f7 18. g8 a5 19. h5 g7 20. h8 h7 21. a4 b6 22. a7 a3 23. a2 b7 24. b3 a8 25. --
+e1 26. d1 c1 27. c2 a1 28. b1 g1 29. g2 h1 30. h2 h3 31. -- b2 11-53
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.09"]
+[Round "-"]
+[Black "mordercapl"]
+[White "flashbacked"]
+[Result "0-64"]
+[Time "20:21:07"]
+[TimeControl "60"]
+[BlackElo "2044"]
+[WhiteElo "1521"]
+
+0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.07"]
+[Round "-"]
+[Black "mordercapl"]
+[White "termi2010"]
+[Result "0-64"]
+[Time "20:46:37"]
+[TimeControl "180"]
+[BlackElo "2075"]
+[WhiteElo "1542"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 c5 6. f3 f7 7. e7 b5 8. e3 g6 9. h5
+d2 10. d7 c2 11. c6 f8 12. c7 e2 13. c1 c8 14. e1 f2 15. g4 h3 16. h4 b4 17. e8
+d8 18. g3 b8 19. a4 b6 20. b7 h6 21. g7 h2 22. g2 h7 23. -- d1 24. f1 a3 25. b3
+a8 26. a7 a6 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.07"]
+[Round "-"]
+[Black "termi2010"]
+[White "mordercapl"]
+[Result "12-52"]
+[Time "20:44:41"]
+[TimeControl "180"]
+[BlackElo "1543"]
+[WhiteElo "2074"]
+
+1. d3 c5 2. e6 e3 3. d6 c3 4. e2 f1 5. b6 f3 6. f2 f5 7. f4 g4 8. g3 c4 9. f6
+h3 10. e1 d1 11. g2 c7 12. d7 d2 13. b4 g6 14. h2 g5 15. h6 h1 16. g1 h4 17. b2
+b3 18. a2 a1 19. d8 a3 20. c2 c6 21. b5 a6 22. h5 a7 23. b7 a8 24. b8 c8 25. e8
+a4 26. a5 f8 27. e7 h7 28. g7 g8 29. h8 f7 30. b1 c1 12-52
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.06"]
+[Round "-"]
+[Black "darkbroot"]
+[White "mordercapl"]
+[Result "0-64"]
+[Time "23:30:00"]
+[TimeControl "180"]
+[BlackElo "1738"]
+[WhiteElo "2070"]
+
+1. e6 f6 2. f5 d6 3. c5 e3 4. d3 f4 5. e2 c4 6. c3 b5 7. b6 b3 8. a6 d2 9. f3
+c2 10. a3 f1 11. g4 g5 12. f2 h4 13. c6 b4 14. e1 a4 15. d1 a5 16. g1 g3 17. d7
+e7 18. h6 c8 19. c7 h5 20. g2 b8 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.06"]
+[Round "-"]
+[Black "mordercapl"]
+[White "darkbroot"]
+[Result "48-16"]
+[Time "23:26:10"]
+[TimeControl "180"]
+[BlackElo "2066"]
+[WhiteElo "1742"]
+
+1. d3 c5 2. e6 f5 3. f6 e3 4. d6 f7 5. g6 f4 6. g5 c6 7. e7 f8 8. f2 c4 9. c3
+e2 10. g4 g3 11. f3 c2 12. h3 d2 13. d1 h5 14. h7 g1 15. e1 h4 16. h6 f1 17. h1
+h2 18. c1 g7 19. b1 b2 20. g2 h8 21. a2 a1 22. a3 a4 23. b3 -- 24. b4 -- 25. b6
+a6 26. b7 b5 27. d7 c8 28. a8 c7 29. a5 a7 30. b8 -- 31. e8 d8 32. g8 48-16
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.06"]
+[Round "-"]
+[Black "darkbroot"]
+[White "mordercapl"]
+[Result "0-64"]
+[Time "23:22:02"]
+[TimeControl "180"]
+[BlackElo "1746"]
+[WhiteElo "2062"]
+
+1. e6 f6 2. f5 f4 3. e3 d6 4. c4 e2 5. d7 c6 6. f7 d3 7. g6 f8 8. c2 f3 9. c5
+e7 10. c7 c8 11. g4 g3 12. e1 h4 13. g5 b6 14. f2 b5 15. d8 e8 16. b4 h6 17. h5
+h3 18. g2 h1 19. h2 d2 20. c3 a3 21. a6 a4 22. a7 b8 23. g7 b3 24. b2 a2 25. b7
+g8 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.06"]
+[Round "-"]
+[Black "mordercapl"]
+[White "darkbroot"]
+[Result "58-6"]
+[Time "23:17:49"]
+[TimeControl "180"]
+[BlackElo "2057"]
+[WhiteElo "1751"]
+
+1. d3 c5 2. e6 f5 3. f6 e3 4. d6 f7 5. g6 f4 6. g5 c6 7. e7 f8 8. f2 c4 9. c3
+g4 10. f3 g3 11. h5 h3 12. h4 d2 13. c2 e2 14. h2 b4 15. d1 e1 16. f1 c1 17. b1
+g2 18. a4 h6 19. h7 b5 20. d8 e8 21. h1 c8 22. b3 a5 23. g1 a3 24. c7 d7 25. b6
+b2 26. a1 a2 27. a6 b7 28. a8 b8 29. g8 g7 30. h8 -- 31. a7 58-6
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.06"]
+[Round "-"]
+[Black "darkbroot"]
+[White "mordercapl"]
+[Result "19-45"]
+[Time "23:14:12"]
+[TimeControl "180"]
+[BlackElo "1756"]
+[WhiteElo "2052"]
+
+1. e6 f6 2. f5 d6 3. c5 f4 4. d7 c4 5. c3 c8 6. d3 c7 7. e7 f7 8. f3 c6 9. g5
+h6 10. g4 h3 11. g6 g3 12. h4 h5 13. e8 d8 14. b8 e2 15. b6 e3 16. e1 b5 17. a6
+b4 18. a3 f1 19. d2 d1 20. c1 b1 21. f2 f8 22. g8 b3 23. c2 a5 24. a4 b2 25. g2
+g7 26. h2 h1 27. h8 h7 28. a1 g1 29. -- a2 30. -- b7 31. a8 a7 19-45
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.06"]
+[Round "-"]
+[Black "mordercapl"]
+[White "darkbroot"]
+[Result "39-25"]
+[Time "23:10:18"]
+[TimeControl "180"]
+[BlackElo "2047"]
+[WhiteElo "1761"]
+
+1. e6 f4 2. d3 c4 3. c3 d6 4. e3 c2 5. b3 c5 6. b4 f3 7. d2 c1 8. c7 f5 9. f6
+b5 10. c6 b6 11. a4 a6 12. a5 e7 13. f7 d7 14. a7 g5 15. e8 d8 16. f8 g8 17. g6
+h5 18. h6 h7 19. g4 g3 20. e1 e2 21. c8 b8 22. f2 f1 23. d1 b2 24. h3 a2 25. a3
+a8 26. b7 g2 27. h1 g1 28. b1 a1 29. h2 h4 30. h8 -- 31. g7 39-25
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.06"]
+[Round "-"]
+[Black "spasowany"]
+[White "mordercapl"]
+[Result "0-64"]
+[Time "23:06:33"]
+[TimeControl "180"]
+[BlackElo "1617"]
+[WhiteElo "2044"]
+
+1. e6 f4 2. e3 d6 3. c5 f3 4. c4 f6 5. f5 g4 6. c7 d3 7. d2 c2 8. e2 d1 9. f1
+c1 10. f2 c3 11. g5 h6 12. g3 g6 13. h4 h5 14. b3 e1 15. f7 g1 16. h3 h2 17. g7
+0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.06"]
+[Round "-"]
+[Black "mordercapl"]
+[White "spasowany"]
+[Result "64-0"]
+[Time "22:56:36"]
+[TimeControl "420"]
+[BlackElo "2041"]
+[WhiteElo "1620"]
+
+1. c4 e3 2. f5 e6 3. f6 c5 4. c3 b4 5. d3 f4 6. c6 b6 7. d6 d7 8. b5 e7 9. a5
+a3 10. a6 c7 11. a4 a7 12. f7 g4 13. g5 h5 14. c8 d8 15. e8 g8 16. f2 b3 17. g6
+h6 18. f3 e2 19. b8 c2 20. d2 d1 21. e1 f1 22. b2 b7 23. b1 a1 24. c1 f8 25. a8
+g3 26. a2 -- 27. g2 g1 28. h8 -- 29. g7 -- 30. h4 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.06"]
+[Round "-"]
+[Black "mordercapl"]
+[White "prezespawelk"]
+[Result "63-0"]
+[Time "22:40:09"]
+[TimeControl "420"]
+[BlackElo "2033"]
+[WhiteElo "1120"]
+
+1. d3 c5 2. f6 f3 3. f5 e3 4. c3 e6 5. f4 g4 6. e2 g3 7. g5 d2 8. f2 g1 9. f1
+f7 10. h1 d1 11. e1 b3 12. c1 g6 13. g2 -- 14. c2 b1 15. h2 h3 16. h4 h5 17. a4
+a3 18. a2 -- 19. b4 b2 20. c4 b5 21. d7 d6 22. h6 d8 23. h7 -- 24. a1 -- 25. b6
+a5 26. a6 a7 27. g7 -- 28. f8 g8 29. h8 -- 30. c8 b8 31. c6 e7 32. e8 b7 33. a8
+63-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.06"]
+[Round "-"]
+[Black "paulz0"]
+[White "mordercapl"]
+[Result "15-49"]
+[Time "22:32:44"]
+[TimeControl "180"]
+[BlackElo "1688"]
+[WhiteElo "2033"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 f3 5. e6 e7 6. c6 g5 7. g6 f7 8. h5 c7 9. d7
+b6 10. f8 b5 11. c5 d8 12. e3 b4 13. b8 h6 14. h7 c2 15. b3 g3 16. g4 h3 17. f2
+e8 18. c8 g2 19. g7 h4 20. e2 h8 21. g8 d1 22. e1 a4 23. a3 b7 24. c1 a2 25. a7
+a8 26. a5 a6 27. b2 a1 28. b1 d2 29. f1 g1 30. h1 h2 15-49
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.06"]
+[Round "-"]
+[Black "mordercapl"]
+[White "paulz0"]
+[Result "52-12"]
+[Time "22:27:29"]
+[TimeControl "180"]
+[BlackElo "2033"]
+[WhiteElo "1688"]
+
+1. d3 c5 2. f6 e3 3. c3 f5 4. f3 f7 5. d6 e2 6. f2 c4 7. e1 c6 8. d2 e6 9. f4
+g4 10. g5 g3 11. g6 h4 12. h6 h5 13. h3 c2 14. e7 f8 15. d8 d7 16. h7 g1 17. f1
+c1 18. d1 c8 19. b8 g7 20. e8 a8 21. h1 g8 22. b1 g2 23. h2 -- 24. h8 -- 25. b2
+b3 26. a3 a2 27. a1 -- 28. a4 -- 29. b4 b5 30. a5 -- 31. b7 a6 32. a7 b6 33. c7
+52-12
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.06"]
+[Round "-"]
+[Black "paulz0"]
+[White "mordercapl"]
+[Result "23-41"]
+[Time "22:23:55"]
+[TimeControl "180"]
+[BlackElo "1692"]
+[WhiteElo "2029"]
+
+1. f5 d6 2. c4 d3 3. c3 f4 4. f6 f3 5. e6 e7 6. d7 g6 7. d8 c5 8. c6 c7 9. c8
+b6 10. b5 e3 11. b4 a5 12. d2 a3 13. a6 f7 14. e2 f8 15. g3 b3 16. g4 g5 17. h5
+c2 18. h6 d1 19. a4 a7 20. e1 e8 21. b7 a8 22. b8 f1 23. f2 g1 24. b1 g7 25. h8
+g2 26. b2 h2 27. h1 c1 28. a1 a2 29. h3 h4 30. g8 h7 23-41
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.06"]
+[Round "-"]
+[Black "mordercapl"]
+[White "paulz0"]
+[Result "55-9"]
+[Time "22:19:41"]
+[TimeControl "180"]
+[BlackElo "2025"]
+[WhiteElo "1696"]
+
+1. d3 c5 2. e6 f5 3. f6 e3 4. d6 e7 5. f7 g6 6. b5 c6 7. c4 d7 8. d8 c8 9. f8
+c7 10. f2 e2 11. e8 g8 12. f4 f3 13. f1 d1 14. e1 g1 15. g3 h4 16. h3 h2 17. g5
+g4 18. g7 d2 19. c3 b6 20. h5 h8 21. h1 a4 22. c1 b4 23. b3 a2 24. c2 b2 25. b1
+h6 26. a6 a5 27. h7 a7 28. a1 -- 29. a3 -- 30. a8 -- 31. g2 -- 32. b8 -- 33. b7
+55-9
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.06"]
+[Round "-"]
+[Black "paulz0"]
+[White "mordercapl"]
+[Result "64-0"]
+[Time "22:14:27"]
+[TimeControl "180"]
+[BlackElo "1667"]
+[WhiteElo "2054"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 f3 5. g4 g3 6. e6 b3 7. d2 c5 8. f2 e2 9. b6
+c2 10. b4 e3 11. f1 d1 12. b1 a5 13. a4 b5 14. d7 h5 15. a6 g5 16. g2 f7 17. h4
+e7 18. e8 h3 19. h6 c1 20. e1 h1 21. b2 g1 22. g6 a1 23. h2 h7 24. g7 a2 25. --
+h8 26. g8 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.06"]
+[Round "-"]
+[Black "mordercapl"]
+[White "paulz0"]
+[Result "51-13"]
+[Time "22:09:28"]
+[TimeControl "180"]
+[BlackElo "2051"]
+[WhiteElo "1670"]
+
+1. c4 e3 2. f5 e6 3. f6 c5 4. c3 g5 5. c6 d3 6. d6 b4 7. b3 b5 8. a5 a4 9. a3
+b6 10. a6 c2 11. c1 c7 12. c8 d7 13. f7 g6 14. d8 f8 15. e2 e8 16. f4 b8 17. f3
+g3 18. h3 f2 19. e1 d2 20. g4 h4 21. h5 a2 22. b7 f1 23. d1 b1 24. e7 h6 25. a1
+h2 26. g1 a8 27. b2 g2 28. a7 -- 29. h1 -- 30. h7 g7 31. g8 h8 51-13
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.06.06"]
+[Round "-"]
+[Black "mordercapl"]
+[White "concordiaaa"]
+[Result "64-0"]
+[Time "21:40:17"]
+[TimeControl "180"]
+[BlackElo "2050"]
+[WhiteElo "1506"]
+
+1. f5 f6 2. e6 f4 3. e3 d3 4. f3 c5 5. g5 g4 6. f7 e7 7. d6 h5 8. c6 e2 9. h6
+g3 10. h4 d7 11. e8 c8 12. d8 f8 13. g6 b5 14. b6 c7 15. h3 a6 16. c4 b3 17. a5
+a4 18. h2 b4 19. b7 a7 20. a8 b8 21. a3 h7 22. g7 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.29"]
+[Round "-"]
+[Black "attasan4"]
+[White "mordercapl"]
+[Result "12-52"]
+[Time "20:45:13"]
+[TimeControl "900"]
+[BlackElo "1541"]
+[WhiteElo "2048"]
+
+1. f5 d6 2. c5 f4 3. e3 c6 4. d3 f6 5. e6 d7 6. e7 c7 7. c4 f8 8. b6 b5 9. a6
+b3 10. g3 c3 11. b4 a4 12. a5 a3 13. g4 a7 14. f7 g6 15. d8 c8 16. e8 g5 17. c2
+h3 18. h5 b2 19. h4 h6 20. h7 h8 21. g8 g7 22. b7 c1 23. a2 a1 24. b1 d1 25. d2
+e1 26. e2 f1 27. f2 g2 28. h2 h1 29. g1 f3 30. b8 a8 12-52
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.23"]
+[Round "-"]
+[Black "ftrvgf"]
+[White "mordercapl"]
+[Result "53-11"]
+[Time "21:58:46"]
+[TimeControl "180"]
+[BlackElo "1830"]
+[WhiteElo "2074"]
+
+1. d3 c5 2. d6 e3 3. f4 c6 4. f5 c3 5. c4 b5 6. f2 e6 7. d2 f6 8. b3 c2 9. e7
+f7 10. d7 g5 11. g4 g6 12. b6 f3 13. e2 h3 14. g3 c1 15. a4 a5 16. b4 a3 17. d1
+e1 18. f1 g1 19. h5 a6 20. c7 h6 21. h7 d8 22. c8 h4 23. h2 b7 24. a8 a7 25. b8
+g2 26. a2 g7 27. b2 a1 28. b1 -- 29. g8 h8 30. h1 f8 31. e8 53-11
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.23"]
+[Round "-"]
+[Black "mordercapl"]
+[White "ftrvgf"]
+[Result "26-38"]
+[Time "21:56:17"]
+[TimeControl "180"]
+[BlackElo "2101"]
+[WhiteElo "1803"]
+
+1. f5 f6 2. e6 f4 3. e3 c5 4. g5 d6 5. g6 f3 6. g3 h4 7. d3 g4 8. h6 h5 9. h3
+c2 10. c4 c3 11. b3 d2 12. e2 e1 13. b4 f2 14. b6 b5 15. c7 c6 16. a5 c8 17. e7
+a3 18. d8 d7 19. e8 f8 20. f7 g8 21. d1 c1 22. f1 g7 23. b1 b2 24. a4 a6 25. b7
+a2 26. h7 h8 27. -- h2 28. g2 a7 29. b8 a8 30. a1 h1 31. g1 26-38
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.23"]
+[Round "-"]
+[Black "aaa777aaa"]
+[White "mordercapl"]
+[Result "22-42"]
+[Time "21:53:02"]
+[TimeControl "180"]
+[BlackElo "1559"]
+[WhiteElo "2100"]
+
+1. f5 d6 2. c5 f4 3. e3 c6 4. d3 f6 5. e6 d7 6. e7 f3 7. c4 c7 8. d8 c8 9. b8
+e2 10. f1 e8 11. f8 f7 12. b5 c2 13. d2 d1 14. g8 c1 15. g5 c3 16. g4 g6 17. h6
+b4 18. a3 h3 19. h4 a6 20. a5 b6 21. b3 h5 22. h2 g7 23. e1 g1 24. h8 b7 25. b2
+h7 26. g3 h1 27. a8 a7 28. -- f2 29. g2 a2 30. a1 b1 31. -- a4 22-42
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.23"]
+[Round "-"]
+[Black "mordercapl"]
+[White "aaa777aaa"]
+[Result "51-12"]
+[Time "21:51:41"]
+[TimeControl "180"]
+[BlackElo "2099"]
+[WhiteElo "1560"]
+
+1. f5 d6 2. c3 f4 3. f6 g5 4. f3 d3 5. e6 g4 6. e3 e2 7. c4 c5 8. g6 f2 9. h5
+e7 10. h4 h3 11. g3 h6 12. b6 c2 13. d2 c1 14. c6 b5 15. c7 d7 16. d8 e8 17. a5
+b4 18. f8 a4 19. f1 c8 20. b8 a6 21. b7 e1 22. g2 g1 23. d1 a8 24. h1 g8 25. a3
+b3 26. h2 a2 27. a7 -- 28. a1 -- 29. b1 -- 30. b2 -- 31. h7 g7 32. f7 51-12
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.23"]
+[Round "-"]
+[Black "aaa777aaa"]
+[White "mordercapl"]
+[Result "19-45"]
+[Time "21:50:18"]
+[TimeControl "180"]
+[BlackElo "1561"]
+[WhiteElo "2098"]
+
+1. f5 d6 2. c5 f4 3. e3 c6 4. d3 f6 5. e6 d7 6. e7 f3 7. c4 c7 8. d8 c8 9. b8
+e2 10. f1 e8 11. f8 f7 12. g8 b5 13. b4 b6 14. a5 c2 15. a6 c3 16. b3 e1 17. c1
+b2 18. d2 d1 19. g6 g4 20. h4 g3 21. g5 f2 22. h3 g2 23. g1 h1 24. h2 b1 25. a1
+a2 26. a3 a4 27. b7 a8 28. a7 h5 29. h6 h7 30. g7 h8 19-45
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.23"]
+[Round "-"]
+[Black "mordercapl"]
+[White "lolmom"]
+[Result "55-9"]
+[Time "21:47:40"]
+[TimeControl "60"]
+[BlackElo "2096"]
+[WhiteElo "1643"]
+
+1. f5 f6 2. e6 d6 3. c5 f4 4. g5 c4 5. f3 g3 6. c6 h6 7. g4 f2 8. e3 h3 9. c3
+e2 10. d7 b2 11. c2 b3 12. d3 d2 13. b4 a5 14. b1 b5 15. a1 c1 16. d1 e7 17. a6
+a2 18. b6 e1 19. f1 d8 20. g1 c7 21. c8 b8 22. g2 a4 23. a3 h1 24. a7 b7 25. h2
+-- 26. h5 h4 27. g6 f7 28. e8 f8 29. a8 -- 30. g7 h7 31. g8 -- 32. h8 55-9
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.22"]
+[Round "-"]
+[Black "cheekytrax"]
+[White "mordercapl"]
+[Result "0-64"]
+[Time "22:23:23"]
+[TimeControl "180"]
+[BlackElo "1792"]
+[WhiteElo "2091"]
+
+1. c4 c3 2. d3 c5 3. d6 e3 4. b5 e6 5. d2 e2 6. b4 c1 7. f5 c6 8. f3 f4 9. f2
+f6 10. f1 e1 11. g5 g6 12. g3 h3 13. h4 h5 14. h6 h7 15. g2 g4 16. c7 b3 17. e7
+f7 18. f8 d7 19. d1 c2 20. e8 g7 21. b1 a4 22. a5 b2 23. a3 h1 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.21"]
+[Round "-"]
+[Black "mordercapl"]
+[White "annasui"]
+[Result "54-10"]
+[Time "17:06:03"]
+[TimeControl "60"]
+[BlackElo "2090"]
+[WhiteElo "1553"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 e7 6. c6 e3 7. d2 c7 8. d7 b6 9. b5
+c5 10. f7 b4 11. b3 e2 12. c8 d1 13. a3 a4 14. a6 a2 15. g6 c2 16. h4 h6 17. g4
+e8 18. c1 b1 19. h5 h3 20. g3 f2 21. f3 g2 22. f1 g1 23. e1 a7 24. a8 b8 25. a5
+d8 26. b7 b2 27. f8 g7 28. a1 -- 29. h8 g8 30. h7 -- 31. h2 h1 54-10
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.21"]
+[Round "-"]
+[Black "annasui"]
+[White "mordercapl"]
+[Result "23-41"]
+[Time "17:04:49"]
+[TimeControl "60"]
+[BlackElo "1554"]
+[WhiteElo "2089"]
+
+1. f5 d6 2. c5 f4 3. d3 e3 4. g4 g5 5. e2 c4 6. b5 c6 7. e6 f3 8. c3 g6 9. g3
+f6 10. h5 f2 11. e1 h6 12. h7 f1 13. c7 d1 14. d7 h3 15. f7 h4 16. h2 b4 17. a3
+c2 18. d2 b3 19. c1 b1 20. g2 a4 21. a5 h1 22. g1 b2 23. a1 a2 24. -- h8 25. --
+g8 26. f8 g7 27. e7 e8 28. -- d8 29. c8 b8 30. b7 a7 31. a8 a6 32. b6 23-41
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.21"]
+[Round "-"]
+[Black "mordercapl"]
+[White "annasui"]
+[Result "52-12"]
+[Time "17:03:22"]
+[TimeControl "60"]
+[BlackElo "2088"]
+[WhiteElo "1555"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 e7 6. c6 e3 7. d2 c7 8. d7 b6 9. b5
+c5 10. f7 c8 11. b4 f8 12. f3 a5 13. g4 a3 14. a4 h3 15. h5 g3 16. d8 e8 17. g6
+h6 18. h4 c2 19. b3 d1 20. f2 f1 21. e2 e1 22. g7 g2 23. a6 a7 24. h1 a2 25. h2
+h7 26. g1 b2 27. h8 -- 28. g8 -- 29. b8 b7 30. a8 -- 31. a1 b1 32. c1 52-12
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.21"]
+[Round "-"]
+[Black "oreyade"]
+[White "mordercapl"]
+[Result "30-34"]
+[Time "17:00:01"]
+[TimeControl "60"]
+[BlackElo "1739"]
+[WhiteElo "2084"]
+
+1. f5 d6 2. c5 f4 3. d7 f6 4. d3 c3 5. b3 d2 6. e1 c7 7. e7 c6 8. c8 d1 9. c1
+b4 10. a3 b5 11. a4 f8 12. e6 f7 13. c4 b6 14. a5 d8 15. c2 a7 16. e2 a2 17. a1
+e3 18. g3 b7 19. e8 a6 20. g4 g6 21. g5 g7 22. b2 f3 23. a8 b8 24. f2 h4 25. h8
+g8 26. h7 h6 27. h5 h3 28. h2 b1 29. g2 h1 30. g1 f1 30-34
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.21"]
+[Round "-"]
+[Black "xzuon"]
+[White "mordercapl"]
+[Result "44-20"]
+[Time "16:58:15"]
+[TimeControl "60"]
+[BlackElo "1812"]
+[WhiteElo "2111"]
+
+1. e6 f4 2. c3 d6 3. f6 d3 4. c5 c6 5. c4 b5 6. d7 f5 7. b4 b6 8. c7 e7 9. d8
+f7 10. g6 c8 11. b8 e8 12. f8 h6 13. e2 d2 14. e1 f1 15. g1 a4 16. b3 d1 17. c1
+c2 18. e3 f3 19. b1 b7 20. a3 b2 21. g4 a2 22. a1 g5 23. g3 f2 24. h5 h7 25. a5
+h2 26. h8 a7 27. h3 a6 28. a8 g8 29. g7 h4 30. g2 h1 44-20
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.21"]
+[Round "-"]
+[Black "mordercapl"]
+[White "xzuon"]
+[Result "44-20"]
+[Time "16:56:45"]
+[TimeControl "60"]
+[BlackElo "2106"]
+[WhiteElo "1817"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 f3 5. e6 e7 6. c6 g6 7. g5 f7 8. h6 c5 9. b5
+b6 10. d7 c7 11. a6 a4 12. b4 b3 13. e3 a3 14. g3 g4 15. e2 h5 16. c2 c1 17. h4
+d2 18. h7 f1 19. d1 e1 20. f8 h2 21. f2 a5 22. a2 g1 23. b2 g2 24. a7 b7 25. a8
+b8 26. e8 h3 27. h1 g7 28. g8 b1 29. a1 -- 30. c8 d8 31. -- h8 44-20
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.21"]
+[Round "-"]
+[Black "xzuon"]
+[White "mordercapl"]
+[Result "31-33"]
+[Time "16:55:12"]
+[TimeControl "60"]
+[BlackElo "1822"]
+[WhiteElo "2101"]
+
+1. e6 f4 2. c3 d6 3. f6 d3 4. c5 c6 5. c4 b5 6. d7 f5 7. b4 b6 8. c7 e7 9. d8
+f7 10. g6 c8 11. b8 e8 12. f8 h6 13. e2 d2 14. e1 f1 15. g1 a4 16. b3 d1 17. c1
+c2 18. e3 f3 19. b1 b7 20. g4 g3 21. a8 a7 22. a6 a5 23. g5 f2 24. h3 h4 25. b2
+a3 26. h2 h1 27. g2 h5 28. g7 a1 29. a2 g8 30. h7 h8 31-33
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.21"]
+[Round "-"]
+[Black "mordercapl"]
+[White "xzuon"]
+[Result "39-25"]
+[Time "16:53:41"]
+[TimeControl "60"]
+[BlackElo "2095"]
+[WhiteElo "1828"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 f3 5. e6 e7 6. c6 g6 7. g5 f7 8. h6 c5 9. b5
+b6 10. d7 c7 11. a6 g4 12. d2 h5 13. c8 h7 14. f8 d8 15. e8 b3 16. e3 e2 17. c2
+a5 18. g3 f2 19. h3 a7 20. a3 b7 21. h4 h2 22. e1 f1 23. g1 d1 24. c1 a2 25. a1
+b1 26. b2 h1 27. g2 g7 28. b8 b4 29. a8 -- 30. h8 g8 31. a4 39-25
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.21"]
+[Round "-"]
+[Black "xzuon"]
+[White "mordercapl"]
+[Result "21-43"]
+[Time "16:52:11"]
+[TimeControl "60"]
+[BlackElo "1834"]
+[WhiteElo "2089"]
+
+1. e6 f4 2. c3 d6 3. f6 d3 4. c5 c6 5. c4 b5 6. d7 f5 7. b4 b6 8. c7 e7 9. d8
+f7 10. g6 c8 11. b8 e8 12. f8 h6 13. e2 d2 14. e1 f1 15. g1 a4 16. f2 c2 17. b3
+a3 18. e3 d1 19. c1 b2 20. g3 g4 21. f3 g5 22. a1 b1 23. h3 h4 24. h5 h2 25. a2
+h7 26. a5 h1 27. g2 g7 28. h8 g8 29. -- a8 30. -- a7 31. a6 b7 21-43
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.21"]
+[Round "-"]
+[Black "mordercapl"]
+[White "xzuon"]
+[Result "34-30"]
+[Time "16:50:27"]
+[TimeControl "60"]
+[BlackElo "2083"]
+[WhiteElo "1840"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 f3 5. e6 e7 6. c6 g6 7. g5 h6 8. e2 f7 9. e3
+c5 10. d7 c8 11. g3 b6 12. b5 b3 13. b4 a4 14. a3 g4 15. c7 d8 16. a5 a6 17. h4
+a2 18. h5 c2 19. c1 f1 20. d2 e1 21. d1 b1 22. h7 h2 23. f2 g1 24. g7 h8 25. b8
+a8 26. g8 h3 27. g2 b7 28. a7 e8 29. f8 h1 30. a1 -- 31. b2 34-30
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.21"]
+[Round "-"]
+[Black "xzuon"]
+[White "mordercapl"]
+[Result "14-50"]
+[Time "16:48:54"]
+[TimeControl "60"]
+[BlackElo "1847"]
+[WhiteElo "2076"]
+
+1. e6 f4 2. c3 d6 3. f6 d3 4. c5 c6 5. c4 b5 6. d7 f5 7. b4 b6 8. b3 c2 9. g5
+e7 10. d8 f8 11. f7 a5 12. d2 e3 13. f3 a4 14. c1 g6 15. h5 c8 16. b8 h6 17. h7
+g4 18. g3 e2 19. f2 b2 20. c7 b1 21. a2 a1 22. a3 g8 23. a7 d1 24. a6 e1 25. f1
+g1 26. g2 h1 27. h2 h3 28. h4 h8 29. g7 e8 30. -- a8 31. -- b7 14-50
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.21"]
+[Round "-"]
+[Black "sheryy12"]
+[White "mordercapl"]
+[Result "18-46"]
+[Time "16:41:48"]
+[TimeControl "180"]
+[BlackElo "1928"]
+[WhiteElo "2066"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 f3 5. e6 e7 6. d7 c5 7. c6 g6 8. f8 b4 9. b3
+c7 10. a5 b5 11. b6 e8 12. d8 f7 13. h6 c2 14. g5 a3 15. g3 a4 16. f2 a6 17. e3
+g4 18. h3 e2 19. d1 g2 20. d2 h4 21. h5 c1 22. h1 e1 23. f1 g7 24. b2 a1 25. a2
+b1 26. h8 g1 27. g8 h2 28. a7 a8 29. -- b7 30. -- b8 31. c8 h7 18-46
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.21"]
+[Round "-"]
+[Black "mordercapl"]
+[White "wtan"]
+[Result "31-33"]
+[Time "16:35:03"]
+[TimeControl "600"]
+[BlackElo "2096"]
+[WhiteElo "1651"]
+
+1. e6 f4 2. c3 c4 3. d3 d6 4. f6 c6 5. f5 g5 6. g4 f7 7. h6 g6 8. f8 f3 9. b5
+b4 10. c5 h4 11. e7 c7 12. g3 h3 13. h5 d7 14. b6 h7 15. c8 c2 16. d2 a5 17. a3
+a6 18. e3 a4 19. a7 f2 20. e2 f1 21. c1 d1 22. e1 b1 23. b3 d8 24. g1 b2 25. e8
+b7 26. a1 a2 27. g2 h2 28. b8 a8 29. g7 g8 30. h8 -- 31. h1 31-33
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.21"]
+[Round "-"]
+[Black "wtan"]
+[White "mordercapl"]
+[Result "0-64"]
+[Time "16:33:44"]
+[TimeControl "600"]
+[BlackElo "1653"]
+[WhiteElo "2094"]
+
+0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.20"]
+[Round "-"]
+[Black "mordercapl"]
+[White "prezespawelk"]
+[Result "63-1"]
+[Time "22:18:01"]
+[TimeControl "120"]
+[BlackElo "2094"]
+[WhiteElo "1120"]
+
+1. d3 c3 2. c4 c5 3. b4 a5 4. d6 e3 5. f5 g5 6. d2 c6 7. e6 f6 8. b3 a3 9. a4
+b5 10. c2 d1 11. a6 a7 12. b2 a1 13. a2 c1 14. a8 -- 15. b6 b7 16. c8 b8 17. c7
+d8 18. e8 -- 19. d7 e7 20. f8 -- 21. f7 g8 22. h8 -- 23. g7 -- 24. g6 h7 25. f2
+f4 26. h6 g1 27. e1 e2 28. f1 f3 29. h5 -- 30. b1 -- 31. g2 g3 32. h3 g4 33. h1
+-- 34. h2 -- 35. h4 63-1
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.20"]
+[Round "-"]
+[Black "mordercapl"]
+[White "alex2007gt"]
+[Result "44-20"]
+[Time "22:11:22"]
+[TimeControl "180"]
+[BlackElo "2093"]
+[WhiteElo "1519"]
+
+1. d3 c5 2. e6 f5 3. f6 e3 4. d6 e7 5. f7 d7 6. c6 g5 7. c4 c7 8. d8 c8 9. e8
+f8 10. f2 d2 11. f3 g3 12. f4 g4 13. c3 e2 14. d1 f1 15. h6 g6 16. e1 c1 17. c2
+b1 18. g7 b3 19. b4 a4 20. a5 a6 21. a3 a2 22. b5 b6 23. h5 h8 24. h3 h4 25. h7
+g2 26. g8 h2 27. b8 a8 28. h1 g1 29. b7 b2 30. a1 -- 31. a7 44-20
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.20"]
+[Round "-"]
+[Black "brottarn"]
+[White "mordercapl"]
+[Result "0-64"]
+[Time "21:51:50"]
+[TimeControl "120"]
+[BlackElo "1580"]
+[WhiteElo "2091"]
+
+1. e6 f4 2. c3 c4 3. d3 d6 4. c5 c6 5. d7 f6 6. b5 c8 7. e8 b6 8. c7 e3 9. f5
+a5 10. e2 g5 11. g4 e7 12. h5 b4 13. a6 h3 14. g3 f3 15. a4 h6 16. f8 h4 17. f7
+f2 18. g1 b7 19. g6 d8 20. g7 d2 21. c2 h8 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.20"]
+[Round "-"]
+[Black "mordercapl"]
+[White "brottarn"]
+[Result "58-6"]
+[Time "21:45:19"]
+[TimeControl "120"]
+[BlackElo "2089"]
+[WhiteElo "1579"]
+
+1. d3 c3 2. c4 e3 3. f4 c5 4. e2 f5 5. f6 f1 6. e6 f2 7. d2 c2 8. c6 d6 9. b4
+b5 10. d7 f3 11. b3 a5 12. a6 a4 13. a3 e7 14. a2 g3 15. c1 g4 16. g6 g5 17. d1
+c8 18. e1 b1 19. h4 h3 20. h2 h6 21. g2 c7 22. b6 h1 23. h5 -- 24. g1 -- 25. a1
+-- 26. b2 -- 27. d8 e8 28. b7 a8 29. a7 -- 30. f7 h7 31. h8 f8 32. g8 -- 33. g7
+-- 34. b8 58-6
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.20"]
+[Round "-"]
+[Black "brottarn"]
+[White "mordercapl"]
+[Result "17-47"]
+[Time "21:40:54"]
+[TimeControl "120"]
+[BlackElo "1581"]
+[WhiteElo "2087"]
+
+1. e6 f4 2. d3 e7 3. f3 e3 4. g4 c4 5. d6 c3 6. d2 c5 7. d7 c6 8. c7 f5 9. g6
+g5 10. h6 c2 11. f6 c8 12. d8 f2 13. f1 g3 14. b4 b3 15. e2 a4 16. b5 h5 17. a5
+a6 18. c1 h4 19. b6 f7 20. h3 f8 21. b8 b2 22. h7 g7 23. a3 e8 24. a7 a1 25. b1
+e1 26. h8 g8 27. b7 d1 28. -- h2 29. h1 a2 30. g2 g1 31. -- a8 17-47
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.20"]
+[Round "-"]
+[Black "gumsun"]
+[White "mordercapl"]
+[Result "8-56"]
+[Time "20:46:24"]
+[TimeControl "300"]
+[BlackElo "1547"]
+[WhiteElo "2086"]
+
+1. d3 c5 2. e6 f5 3. d6 e3 4. f4 f3 5. g6 c6 6. c4 g5 7. e2 c7 8. d7 f6 9. b5
+c8 10. g3 h6 11. e7 d8 12. f8 b6 13. h4 e8 14. f7 h5 15. b8 h3 16. g4 a4 17. a6
+b7 18. a8 h2 19. g7 a7 20. g2 h8 21. g8 h1 22. g1 f1 23. f2 d1 24. e1 h7 25. c1
+b1 26. -- d2 27. c3 b3 28. c2 b2 29. a2 a3 30. a5 a1 31. -- b4 8-56
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.17"]
+[Round "-"]
+[Black "saladosllenahue"]
+[White "mordercapl"]
+[Result "21-43"]
+[Time "19:12:45"]
+[TimeControl "180"]
+[BlackElo "1528"]
+[WhiteElo "2085"]
+
+1. f5 f6 2. e6 f4 3. g5 e7 4. e3 g6 5. d3 c5 6. d6 c6 7. f7 c4 8. e8 d2 9. b5
+g3 10. c7 b4 11. f3 a6 12. d7 e2 13. h6 d8 14. c8 b6 15. h3 g7 16. e1 g8 17. c1
+d1 18. c2 h4 19. h5 f8 20. b7 b3 21. c3 f1 22. g1 g4 23. f2 a8 24. a4 b8 25. h8
+h7 26. g2 h1 27. h2 a5 28. a7 b1 29. b2 a1 30. a2 a3 21-43
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.17"]
+[Round "-"]
+[Black "borassi"]
+[White "mordercapl"]
+[Result "16-48"]
+[Time "19:07:20"]
+[TimeControl "180"]
+[BlackElo "1945"]
+[WhiteElo "2075"]
+
+1. e6 f4 2. c3 c4 3. d3 d6 4. f6 c6 5. f5 g5 6. f3 e7 7. b4 g4 8. g6 f2 9. g3
+e3 10. c5 d2 11. c2 b3 12. f7 a4 13. f1 b5 14. e8 h5 15. h4 h3 16. c1 d7 17. a2
+a3 18. a5 e2 19. e1 b6 20. c8 d1 21. c7 h6 22. a6 b2 23. a1 b1 24. g2 h7 25. g7
+g8 26. f8 h8 27. -- h1 28. g1 d8 29. -- a7 30. b7 h2 31. a8 b8 16-48
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.17"]
+[Round "-"]
+[Black "mochikura"]
+[White "mordercapl"]
+[Result "64-0"]
+[Time "17:13:33"]
+[TimeControl "60"]
+[BlackElo "2184"]
+[WhiteElo "2087"]
+
+1. f5 f4 2. e3 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.17"]
+[Round "-"]
+[Black "mordercapl"]
+[White "mochikura"]
+[Result "29-35"]
+[Time "17:09:32"]
+[TimeControl "60"]
+[BlackElo "2100"]
+[WhiteElo "2171"]
+
+1. f5 f6 2. e6 f4 3. e3 d6 4. e7 d3 5. c6 f7 6. g6 e8 7. g5 d7 8. f8 g8 9. f3
+c5 10. c7 b6 11. d8 c8 12. c4 c3 13. b5 a4 14. b4 a3 15. b7 b3 16. a7 g4 17. h3
+e2 18. g3 g7 19. f2 h4 20. h8 h5 21. d1 d2 22. a5 a8 23. b8 f1 24. c2 b1 25. g1
+h1 26. c1 e1 27. h7 h6 28. g2 h2 29. b2 a6 30. -- a2 31. a1 29-35
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.17"]
+[Round "-"]
+[Black "martinod"]
+[White "mordercapl"]
+[Result "31-33"]
+[Time "17:05:45"]
+[TimeControl "60"]
+[BlackElo "1707"]
+[WhiteElo "2097"]
+
+1. f5 d6 2. c3 f4 3. f6 c4 4. e3 f3 5. d3 e2 6. g4 e6 7. d2 f2 8. c2 b3 9. e1
+g5 10. f1 e7 11. h6 c1 12. g6 d1 13. f7 g1 14. d8 g3 15. d7 h4 16. h5 h7 17. h3
+h2 18. b4 a4 19. c5 b6 20. b5 e8 21. f8 g7 22. a3 a6 23. h8 a5 24. b2 g8 25. b1
+a1 26. a2 c6 27. h1 g2 28. b7 b8 29. c7 c8 30. a8 a7 31-33
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.17"]
+[Round "-"]
+[Black "mordercapl"]
+[White "martinod"]
+[Result "34-30"]
+[Time "17:04:29"]
+[TimeControl "60"]
+[BlackElo "2094"]
+[WhiteElo "1710"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 c5 6. f3 f7 7. e7 f8 8. e3 g6 9. h5
+e2 10. d2 b4 11. c7 d7 12. a5 g3 13. g4 h3 14. h4 f2 15. c8 d8 16. h6 c1 17. h2
+g7 18. h8 b5 19. c6 a3 20. a6 a4 21. a2 b3 22. b6 b8 23. g2 h7 24. g8 b7 25. e8
+h1 26. d1 e1 27. c2 b1 28. a8 a7 29. f1 g1 30. b2 a1 34-30
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.17"]
+[Round "-"]
+[Black "martinod"]
+[White "mordercapl"]
+[Result "0-64"]
+[Time "17:02:59"]
+[TimeControl "60"]
+[BlackElo "1713"]
+[WhiteElo "2091"]
+
+1. f5 d6 2. c3 f4 3. f6 c4 4. e3 f3 5. d3 e2 6. g4 e6 7. d2 f2 8. g3 g5 9. h6
+d1 10. f1 h4 11. c2 h5 12. b5 h7 13. c5 g6 14. c6 b6 15. d7 c1 16. e7 h3 17. g2
+e1 18. b1 e8 19. g1 d8 20. f7 h1 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.17"]
+[Round "-"]
+[Black "mordercapl"]
+[White "gekikararock"]
+[Result "29-35"]
+[Time "17:01:00"]
+[TimeControl "60"]
+[BlackElo "2105"]
+[WhiteElo "2158"]
+
+1. f5 f6 2. e6 f4 3. e3 d6 4. e7 d3 5. c6 f7 6. g6 e8 7. g5 d7 8. f8 g8 9. f3
+c5 10. c7 b6 11. d8 c8 12. c4 c3 13. b5 a4 14. b4 a3 15. b7 b3 16. a7 g4 17. h3
+e2 18. g3 g7 19. f2 h4 20. h8 h5 21. d1 d2 22. a5 a8 23. b8 f1 24. c2 b1 25. g1
+h1 26. c1 e1 27. h7 h6 28. g2 a6 29. b2 h2 30. -- a1 31. a2 29-35
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.17"]
+[Round "-"]
+[Black "azupoo"]
+[White "mordercapl"]
+[Result "32-32"]
+[Time "13:36:54"]
+[TimeControl "180"]
+[BlackElo "1712"]
+[WhiteElo "2118"]
+
+1. f5 f6 2. e6 d6 3. e7 g5 4. g6 f4 5. c6 f7 6. h4 e8 7. c5 g4 8. c3 c4 9. d3
+e3 10. b5 h5 11. h6 c7 12. d7 c8 13. f2 b6 14. d8 b3 15. a6 c2 16. h3 g3 17. f3
+d2 18. b4 f1 19. e2 e1 20. a3 g7 21. h8 h7 22. c1 a4 23. d1 a5 24. g8 f8 25. g1
+b1 26. g2 h1 27. h2 b2 28. a7 a8 29. b7 b8 30. a2 a1 32-32
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.17"]
+[Round "-"]
+[Black "mordercapl"]
+[White "azupoo"]
+[Result "32-32"]
+[Time "13:32:34"]
+[TimeControl "180"]
+[BlackElo "2132"]
+[WhiteElo "1698"]
+
+1. d3 c3 2. c4 e3 3. f4 d6 4. e6 c5 5. c7 d7 6. c6 b5 7. b6 c8 8. f2 a6 9. b4
+a5 10. a3 f3 11. e2 b3 12. g4 e7 13. e8 d2 14. c1 f5 15. d8 c2 16. b8 h3 17. h5
+h4 18. h2 g3 19. f7 f8 20. b7 f6 21. a4 f1 22. e1 a8 23. g6 g7 24. g5 d1 25. g1
+h6 26. h8 h1 27. g2 b1 28. a2 a1 29. b2 g8 30. a7 -- 31. h7 32-32
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.17"]
+[Round "-"]
+[Black "azupoo"]
+[White "mordercapl"]
+[Result "25-39"]
+[Time "13:28:22"]
+[TimeControl "180"]
+[BlackElo "1700"]
+[WhiteElo "2130"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 f3 5. e6 e7 6. d7 c5 7. b6 d8 8. c6 c7 9. d2
+g5 10. e3 f7 11. g4 h3 12. g3 a5 13. a6 a7 14. c8 b5 15. b4 b8 16. h4 h5 17. h6
+h7 18. g6 h2 19. f8 c2 20. b3 e2 21. f2 e1 22. f1 a2 23. a3 a4 24. d1 c1 25. b1
+b7 26. a8 e8 27. a1 b2 28. g7 h8 29. -- g8 30. -- g1 31. h1 g2 25-39
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.17"]
+[Round "-"]
+[Black "mordercapl"]
+[White "vimdynamici"]
+[Result "37-27"]
+[Time "13:24:26"]
+[TimeControl "120"]
+[BlackElo "2129"]
+[WhiteElo "1602"]
+
+1. f5 d6 2. c4 d3 3. c3 f4 4. c5 b3 5. c2 e6 6. c6 b4 7. b5 d2 8. e3 a6 9. c1
+b6 10. f3 f6 11. f7 e2 12. d1 f1 13. e7 e1 14. g1 g6 15. f2 d7 16. h5 e8 17. f8
+c7 18. d8 c8 19. b8 h6 20. g4 g5 21. h4 h3 22. g3 h2 23. b7 a8 24. g7 h8 25. a7
+g8 26. h7 a5 27. a3 a4 28. h1 g2 29. -- b1 30. a1 a2 31. b2 37-27
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.17"]
+[Round "-"]
+[Black "vimdynamici"]
+[White "mordercapl"]
+[Result "17-47"]
+[Time "13:22:10"]
+[TimeControl "120"]
+[BlackElo "1603"]
+[WhiteElo "2128"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 f3 5. e6 e7 6. f7 c5 7. e3 e2 8. g3 b4 9. g5
+g6 10. d8 h5 11. b5 b3 12. a4 g4 13. a3 f2 14. d2 c1 15. c7 c2 16. h6 c6 17. d7
+h4 18. b2 a5 19. a6 a1 20. b6 a2 21. b1 a7 22. e1 d1 23. f1 g2 24. h1 g1 25. h2
+h3 26. b7 a8 27. b8 f8 28. g8 h8 29. g7 h7 30. e8 c8 17-47
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.16"]
+[Round "-"]
+[Black "mordercapl"]
+[White "test0002"]
+[Result "32-32"]
+[Time "23:00:50"]
+[TimeControl "300"]
+[BlackElo "2134"]
+[WhiteElo "2006"]
+
+1. e6 f6 2. f5 d6 3. f7 e3 4. d7 e7 5. d8 c8 6. c6 c7 7. c5 b5 8. a5 b6 9. c3
+d3 10. a6 b3 11. f3 a4 12. c4 f4 13. b4 a7 14. a2 g4 15. g5 g3 16. c2 h6 17. e2
+f2 18. h5 f1 19. d2 h4 20. d1 g6 21. h2 c1 22. g2 e1 23. h3 h1 24. g1 g8 25. b2
+a1 26. b1 e8 27. f8 g7 28. b7 a3 29. h8 h7 30. b8 a8 32-32
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.16"]
+[Round "-"]
+[Black "mordercapl"]
+[White "reversimaster"]
+[Result "32-32"]
+[Time "21:15:58"]
+[TimeControl "600"]
+[BlackElo "2133"]
+[WhiteElo "2145"]
+
+1. c4 c3 2. d3 e3 3. d2 b4 4. f4 c2 5. d6 f3 6. e2 f1 7. c5 g4 8. f2 b6 9. g3
+c6 10. b3 f6 11. c1 d1 12. f5 h3 13. e6 e1 14. a4 b5 15. g6 b1 16. a5 e7 17. g2
+d7 18. f7 h6 19. g5 a3 20. h5 a6 21. h7 f8 22. c7 h1 23. e8 d8 24. g7 h2 25. b2
+h4 26. g1 g8 27. a1 h8 28. c8 b8 29. a2 b7 30. a7 a8 32-32
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.16"]
+[Round "-"]
+[Black "mordercapl"]
+[White "9015"]
+[Result "36-28"]
+[Time "21:06:13"]
+[TimeControl "180"]
+[BlackElo "2131"]
+[WhiteElo "1642"]
+
+1. d3 c5 2. f6 f5 3. e6 e3 4. c3 d2 5. c4 b5 6. f4 d6 7. f3 b4 8. c7 e7 9. c6
+d7 10. b3 f2 11. e1 c2 12. e2 f1 13. d1 a3 14. b6 g5 15. g4 g6 16. f8 d8 17. e8
+g8 18. f7 h4 19. h3 g3 20. a6 h2 21. g1 b1 22. h6 c8 23. a4 h5 24. h1 c1 25. a2
+a5 26. a1 b2 27. g7 h8 28. b7 a8 29. a7 g2 30. h7 b8 36-28
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.16"]
+[Round "-"]
+[Black "9015"]
+[White "mordercapl"]
+[Result "20-44"]
+[Time "21:01:23"]
+[TimeControl "180"]
+[BlackElo "1644"]
+[WhiteElo "2129"]
+
+1. f5 d6 2. c5 f4 3. e3 c6 4. d3 f6 5. e6 d7 6. e7 c7 7. c4 f8 8. b6 b5 9. a6
+b3 10. g3 c3 11. b4 a4 12. a5 a3 13. g5 a7 14. f7 g6 15. h6 d2 16. e2 f1 17. c2
+c1 18. c8 d8 19. d1 e1 20. b2 f2 21. b1 g4 22. f3 h5 23. h4 g2 24. e8 b8 25. h1
+h3 26. b7 a8 27. g1 h7 28. a2 a1 29. g7 g8 30. -- h8 31. -- h2 20-44
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.16"]
+[Round "-"]
+[Black "mordercapl"]
+[White "vimdynamici"]
+[Result "64-0"]
+[Time "20:56:08"]
+[TimeControl "120"]
+[BlackElo "2127"]
+[WhiteElo "1623"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 d7 6. e3 c5 7. f3 e7 8. h5 d2 9. e2
+e1 10. c6 f2 11. f7 c2 12. g6 h4 13. h3 f8 14. g3 g4 15. h6 b6 16. b5 a5 17. c7
+b4 18. c8 e8 19. d8 b8 20. b3 a4 21. g7 h2 22. h1 h8 23. g8 h7 24. c1 d1 25. a8
+b1 26. f1 b2 27. b7 a7 28. a6 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.16"]
+[Round "-"]
+[Black "vimdynamici"]
+[White "mordercapl"]
+[Result "12-52"]
+[Time "20:52:23"]
+[TimeControl "120"]
+[BlackElo "1625"]
+[WhiteElo "2125"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 d7 6. c7 g6 7. e3 c6 8. c5 b6 9. d8
+b5 10. e7 f3 11. b4 f7 12. g8 f2 13. e2 a3 14. g4 c8 15. b8 e8 16. f8 h3 17. f1
+b3 18. h4 h5 19. h7 g2 20. a4 h6 21. g3 h8 22. a5 a8 23. h1 a6 24. a7 b7 25. g7
+h2 26. a2 a1 27. -- b2 28. c2 c1 29. b1 e1 30. d1 d2 31. -- g1 12-52
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.16"]
+[Round "-"]
+[Black "mordercapl"]
+[White "vimdynamici"]
+[Result "64-0"]
+[Time "20:49:01"]
+[TimeControl "120"]
+[BlackElo "2123"]
+[WhiteElo "1627"]
+
+1. c4 e3 2. f6 e6 3. f5 c5 4. c3 b4 5. d3 e2 6. d6 f4 7. c6 d2 8. g3 g4 9. f3
+g5 10. f2 g6 11. e1 d1 12. h5 h6 13. h4 b5 14. c1 h3 15. c2 f1 16. g1 b3 17. a6
+a5 18. b6 b2 19. a1 b1 20. h2 d7 21. f7 c7 22. e7 e8 23. g2 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.16"]
+[Round "-"]
+[Black "vimdynamici"]
+[White "mordercapl"]
+[Result "9-55"]
+[Time "20:45:14"]
+[TimeControl "120"]
+[BlackElo "1629"]
+[WhiteElo "2121"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 f3 5. e6 e7 6. f7 c5 7. e3 e2 8. g3 b4 9. g5
+g6 10. d8 h5 11. b5 b3 12. a4 g4 13. f2 c2 14. d2 e1 15. c1 f1 16. c7 d1 17. a3
+b1 18. h4 c6 19. h6 e8 20. f8 b6 21. a5 c8 22. d7 b7 23. b8 a8 24. a7 a6 25. g2
+a2 26. b2 a1 27. -- g7 28. g8 g1 29. -- h1 30. h2 h3 31. -- h7 32. -- h8 9-55
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.16"]
+[Round "-"]
+[Black "mordercapl"]
+[White "vimdynamici"]
+[Result "64-0"]
+[Time "20:41:37"]
+[TimeControl "120"]
+[BlackElo "2119"]
+[WhiteElo "1631"]
+
+1. e6 f4 2. c3 c4 3. d3 d6 4. e3 c2 5. b3 f5 6. f3 d2 7. e2 b4 8. c5 f1 9. a3
+f2 10. c6 f6 11. g6 b5 12. g5 a5 13. g4 g3 14. h3 d7 15. a4 a2 16. c7 e7 17. b7
+f7 18. d1 e1 19. a6 b6 20. a1 c1 21. b2 b8 22. c8 d8 23. b1 h5 24. g2 h4 25. g1
+64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.16"]
+[Round "-"]
+[Black "vimdynamici"]
+[White "mordercapl"]
+[Result "0-64"]
+[Time "20:38:52"]
+[TimeControl "120"]
+[BlackElo "1633"]
+[WhiteElo "2117"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 d7 6. c7 g6 7. e3 c6 8. c5 b6 9. d8
+b5 10. e7 f3 11. g4 f7 12. g3 h3 13. b4 e8 14. f8 c8 15. b8 g7 16. h4 h5 17. a4
+a5 18. a6 h2 19. h8 g8 20. h7 h6 21. h1 a8 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.16"]
+[Round "-"]
+[Black "mordercapl"]
+[White "vimdynamici"]
+[Result "64-0"]
+[Time "20:35:09"]
+[TimeControl "120"]
+[BlackElo "2115"]
+[WhiteElo "1635"]
+
+1. d3 c5 2. f6 f5 3. e6 e3 4. c3 d2 5. c4 b5 6. f4 d6 7. f3 b4 8. c7 d7 9. c6
+e7 10. b6 f7 11. a5 a4 12. e8 f8 13. d8 e2 14. a3 a6 15. a7 c8 16. b3 c2 17. f1
+e1 18. f2 b2 19. a1 a2 20. b8 a8 21. b7 g6 22. g4 g5 23. g3 h5 24. h4 h3 25. d1
+c1 26. b1 g1 27. h7 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.16"]
+[Round "-"]
+[Black "vimdynamici"]
+[White "mordercapl"]
+[Result "0-64"]
+[Time "20:32:47"]
+[TimeControl "120"]
+[BlackElo "1637"]
+[WhiteElo "2113"]
+
+1. f5 f6 2. e6 d6 3. f7 e3 4. d7 e7 5. c5 c6 6. c4 f4 7. c7 b5 8. d3 c8 9. a4
+g5 10. b6 a6 11. f8 f3 12. e2 a5 13. g6 b3 14. b4 a3 15. f2 h6 16. b8 a8 17. h4
+d8 18. g7 e8 19. b7 c3 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.16"]
+[Round "-"]
+[Black "mordercapl"]
+[White "vimdynamici"]
+[Result "44-20"]
+[Time "20:28:44"]
+[TimeControl "120"]
+[BlackElo "2111"]
+[WhiteElo "1639"]
+
+1. d3 c5 2. f6 f5 3. e6 e3 4. c3 d2 5. c4 b5 6. f4 d6 7. f3 b4 8. c7 d7 9. c6
+e7 10. b6 f7 11. a5 a4 12. e8 f8 13. d8 e2 14. a3 a6 15. a7 b3 16. a2 g4 17. h4
+g5 18. h5 h6 19. h7 g6 20. f2 g3 21. c1 d1 22. f1 e1 23. g8 c2 24. g2 h1 25. g1
+b8 26. h2 h3 27. g7 h8 28. c8 b7 29. a8 b1 30. a1 -- 31. b2 44-20
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.16"]
+[Round "-"]
+[Black "vimdynamici"]
+[White "mordercapl"]
+[Result "0-64"]
+[Time "20:26:26"]
+[TimeControl "120"]
+[BlackElo "1641"]
+[WhiteElo "2109"]
+
+1. f5 f6 2. e6 f4 3. g6 c5 4. g4 g5 5. e3 f3 6. d3 d6 7. g3 e2 8. c4 h3 9. d1
+e7 10. h5 h6 11. f2 h4 12. b5 f1 13. d7 c6 14. c7 d8 15. g7 f7 16. f8 h8 17. g8
+e8 18. g1 h1 19. g2 b6 20. h7 h2 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.16"]
+[Round "-"]
+[Black "mordercapl"]
+[White "wtan"]
+[Result "34-30"]
+[Time "19:29:48"]
+[TimeControl "600"]
+[BlackElo "2106"]
+[WhiteElo "1678"]
+
+1. e6 f6 2. f5 f4 3. e3 c5 4. c4 e7 5. c6 e2 6. f3 d3 7. c3 d2 8. e1 c1 9. f2
+c2 10. d1 f1 11. g6 d6 12. g5 h5 13. h6 g4 14. h4 h3 15. h2 g3 16. d7 b3 17. f8
+b4 18. b5 f7 19. a4 a6 20. a3 a5 21. a7 b6 22. e8 g7 23. c7 g8 24. b7 a8 25. b8
+a2 26. b2 c8 27. d8 b1 28. a1 -- 29. h8 h7 30. g2 h1 31. g1 34-30
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.16"]
+[Round "-"]
+[Black "liquidsnake"]
+[White "mordercapl"]
+[Result "33-31"]
+[Time "18:53:57"]
+[TimeControl "180"]
+[BlackElo "1863"]
+[WhiteElo "2132"]
+
+1. f5 f6 2. e6 f4 3. e3 d6 4. g4 d3 5. c3 h3 6. c4 g3 7. g5 g6 8. c6 f3 9. e7
+f8 10. d7 c8 11. f7 c7 12. d8 e8 13. h5 h4 14. h2 b5 15. h6 c5 16. f2 b3 17. a3
+c2 18. b4 e2 19. b6 f1 20. e1 d1 21. d2 a6 22. c1 g2 23. h1 g1 24. a5 b2 25. a2
+a7 26. a8 a1 27. b1 b7 28. b8 a4 29. g7 h7 30. g8 h8 33-31
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.16"]
+[Round "-"]
+[Black "mordercapl"]
+[White "liquidsnake"]
+[Result "64-0"]
+[Time "18:49:39"]
+[TimeControl "180"]
+[BlackElo "2126"]
+[WhiteElo "1869"]
+
+1. c4 e3 2. f5 e6 3. f6 c5 4. f4 g6 5. f7 g5 6. d6 d3 7. f3 b5 8. c3 g3 9. b3
+b4 10. c6 e2 11. c2 d2 12. h6 f2 13. h5 b6 14. g4 h4 15. a6 c1 16. a5 h7 17. a3
+64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.16"]
+[Round "-"]
+[Black "fullback"]
+[White "mordercapl"]
+[Result "64-0"]
+[Time "18:41:10"]
+[TimeControl "60"]
+[BlackElo "1773"]
+[WhiteElo "2155"]
+
+1. c4 c3 2. d3 c5 3. d6 f4 4. b4 b6 5. b5 c6 6. b3 e6 7. c7 a5 8. a6 a7 9. f5
+e3 10. e7 f6 11. f2 a4 12. f3 d7 13. g4 h3 14. h5 g3 15. g6 h4 16. g5 e8 17. a3
+a2 18. f8 f7 19. d8 h6 20. b2 f1 21. g8 a1 22. d2 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.16"]
+[Round "-"]
+[Black "mordercapl"]
+[White "fullback"]
+[Result "52-12"]
+[Time "18:38:21"]
+[TimeControl "120"]
+[BlackElo "2152"]
+[WhiteElo "1776"]
+
+1. c4 c3 2. d3 e3 3. d2 b4 4. b3 d6 5. f3 f2 6. f1 c1 7. e1 c2 8. e2 a3 9. a5
+c5 10. b5 g3 11. c6 d1 12. a4 a6 13. b1 d7 14. b6 c7 15. g4 g2 16. c8 d8 17. e8
+e7 18. f6 g7 19. g5 h5 20. f4 f7 21. f8 g6 22. f5 e6 23. b8 g8 24. h8 h7 25. b7
+a8 26. a7 g1 27. h1 h2 28. h3 h4 29. h6 -- 30. b2 a2 31. a1 52-12
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.16"]
+[Round "-"]
+[Black "mordercapl"]
+[White "reversimaster"]
+[Result "32-32"]
+[Time "15:54:11"]
+[TimeControl "180"]
+[BlackElo "2153"]
+[WhiteElo "2136"]
+
+1. f5 f6 2. e6 f4 3. g5 e7 4. f7 d6 5. f3 g6 6. d8 h5 7. e3 g4 8. h3 h4 9. d3
+h2 10. c3 e8 11. f8 f2 12. c4 c6 13. c7 e2 14. c5 c2 15. c1 d7 16. d2 c8 17. b8
+d1 18. e1 f1 19. g1 g2 20. h1 g3 21. h6 h7 22. h8 g8 23. g7 a8 24. -- b7 25. b6
+a5 26. a6 a7 27. b4 b5 28. b3 a2 29. b2 a4 30. a3 a1 31. b1 32-32
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.16"]
+[Round "-"]
+[Black "test0002"]
+[White "mordercapl"]
+[Result "0-64"]
+[Time "15:26:24"]
+[TimeControl "180"]
+[BlackElo "1878"]
+[WhiteElo "2147"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. c5 b3 5. c2 e6 6. c6 b4 7. b5 d2 8. e3 a6 9. c1
+f3 10. g3 g6 11. g5 f6 12. a5 a4 13. e2 b6 14. d7 e7 15. f2 h5 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.16"]
+[Round "-"]
+[Black "mordercapl"]
+[White "test0002"]
+[Result "32-32"]
+[Time "15:22:21"]
+[TimeControl "180"]
+[BlackElo "2158"]
+[WhiteElo "1867"]
+
+1. d3 c3 2. c4 c5 3. d6 e3 4. b5 e6 5. f6 a6 6. f5 b6 7. d2 c6 8. f3 f2 9. b4
+e7 10. f8 g5 11. f4 d7 12. f7 g4 13. g6 e8 14. a5 g3 15. h6 h4 16. g7 c2 17. b3
+d1 18. e2 e1 19. h3 g2 20. c1 h8 21. g8 h7 22. h5 a2 23. c8 a4 24. a3 b1 25. a1
+b2 26. f1 g1 27. h2 h1 28. b7 a8 29. a7 c7 30. b8 d8 32-32
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.16"]
+[Round "-"]
+[Black "test0002"]
+[White "mordercapl"]
+[Result "32-32"]
+[Time "15:15:58"]
+[TimeControl "180"]
+[BlackElo "1855"]
+[WhiteElo "2170"]
+
+1. f5 f6 2. e6 d6 3. c5 e3 4. d3 f4 5. f3 e2 6. g4 g5 7. f2 h3 8. g6 h6 9. f1
+c4 10. b5 b6 11. c6 b3 12. c3 c2 13. h4 h5 14. d2 a5 15. c7 e1 16. b4 d1 17. d7
+e8 18. d8 f7 19. c1 a4 20. e7 f8 21. g8 b8 22. g7 b1 23. a1 b2 24. a2 a3 25. c8
+h8 26. h7 g3 27. g2 b7 28. a7 a6 29. a8 g1 30. h2 h1 32-32
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.16"]
+[Round "-"]
+[Black "test0002"]
+[White "mordercapl"]
+[Result "31-33"]
+[Time "15:08:21"]
+[TimeControl "120"]
+[BlackElo "1853"]
+[WhiteElo "2165"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. c5 b3 5. c2 e3 6. d2 c6 7. b4 a4 8. b5 b6 9. g4
+e2 10. a3 e1 11. d1 f6 12. f1 e6 13. f3 g5 14. a5 h3 15. a6 g3 16. a7 b2 17. c7
+b1 18. d7 c1 19. f2 g1 20. h6 h5 21. e7 e8 22. f8 g8 23. g6 d8 24. f7 g2 25. h1
+h2 26. h4 c8 27. b8 a8 28. b7 g7 29. a1 a2 30. h7 h8 31-33
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.16"]
+[Round "-"]
+[Black "mordercapl"]
+[White "agatkaijacek"]
+[Result "62-2"]
+[Time "15:05:09"]
+[TimeControl "120"]
+[BlackElo "2164"]
+[WhiteElo "1487"]
+
+1. d3 c5 2. f6 f5 3. e6 d7 4. e7 e3 5. d6 c3 6. f4 g5 7. c6 c4 8. b5 b6 9. b4
+c7 10. b3 f8 11. a6 f7 12. g6 h5 13. c2 c1 14. b2 a4 15. a5 a3 16. a2 d2 17. e1
+g7 18. f2 f3 19. a1 f1 20. e2 d1 21. b1 a7 22. a8 -- 23. b7 -- 24. g1 g2 25. d8
+c8 26. b8 -- 27. e8 -- 28. g8 -- 29. h8 -- 30. h7 -- 31. h6 g4 32. h4 -- 33. h2
+h1 34. h3 -- 35. g3 62-2
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.16"]
+[Round "-"]
+[Black "mordercapl"]
+[White "ftrvgf"]
+[Result "41-23"]
+[Time "13:49:19"]
+[TimeControl "180"]
+[BlackElo "2160"]
+[WhiteElo "1836"]
+
+1. d3 c3 2. c4 e3 3. d2 b4 4. f4 c5 5. f5 e2 6. c2 d1 7. c6 d6 8. f3 b5 9. b6
+c7 10. a4 f2 11. d7 c1 12. b3 a3 13. a2 a5 14. a6 b7 15. f6 e6 16. e7 d8 17. e8
+f8 18. f7 g4 19. g3 g5 20. h4 g6 21. e1 f1 22. b2 c8 23. a7 a1 24. h7 h6 25. b1
+a8 26. h5 h3 27. h2 -- 28. g2 h1 29. g1 h8 30. g7 -- 31. b8 -- 32. g8 41-23
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.16"]
+[Round "-"]
+[Black "ftrvgf"]
+[White "mordercapl"]
+[Result "0-64"]
+[Time "13:44:36"]
+[TimeControl "180"]
+[BlackElo "1841"]
+[WhiteElo "2155"]
+
+1. d3 c3 2. c4 e3 3. f4 d6 4. e6 c5 5. c7 d7 6. c6 b5 7. b6 c8 8. b3 b4 9. a4
+a6 10. a5 a3 11. e8 d8 12. b8 f3 13. e7 g4 14. g3 f5 15. c2 d2 16. d1 f7 17. f6
+f8 18. g8 h3 19. e2 f2 20. g5 c1 21. h4 e1 22. h2 g6 23. f1 g1 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.16"]
+[Round "-"]
+[Black "waterstyle"]
+[White "mordercapl"]
+[Result "20-43"]
+[Time "13:36:44"]
+[TimeControl "300"]
+[BlackElo "1779"]
+[WhiteElo "2152"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 d7 6. e3 c5 7. f3 e7 8. h5 e2 9. c6
+d2 10. c2 g3 11. d1 h4 12. h3 f2 13. g4 e1 14. f1 b5 15. f7 b3 16. b4 a3 17. e8
+d8 18. h6 g6 19. c8 f8 20. g8 g7 21. h8 h7 22. a6 a5 23. b6 g1 24. h1 h2 25. g2
+c7 26. a2 a1 27. a7 a8 28. a4 b1 29. c1 b2 30. -- b7 20-43
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.16"]
+[Round "-"]
+[Black "mordercapl"]
+[White "breastclimber"]
+[Result "60-4"]
+[Time "13:30:01"]
+[TimeControl "300"]
+[BlackElo "2151"]
+[WhiteElo "1600"]
+
+1. d3 c5 2. e6 d2 3. c6 d6 4. b5 f5 5. e7 f6 6. f4 f3 7. g4 h4 8. f7 e8 9. f8
+c4 10. d8 g5 11. e3 d7 12. g6 e2 13. c3 h7 14. h5 b6 15. c8 a5 16. b4 c7 17. h3
+a3 18. a6 a7 19. a4 c2 20. b3 g7 21. a8 b2 22. a2 b7 23. b8 h6 24. h8 g3 25. h2
+g2 26. h1 g1 27. a1 f2 28. f1 d1 29. g8 -- 30. c1 b1 31. e1 60-4
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.16"]
+[Round "-"]
+[Black "breastclimber"]
+[White "mordercapl"]
+[Result "12-52"]
+[Time "13:24:15"]
+[TimeControl "300"]
+[BlackElo "1601"]
+[WhiteElo "2150"]
+
+1. e6 f4 2. c3 c4 3. d3 d6 4. f6 e7 5. f5 g4 6. c5 e3 7. g5 c6 8. d7 b6 9. b4
+d8 10. h3 b5 11. a5 f7 12. f2 h6 13. f3 e2 14. h5 d2 15. d1 c2 16. g3 g6 17. c1
+a6 18. b3 e1 19. f1 a4 20. f8 e8 21. c8 a3 22. g8 c7 23. b2 h4 24. a2 a1 25. b1
+g2 26. h7 g7 27. g1 h1 28. b8 h8 29. b7 a8 30. a7 h2 12-52
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.16"]
+[Round "-"]
+[Black "mordercapl"]
+[White "death115"]
+[Result "58-6"]
+[Time "13:16:42"]
+[TimeControl "300"]
+[BlackElo "2145"]
+[WhiteElo "1835"]
+
+1. c4 c3 2. d3 e3 3. f4 c5 4. e6 f3 5. f2 f6 6. d6 c6 7. e2 f5 8. b4 b5 9. c2
+a5 10. b3 g4 11. g5 g6 12. h4 a2 13. f7 e7 14. e8 f8 15. g8 c1 16. d7 d2 17. h6
+c7 18. h5 g3 19. h3 e1 20. b8 g7 21. f1 g1 22. b6 a6 23. a4 a3 24. d1 h7 25. h1
+h2 26. g2 d8 27. h8 b7 28. b1 -- 29. a8 a7 30. a1 -- 31. c8 -- 32. b2 58-6
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.16"]
+[Round "-"]
+[Black "death115"]
+[White "mordercapl"]
+[Result "8-56"]
+[Time "13:10:36"]
+[TimeControl "300"]
+[BlackElo "1840"]
+[WhiteElo "2140"]
+
+1. d3 c3 2. c4 c5 3. d6 e3 4. b5 e6 5. d2 e2 6. b4 c1 7. f5 c6 8. f4 b3 9. c2
+f3 10. f1 e1 11. g3 a3 12. a5 f2 13. a4 a6 14. b6 a2 15. d7 d1 16. b1 a7 17. e7
+c7 18. c8 f8 19. e8 h3 20. g8 d8 21. b7 h8 22. g1 g4 23. g5 a8 24. b8 f7 25. h5
+f6 26. h4 b2 27. h2 g2 28. g6 h6 29. g7 h7 30. -- h1 31. -- a1 8-56
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.15"]
+[Round "-"]
+[Black "braze"]
+[White "mordercapl"]
+[Result "8-56"]
+[Time "23:49:51"]
+[TimeControl "120"]
+[BlackElo "1500"]
+[WhiteElo "2139"]
+
+1. f5 f6 2. e6 f4 3. g5 e7 4. f7 d6 5. e8 h6 6. h4 g6 7. f3 h5 8. h7 e3 9. d3
+g4 10. c4 d7 11. c5 c6 12. d8 b5 13. b4 c7 14. h3 g3 15. c8 b6 16. h2 c3 17. d2
+f8 18. g8 a3 19. b3 b7 20. a4 a5 21. a8 b8 22. a7 h8 23. a6 g7 24. a2 h1 25. --
+g2 26. -- f2 27. g1 e1 28. -- f1 29. -- e2 30. -- d1 31. -- c2 32. -- b2 33. c1
+a1 34. -- b1 8-56
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.15"]
+[Round "-"]
+[Black "mordercapl"]
+[White "shimgar"]
+[Result "33-31"]
+[Time "23:41:10"]
+[TimeControl "180"]
+[BlackElo "2131"]
+[WhiteElo "1929"]
+
+1. e6 f6 2. f5 f4 3. e3 c5 4. c4 e7 5. c6 e2 6. f3 f2 7. g5 g4 8. h4 d3 9. d2
+c3 10. d6 d7 11. e1 g3 12. h3 c1 13. f1 b3 14. c7 b4 15. g6 b5 16. f8 e8 17. a4
+g7 18. h8 a5 19. a6 b6 20. d8 h5 21. h6 h7 22. a7 c8 23. b7 g1 24. h1 h2 25. f7
+g8 26. g2 d1 27. a3 c2 28. b1 a8 29. b8 a2 30. b2 a1 33-31
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.15"]
+[Round "-"]
+[Black "shimgar"]
+[White "mordercapl"]
+[Result "30-34"]
+[Time "23:35:33"]
+[TimeControl "180"]
+[BlackElo "1937"]
+[WhiteElo "2123"]
+
+1. f5 f6 2. e6 d6 3. c5 e3 4. d3 f4 5. e2 c4 6. c3 b5 7. b6 b3 8. a6 d2 9. f3
+c2 10. a3 f1 11. g4 g5 12. f2 h4 13. c6 a5 14. e1 a4 15. b4 g3 16. d7 e7 17. h6
+d1 18. b1 d8 19. c7 h5 20. f8 g1 21. g6 c8 22. e8 g8 23. b7 f7 24. h3 a8 25. b8
+a7 26. b2 a1 27. a2 c1 28. h8 h2 29. h7 g2 30. g7 -- 31. h1 30-34
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.15"]
+[Round "-"]
+[Black "magooscuro"]
+[White "mordercapl"]
+[Result "5-58"]
+[Time "21:31:44"]
+[TimeControl "120"]
+[BlackElo "1690"]
+[WhiteElo "2121"]
+
+1. d3 c5 2. e6 f5 3. f6 e3 4. d6 f7 5. g6 c4 6. e7 f3 7. f4 g4 8. e2 g5 9. h3
+h4 10. c6 h5 11. g3 h2 12. b6 d8 13. h7 d7 14. g7 g2 15. g8 c7 16. e8 e1 17. f2
+c3 18. d2 d1 19. c2 c1 20. h1 h6 21. b5 h8 22. b3 c8 23. b7 f8 24. b2 b1 25. --
+b8 26. -- a1 27. b4 a2 28. a3 a4 29. a5 a8 30. -- a7 31. -- f1 32. -- a6 5-58
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.15"]
+[Round "-"]
+[Black "harizabi"]
+[White "mordercapl"]
+[Result "18-46"]
+[Time "19:42:43"]
+[TimeControl "180"]
+[BlackElo "1705"]
+[WhiteElo "2118"]
+
+1. f5 d6 2. c5 f4 3. e3 c6 4. d3 f6 5. e6 d7 6. g3 c4 7. b4 b3 8. g5 c3 9. b5
+e2 10. f3 d2 11. c2 d1 12. f1 e1 13. f2 g1 14. b1 a6 15. a4 b6 16. a5 g2 17. e7
+c7 18. f7 g6 19. c8 h5 20. d8 b7 21. g4 f8 22. h4 h6 23. h7 h3 24. g7 e8 25. b8
+h8 26. g8 c1 27. h1 h2 28. b2 a1 29. a3 a8 30. a7 a2 18-46
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.15"]
+[Round "-"]
+[Black "austin316"]
+[White "mordercapl"]
+[Result "3-60"]
+[Time "19:35:28"]
+[TimeControl "120"]
+[BlackElo "1578"]
+[WhiteElo "2117"]
+
+1. c4 e3 2. f6 e6 3. f5 c5 4. c3 b4 5. c6 b3 6. f3 d6 7. d3 b6 8. b5 a4 9. a3
+f4 10. g5 a2 11. c7 d7 12. d8 e7 13. e8 f2 14. d2 c2 15. a6 g4 16. a5 a7 17. e2
+c1 18. d1 g3 19. h4 f1 20. b1 h6 21. g6 e1 22. g1 b7 23. g2 h1 24. h2 a1 25. a8
+b2 26. -- h3 27. -- h7 28. g7 h8 29. f7 f8 30. g8 c8 31. -- h5 3-60
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.15"]
+[Round "-"]
+[Black "mordercapl"]
+[White "austin316"]
+[Result "46-18"]
+[Time "19:32:12"]
+[TimeControl "120"]
+[BlackElo "2116"]
+[WhiteElo "1579"]
+
+1. f5 f6 2. e6 d6 3. e7 f4 4. g5 d7 5. c6 e8 6. c5 f7 7. c3 c7 8. g6 h6 9. h4
+h7 10. c8 b4 11. d8 f8 12. g8 b6 13. g3 f3 14. h5 h3 15. e3 d2 16. g4 d3 17. c4
+b5 18. e2 f1 19. e1 d1 20. a5 a6 21. a7 b8 22. a8 b7 23. f2 g1 24. c2 b1 25. c1
+g2 26. a1 b2 27. h1 h2 28. h8 g7 29. a2 b3 30. a3 a4 46-18
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.15"]
+[Round "-"]
+[Black "austin316"]
+[White "mordercapl"]
+[Result "14-50"]
+[Time "19:28:53"]
+[TimeControl "120"]
+[BlackElo "1580"]
+[WhiteElo "2115"]
+
+1. c4 c3 2. d3 c5 3. d6 f4 4. f5 e3 5. g4 e6 6. f6 d7 7. c7 f7 8. e7 g6 9. h6
+e8 10. f8 f3 11. d8 c6 12. b6 h4 13. b4 b5 14. b3 a4 15. a3 a2 16. g3 g5 17. h5
+h3 18. c2 a7 19. d2 e2 20. f2 c1 21. b1 a1 22. b2 f1 23. d1 h7 24. g2 g7 25. a5
+a6 26. b7 a8 27. b8 c8 28. g8 h8 29. -- g1 30. h1 e1 31. h2 14-50
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.15"]
+[Round "-"]
+[Black "honeym00n"]
+[White "mordercapl"]
+[Result "16-48"]
+[Time "18:03:59"]
+[TimeControl "120"]
+[BlackElo "1646"]
+[WhiteElo "2113"]
+
+1. e6 f6 2. f5 d6 3. e7 g5 4. c5 f7 5. f4 d3 6. e3 c6 7. d7 c8 8. d8 b5 9. g6
+e8 10. f8 g8 11. c7 h5 12. h4 h3 13. h6 c3 14. b6 g4 15. h2 g3 16. d2 f3 17. c2
+b4 18. c4 e2 19. a3 a4 20. a5 d1 21. c1 b1 22. f1 b8 23. f2 b3 24. b7 b2 25. a1
+e1 26. g7 a2 27. -- a8 28. a7 a6 29. -- g2 30. g1 h1 31. -- h7 32. h8 16-48
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.15"]
+[Round "-"]
+[Black "mordercapl"]
+[White "honeym00n"]
+[Result "64-0"]
+[Time "18:00:26"]
+[TimeControl "120"]
+[BlackElo "2111"]
+[WhiteElo "1648"]
+
+1. f5 f6 2. e6 d6 3. e7 g5 4. g6 f4 5. c6 f7 6. h4 e8 7. c5 g4 8. c3 c4 9. d3
+e3 10. b5 c7 11. c8 b4 12. f8 g8 13. d7 h6 14. e2 h5 15. h7 f2 16. d2 d1 17. c1
+b3 18. e1 f1 19. g1 a6 20. f3 g3 21. b6 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.15"]
+[Round "-"]
+[Black "makotya"]
+[White "mordercapl"]
+[Result "20-44"]
+[Time "17:53:41"]
+[TimeControl "180"]
+[BlackElo "1708"]
+[WhiteElo "2108"]
+
+1. f5 f6 2. e6 d6 3. c3 g4 4. c5 f4 5. g5 e3 6. d3 c4 7. f3 c6 8. b4 h4 9. h3
+e2 10. h6 h2 11. d2 g3 12. e1 a3 13. a5 f2 14. f1 g2 15. d7 h5 16. b5 b3 17. c2
+a4 18. a2 c8 19. e8 c7 20. e7 f7 21. g6 a6 22. a7 b6 23. h1 d1 24. f8 d8 25. b8
+h7 26. h8 g8 27. b7 a8 28. c1 a1 29. g7 b2 30. b1 g1 20-44
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.15"]
+[Round "-"]
+[Black "mordercapl"]
+[White "makotya"]
+[Result "50-13"]
+[Time "17:48:37"]
+[TimeControl "180"]
+[BlackElo "2105"]
+[WhiteElo "1711"]
+
+1. c4 c3 2. d3 c5 3. b4 d2 4. c2 a4 5. d6 e6 6. b5 b3 7. c6 e3 8. e2 d1 9. f2
+f3 10. c1 b1 11. f1 b2 12. a5 a6 13. g3 h3 14. g4 f5 15. h5 g5 16. a3 a2 17. g6
+h7 18. f6 c7 19. d7 d8 20. b6 g7 21. f4 e7 22. h8 f7 23. c8 b8 24. g8 f8 25. e8
+h6 26. a8 e1 27. a1 a7 28. b7 h4 29. h2 g2 30. g1 50-13
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.15"]
+[Round "-"]
+[Black "makotya"]
+[White "mordercapl"]
+[Result "17-47"]
+[Time "17:45:07"]
+[TimeControl "180"]
+[BlackElo "1714"]
+[WhiteElo "2102"]
+
+1. f5 d6 2. c4 g5 3. c6 c5 4. d7 d3 5. b4 c3 6. e3 f3 7. d2 c2 8. e2 e1 9. f1
+c1 10. d1 g1 11. f2 f4 12. e6 g3 13. g6 f6 14. h5 h4 15. h6 e7 16. f8 e8 17. d8
+g4 18. f7 h7 19. h2 b3 20. b2 c8 21. b8 g7 22. h8 g8 23. h3 a8 24. b1 a1 25. a2
+g2 26. h1 a5 27. a4 a3 28. c7 b5 29. b6 a6 30. b7 a7 17-47
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.15"]
+[Round "-"]
+[Black "mordercapl"]
+[White "makotya"]
+[Result "42-22"]
+[Time "17:40:19"]
+[TimeControl "180"]
+[BlackElo "2099"]
+[WhiteElo "1717"]
+
+1. c4 c3 2. d3 c5 3. b4 b3 4. b5 a3 5. d6 f4 6. f3 e3 7. d2 a6 8. g4 e2 9. f5
+g3 10. b6 e6 11. c2 c1 12. c6 d7 13. f7 e7 14. d1 f1 15. e1 g6 16. h5 h3 17. g5
+h6 18. h7 f2 19. f6 c7 20. e8 d8 21. a5 a4 22. f8 g8 23. b2 a1 24. a2 b1 25. c8
+b7 26. h8 g7 27. g2 h1 28. g1 h4 29. h2 -- 30. a8 a7 31. b8 42-22
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.15"]
+[Round "-"]
+[Black "makotya"]
+[White "mordercapl"]
+[Result "17-47"]
+[Time "17:36:14"]
+[TimeControl "180"]
+[BlackElo "1720"]
+[WhiteElo "2096"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. c5 b3 5. c2 e3 6. d2 c6 7. f2 e6 8. b4 f6 9. b5
+a5 10. a6 a3 11. c7 b6 12. d7 f3 13. g3 e7 14. g5 e1 15. e2 f1 16. a4 a7 17. b2
+e8 18. f8 d8 19. f7 h3 20. h2 h1 21. g1 g2 22. d1 h5 23. h4 g4 24. g6 a1 25. a2
+b1 26. a8 c1 27. h6 g8 28. c8 h7 29. b8 g7 30. h8 b7 17-47
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.15"]
+[Round "-"]
+[Black "cronymimi"]
+[White "mordercapl"]
+[Result "8-56"]
+[Time "17:01:13"]
+[TimeControl "300"]
+[BlackElo "1902"]
+[WhiteElo "2088"]
+
+1. f5 d6 2. c3 d3 3. c5 f4 4. f3 g4 5. f6 c6 6. e3 c4 7. g5 d2 8. c2 e2 9. b4
+b5 10. e7 h6 11. d1 b6 12. c7 a4 13. f1 b3 14. g3 g6 15. f2 f7 16. h5 c8 17. e8
+e6 18. d7 d8 19. b8 f8 20. g8 g2 21. a6 a5 22. h1 e1 23. a3 b2 24. a2 b1 25. c1
+a1 26. h7 a7 27. -- h3 28. h4 h8 29. -- a8 30. -- g1 31. -- h2 32. -- b7 33. --
+g7 8-56
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.15"]
+[Round "-"]
+[Black "mordercapl"]
+[White "vimdynamici"]
+[Result "35-29"]
+[Time "16:40:10"]
+[TimeControl "120"]
+[BlackElo "2086"]
+[WhiteElo "1624"]
+
+1. d3 c5 2. e6 f5 3. f6 e3 4. d6 f7 5. g6 c4 6. c6 e7 7. d7 g5 8. f4 c8 9. h6
+c7 10. f3 c3 11. b3 g4 12. h5 h3 13. b4 h4 14. h2 c2 15. g3 b5 16. d1 a4 17. a3
+b6 18. a5 a6 19. a7 c1 20. e2 d2 21. e1 f1 22. f2 g1 23. b7 a8 24. b2 a2 25. a1
+b1 26. h1 g2 27. f8 e8 28. d8 g8 29. b8 h7 30. h8 g7 35-29
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.15"]
+[Round "-"]
+[Black "mordercapl"]
+[White "azupoo"]
+[Result "31-33"]
+[Time "15:28:34"]
+[TimeControl "180"]
+[BlackElo "2113"]
+[WhiteElo "1799"]
+
+1. f5 f6 2. e6 f4 3. e3 c5 4. c4 d6 5. b5 d3 6. c3 e2 7. f1 c2 8. c1 b6 9. g4
+g5 10. d2 d1 11. f3 e1 12. f2 h4 13. c6 a5 14. e7 e8 15. d7 d8 16. h6 c7 17. g6
+h5 18. h3 g3 19. f7 g2 20. a6 a4 21. a3 b4 22. f8 b3 23. a2 g1 24. b2 g8 25. b8
+c8 26. h8 b7 27. h1 h2 28. a8 a7 29. -- a1 30. -- h7 31. -- g7 32. b1 31-33
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.15"]
+[Round "-"]
+[Black "azupoo"]
+[White "mordercapl"]
+[Result "15-49"]
+[Time "15:24:00"]
+[TimeControl "180"]
+[BlackElo "1804"]
+[WhiteElo "2108"]
+
+1. f5 f6 2. e6 f4 3. g5 e7 4. f7 d6 5. f3 g6 6. d8 h5 7. e3 d7 8. c3 d3 9. c4
+c5 10. e2 e8 11. f8 g3 12. g4 h3 13. h4 d2 14. h6 b5 15. b3 h7 16. b6 b4 17. c6
+a3 18. c1 f1 19. e1 a6 20. g1 c7 21. a5 f2 22. a7 d1 23. g7 c2 24. b2 c8 25. b8
+h1 26. h2 g2 27. h8 b1 28. b7 a4 29. a2 a8 30. -- g8 31. -- a1 15-49
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.15"]
+[Round "-"]
+[Black "mordercapl"]
+[White "azupoo"]
+[Result "60-4"]
+[Time "15:20:22"]
+[TimeControl "180"]
+[BlackElo "2103"]
+[WhiteElo "1809"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 f3 5. e6 e7 6. d7 g6 7. f8 f7 8. g5 h6 9. h4
+g4 10. h3 h5 11. h7 c5 12. b4 e8 13. d8 b5 14. e3 d2 15. c6 b6 16. a5 a4 17. g3
+b3 18. a6 f2 19. f1 a7 20. g8 c7 21. e2 g2 22. c2 d1 23. c8 b7 24. a2 b2 25. a1
+b1 26. a3 g7 27. a8 -- 28. b8 -- 29. h1 h2 30. h8 -- 31. c1 -- 32. g1 -- 33. e1
+60-4
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.15"]
+[Round "-"]
+[Black "azupoo"]
+[White "mordercapl"]
+[Result "21-43"]
+[Time "15:16:38"]
+[TimeControl "180"]
+[BlackElo "1814"]
+[WhiteElo "2098"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 d7 6. e3 c5 7. f3 e7 8. h5 e2 9. c6
+g3 10. d2 h4 11. h3 b6 12. h6 b4 13. c8 g4 14. g6 d8 15. f1 f7 16. a4 f2 17. e1
+b3 18. c2 a5 19. b5 d1 20. c1 a6 21. a7 a2 22. c7 b8 23. g2 b2 24. f8 g7 25. g8
+a3 26. a1 b1 27. e8 h8 28. h7 h2 29. h1 g1 30. -- b7 31. a8 21-43
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.15"]
+[Round "-"]
+[Black "mordercapl"]
+[White "azupoo"]
+[Result "43-21"]
+[Time "15:13:20"]
+[TimeControl "180"]
+[BlackElo "2093"]
+[WhiteElo "1819"]
+
+1. f5 f6 2. e6 f4 3. e3 c5 4. c4 d6 5. c6 b5 6. d7 b3 7. e7 f3 8. g6 f7 9. d3
+g5 10. b6 h6 11. c3 b4 12. g4 g3 13. f2 f1 14. a4 e8 15. a5 a3 16. h5 h4 17. c7
+e2 18. g2 c2 19. h2 d8 20. c8 b8 21. h3 h1 22. g8 a6 23. g7 h8 24. f8 h7 25. a8
+-- 26. a7 b7 27. a2 b2 28. b1 a1 29. c1 d1 30. d2 -- 31. e1 -- 32. g1 43-21
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.15"]
+[Round "-"]
+[Black "azupoo"]
+[White "mordercapl"]
+[Result "16-48"]
+[Time "15:09:28"]
+[TimeControl "180"]
+[BlackElo "1825"]
+[WhiteElo "2087"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 d7 6. e3 c5 7. f3 e7 8. h5 e2 9. c6
+d2 10. c2 b3 11. b4 g6 12. a4 c1 13. f1 h6 14. e1 h4 15. f2 b6 16. d1 g1 17. c7
+a5 18. a3 d8 19. a6 g4 20. c8 b8 21. g2 b1 22. f8 h1 23. g3 b2 24. a1 b7 25. f7
+a2 26. g7 h8 27. g8 b5 28. a8 a7 29. e8 h7 30. h2 h3 16-48
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.15"]
+[Round "-"]
+[Black "takoyaki"]
+[White "mordercapl"]
+[Result "7-57"]
+[Time "15:03:21"]
+[TimeControl "300"]
+[BlackElo "1512"]
+[WhiteElo "2086"]
+
+1. f5 f6 2. e6 f4 3. e3 c5 4. g5 g3 5. c4 d6 6. b5 h6 7. d7 c6 8. g6 f3 9. d3
+g4 10. h4 h5 11. h7 c8 12. c7 b6 13. e8 a5 14. e2 h3 15. h2 d8 16. e7 f8 17. a4
+a3 18. a7 f2 19. e1 f1 20. g1 d2 21. c3 c1 22. c2 b4 23. b3 b1 24. b2 a1 25. a2
+d1 26. a6 h1 27. g2 a8 28. b8 b7 29. g8 f7 30. g7 h8 7-57
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.15"]
+[Round "-"]
+[Black "mordercapl"]
+[White "prezespawelk"]
+[Result "64-0"]
+[Time "13:57:57"]
+[TimeControl "420"]
+[BlackElo "2086"]
+[WhiteElo "1138"]
+
+1. f5 f6 2. e6 d6 3. c5 f4 4. d7 c6 5. e7 b5 6. b6 b7 7. g6 c7 8. c4 f7 9. d8
+e8 10. f8 b4 11. c8 h7 12. b8 -- 13. g8 g7 14. a3 a4 15. a7 a6 16. a8 a2 17. g3
+f3 18. a5 h2 19. h5 g5 20. a1 -- 21. h8 -- 22. d3 d2 23. d1 c2 24. b3 b1 25. b2
+-- 26. c1 -- 27. e3 e2 28. e1 f1 29. f2 -- 30. c3 -- 31. g4 -- 32. h6 -- 33. g2
+h3 34. h1 -- 35. h4 -- 36. g1 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.15"]
+[Round "-"]
+[Black "mordercapl"]
+[White "razania"]
+[Result "56-8"]
+[Time "13:02:24"]
+[TimeControl "600"]
+[BlackElo "2084"]
+[WhiteElo "1572"]
+
+1. c4 e3 2. f5 e6 3. f6 c5 4. c3 c6 5. d3 d2 6. e2 b3 7. c1 c2 8. b4 a3 9. a5
+b5 10. a6 a4 11. a2 f4 12. g5 d1 13. e1 g6 14. d6 f3 15. b6 h6 16. b1 b7 17. c7
+b8 18. f7 d7 19. e8 f8 20. d8 e7 21. g8 g7 22. h8 h7 23. h5 h4 24. c8 a8 25. h3
+b2 26. a1 f1 27. a7 -- 28. g4 g3 29. g1 -- 30. h2 -- 31. f2 g2 32. h1 56-8
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.15"]
+[Round "-"]
+[Black "razania"]
+[White "mordercapl"]
+[Result "22-42"]
+[Time "12:56:31"]
+[TimeControl "600"]
+[BlackElo "1574"]
+[WhiteElo "2082"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 f3 5. e6 e7 6. f7 c5 7. e3 e2 8. g3 b4 9. g5
+g6 10. d8 h5 11. b5 b3 12. h4 f2 13. h6 b6 14. c6 c2 15. d2 e8 16. f8 h3 17. c1
+h7 18. e1 f1 19. a6 g4 20. g1 d1 21. g2 b2 22. a1 a2 23. b1 a3 24. a4 d7 25. c7
+a5 26. h2 h1 27. g7 h8 28. g8 c8 29. b8 a8 30. b7 a7 22-42
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.15"]
+[Round "-"]
+[Black "mordercapl"]
+[White "razania"]
+[Result "57-7"]
+[Time "12:52:45"]
+[TimeControl "600"]
+[BlackElo "2080"]
+[WhiteElo "1576"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. c5 b3 5. c2 e3 6. d2 c6 7. b4 b5 8. f2 e6 9. f3
+c1 10. a3 d1 11. a4 e2 12. a6 a5 13. f6 g3 14. f1 g5 15. f7 d7 16. b6 e7 17. e1
+g1 18. g4 h3 19. d8 c8 20. f8 e8 21. b8 c7 22. b7 a7 23. a8 b2 24. a1 b1 25. h1
+g8 26. h8 -- 27. a2 -- 28. g2 -- 29. g7 g6 30. h6 h7 31. h2 h5 32. h4 57-7
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.15"]
+[Round "-"]
+[Black "razania"]
+[White "mordercapl"]
+[Result "12-52"]
+[Time "12:47:50"]
+[TimeControl "600"]
+[BlackElo "1578"]
+[WhiteElo "2078"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e3 f3 6. g4 e2 7. d2 h3 8. g3 f2 9. e6
+c1 10. d7 c2 11. d1 e1 12. h6 b3 13. h4 b4 14. a4 e7 15. f1 f7 16. e8 g1 17. a3
+c6 18. c5 b5 19. b2 g2 20. g6 a1 21. h1 h2 22. a6 h5 23. b1 c7 24. b6 c8 25. b8
+a8 26. d8 f8 27. g8 h8 28. g7 h7 29. -- b7 30. -- a2 31. -- a7 32. -- a5 12-52
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.15"]
+[Round "-"]
+[Black "wtan"]
+[White "mordercapl"]
+[Result "10-54"]
+[Time "12:36:32"]
+[TimeControl "600"]
+[BlackElo "1679"]
+[WhiteElo "2075"]
+
+1. f5 f6 2. d3 g5 3. e6 d6 4. c7 c6 5. d7 c5 6. b5 e7 7. f4 b6 8. c4 a5 9. g6
+b3 10. e8 c8 11. b4 c3 12. a4 a3 13. a7 f3 14. e3 g3 15. f2 d8 16. f8 f7 17. b8
+h6 18. h3 g4 19. h5 c2 20. d2 h7 21. h8 g8 22. b1 e2 23. e1 d1 24. c1 a8 25. a2
+h4 26. a6 a1 27. g7 g2 28. h1 h2 29. -- b2 30. f1 g1 31. -- b7 10-54
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.14"]
+[Round "-"]
+[Black "teddd"]
+[White "mordercapl"]
+[Result "0-64"]
+[Time "20:09:06"]
+[TimeControl "180"]
+[BlackElo "1536"]
+[WhiteElo "2074"]
+
+1. f5 d6 2. c5 f4 3. e3 c6 4. d3 f6 5. e6 d7 6. g3 c4 7. b4 b3 8. b6 c3 9. b5
+g4 10. d2 a6 11. c7 f2 12. f3 a5 13. a4 a3 14. h4 e2 15. e7 g5 16. f1 c1 17. g7
+f7 18. g6 d8 19. b7 e8 20. c8 a8 21. f8 h8 22. g8 h3 23. e1 h7 24. h2 h6 25. h5
+h1 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.14"]
+[Round "-"]
+[Black "muaylok"]
+[White "mordercapl"]
+[Result "11-53"]
+[Time "19:55:37"]
+[TimeControl "300"]
+[BlackElo "1681"]
+[WhiteElo "2071"]
+
+1. f5 f6 2. e6 f4 3. e3 d6 4. c5 f3 5. g4 e2 6. g5 h3 7. h4 g3 8. h2 h6 9. d3
+c6 10. f1 b5 11. g6 c4 12. f7 g7 13. e7 h5 14. c3 d2 15. b3 e1 16. d7 c2 17. b6
+h1 18. a4 a5 19. f2 g1 20. a6 h7 21. b4 f8 22. h8 g8 23. e8 a2 24. a3 a7 25. c1
+d1 26. b2 g2 27. b1 a1 28. b7 b8 29. a8 c8 30. d8 c7 11-53
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.14"]
+[Round "-"]
+[Black "mordercapl"]
+[White "akb48akitya"]
+[Result "37-27"]
+[Time "19:47:40"]
+[TimeControl "180"]
+[BlackElo "2051"]
+[WhiteElo "2136"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. c5 b3 5. c2 e6 6. c6 b4 7. b5 d2 8. e3 a6 9. c1
+d7 10. e7 f6 11. a4 e2 12. a5 d1 13. f7 b6 14. c8 d8 15. a7 b8 16. e8 f8 17. c7
+a2 18. e1 b1 19. g3 g4 20. f3 f1 21. f2 h2 22. g6 g5 23. h4 g1 24. h5 b2 25. g8
+h8 26. g7 h7 27. h6 g2 28. h3 a3 29. a1 b7 30. h1 -- 31. a8 37-27
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.14"]
+[Round "-"]
+[Black "akb48akitya"]
+[White "mordercapl"]
+[Result "26-38"]
+[Time "18:42:51"]
+[TimeControl "180"]
+[BlackElo "2087"]
+[WhiteElo "2032"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 d7 6. e3 c5 7. f3 e7 8. h5 e2 9. c6
+d2 10. c2 b3 11. b4 g6 12. c7 g3 13. d1 h4 14. f1 h6 15. g4 h3 16. f2 b6 17. e8
+a5 18. f7 b5 19. d8 f8 20. a3 c8 21. a4 b2 22. a1 a2 23. b7 a8 24. a6 b8 25. a7
+b1 26. c1 g2 27. h7 g1 28. h1 h2 29. -- e1 30. -- g8 31. g7 h8 26-38
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.14"]
+[Round "-"]
+[Black "mordercapl"]
+[White "pakapon"]
+[Result "64-0"]
+[Time "18:35:54"]
+[TimeControl "600"]
+[BlackElo "2029"]
+[WhiteElo "1601"]
+
+1. e6 f6 2. f5 f4 3. g5 e7 4. f7 d6 5. f3 g4 6. h3 h4 7. e3 d7 8. g6 h6 9. h5
+h2 10. g7 h8 11. h7 e8 12. c3 g3 13. h1 d2 14. e2 d1 15. g2 d3 16. c4 b5 17. c5
+b4 18. c6 f2 19. e1 c7 20. b6 a5 21. a7 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.14"]
+[Round "-"]
+[Black "mordercapl"]
+[White "akb48akitya"]
+[Result "32-32"]
+[Time "18:31:09"]
+[TimeControl "180"]
+[BlackElo "2026"]
+[WhiteElo "2090"]
+
+1. c4 e3 2. f6 e6 3. f5 c5 4. c3 c6 5. d3 d2 6. e2 b3 7. c1 c2 8. b4 a3 9. a5
+d1 10. e1 f4 11. f3 g5 12. e7 g4 13. d6 c7 14. d7 g6 15. b5 g3 16. a4 a6 17. b6
+a7 18. c8 a2 19. f7 f1 20. g1 b2 21. b7 a8 22. b8 g8 23. f2 f8 24. h4 h5 25. h3
+h2 26. h7 h6 27. h1 g2 28. d8 e8 29. b1 a1 30. g7 h8 32-32
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.14"]
+[Round "-"]
+[Black "mordercapl"]
+[White "akb48akitya"]
+[Result "45-19"]
+[Time "18:24:49"]
+[TimeControl "180"]
+[BlackElo "2005"]
+[WhiteElo "2111"]
+
+1. c4 e3 2. f5 e6 3. f6 c5 4. f4 g6 5. f7 d3 6. f3 g5 7. g4 e7 8. d6 h3 9. f8
+e2 10. d2 c3 11. h5 d7 12. h4 e8 13. c2 g3 14. f1 e1 15. h2 g1 16. d1 c1 17. f2
+h7 18. d8 g8 19. b3 b4 20. c8 b8 21. c7 g7 22. c6 b6 23. a4 b5 24. b2 a1 25. b1
+h6 26. h1 a2 27. a3 a5 28. h8 g2 29. a7 a6 30. a8 -- 31. b7 45-19
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.14"]
+[Round "-"]
+[Black "mordercapl"]
+[White "cornp"]
+[Result "48-16"]
+[Time "18:05:11"]
+[TimeControl "180"]
+[BlackElo "1995"]
+[WhiteElo "1862"]
+
+1. d3 c5 2. f6 f5 3. e6 e3 4. c3 f3 5. c4 b4 6. b5 c2 7. a3 b3 8. d2 c1 9. e1
+e2 10. f1 f2 11. d1 g1 12. g5 d6 13. c6 e7 14. f4 d7 15. c7 g6 16. g3 h5 17. d8
+h4 18. g4 a4 19. a5 f7 20. e8 a6 21. a7 b6 22. f8 h3 23. h7 h6 24. h2 c8 25. b8
+g7 26. b7 b2 27. a2 g2 28. h1 -- 29. a1 -- 30. b1 -- 31. g8 h8 32. -- a8 48-16
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.14"]
+[Round "-"]
+[Black "cornp"]
+[White "mordercapl"]
+[Result "6-57"]
+[Time "18:00:35"]
+[TimeControl "180"]
+[BlackElo "1873"]
+[WhiteElo "1984"]
+
+1. f5 f6 2. e6 d6 3. f7 e3 4. d7 e7 5. c5 c6 6. c4 f4 7. c7 b5 8. d3 c8 9. d8
+f3 10. b4 b6 11. c3 g5 12. a5 e8 13. f8 g8 14. a6 b8 15. g6 g4 16. h5 h4 17. h3
+a3 18. e2 a4 19. a2 b3 20. c2 h6 21. h7 g3 22. h2 f2 23. d2 e1 24. g1 f1 25. d1
+g2 26. g7 h8 27. b7 h1 28. b2 a1 29. b1 a7 30. -- c1 6-57
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.14"]
+[Round "-"]
+[Black "hirak"]
+[White "mordercapl"]
+[Result "16-48"]
+[Time "17:29:45"]
+[TimeControl "180"]
+[BlackElo "1709"]
+[WhiteElo "1978"]
+
+1. f5 f6 2. e6 d6 3. c5 f4 4. d7 c4 5. c3 c8 6. d3 c7 7. f3 e3 8. g4 g5 9. e2
+h3 10. g6 h6 11. e7 d8 12. g3 c6 13. f7 e8 14. g8 b5 15. a6 a4 16. b6 f8 17. b8
+h2 18. b4 f2 19. g7 c2 20. c1 e1 21. f1 d2 22. d1 a5 23. a3 h8 24. h7 a8 25. h4
+a7 26. h5 b7 27. h1 a2 28. -- b3 29. b2 a1 30. -- b1 31. -- g2 32. -- g1 16-48
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.14"]
+[Round "-"]
+[Black "hirak"]
+[White "mordercapl"]
+[Result "7-57"]
+[Time "17:13:46"]
+[TimeControl "180"]
+[BlackElo "1715"]
+[WhiteElo "1972"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. f3 g6 6. c6 e3 7. d7 e6 8. g3 g4 9. f2
+e2 10. e7 h3 11. f7 c5 12. b4 e1 13. d2 c1 14. d1 f8 15. f1 g1 16. h5 h4 17. h2
+e8 18. d8 h6 19. h7 c2 20. g8 a4 21. a3 a2 22. b3 b5 23. a5 a6 24. b6 a7 25. b1
+a1 26. g2 b2 27. -- c8 28. b8 g7 29. c7 h8 30. -- h1 31. -- a8 32. -- b7 7-57
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.14"]
+[Round "-"]
+[Black "hamuhiro"]
+[White "mordercapl"]
+[Result "16-48"]
+[Time "17:05:48"]
+[TimeControl "120"]
+[BlackElo "2022"]
+[WhiteElo "1953"]
+
+1. f5 f6 2. e6 d6 3. e7 g5 4. c5 f7 5. c4 e3 6. f4 f3 7. g6 d3 8. c3 e8 9. h5
+g4 10. c2 c7 11. c6 h6 12. h7 d7 13. c8 d2 14. d8 f8 15. g8 b3 16. d1 b6 17. b4
+b5 18. a5 a6 19. a4 e2 20. h4 b7 21. g3 f2 22. g1 g2 23. f1 h3 24. a8 c1 25. b8
+a7 26. b2 h8 27. h1 h2 28. b1 a1 29. a2 e1 30. -- a3 31. -- g7 16-48
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.14"]
+[Round "-"]
+[Black "mordercapl"]
+[White "akb48akitya"]
+[Result "0-64"]
+[Time "15:55:51"]
+[TimeControl "60"]
+[BlackElo "1963"]
+[WhiteElo "2101"]
+
+1. f5 f6 2. e6 f4 3. g5 e7 4. f7 g6 5. h5 h4 6. h3 c5 7. g4 h7 8. f3 d6 9. d3
+e3 10. c7 c6 11. d8 f8 12. e8 c8 13. c4 c2 14. d7 b5 15. e2 e1 16. d2 g8 17. f2
+f1 18. g3 c3 19. h6 h2 20. c1 g2 21. h1 d1 22. h8 g1 23. g7 b1 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.14"]
+[Round "-"]
+[Black "9loooooock"]
+[White "mordercapl"]
+[Result "0-64"]
+[Time "15:48:38"]
+[TimeControl "120"]
+[BlackElo "1404"]
+[WhiteElo "1962"]
+
+1. f5 d6 2. c5 f4 3. e3 c6 4. d3 f6 5. g5 b4 6. b6 c4 7. b3 c3 8. a4 d2 9. e6
+b5 10. a5 f7 11. e2 d7 12. c7 c8 13. e7 f8 14. c1 g6 15. e8 d8 16. c2 g3 17. f3
+b2 18. h3 h4 19. h6 a2 20. h5 a3 21. a1 b1 22. b8 a8 23. g7 a7 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.14"]
+[Round "-"]
+[Black "oriiorii"]
+[White "mordercapl"]
+[Result "13-50"]
+[Time "15:33:30"]
+[TimeControl "180"]
+[BlackElo "1701"]
+[WhiteElo "1956"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e3 f3 6. g4 e2 7. d2 h3 8. e6 g3 9. g6
+f7 10. h5 h4 11. h2 c5 12. b6 h7 13. e1 b5 14. f2 b4 15. d7 c7 16. c6 e7 17. f8
+b3 18. c8 d8 19. e8 a6 20. a2 c2 21. d1 a3 22. a4 a5 23. a7 c1 24. b1 f1 25. g1
+b7 26. g7 g2 27. b8 a8 28. b2 a1 29. -- h1 30. -- h6 31. -- g8 13-50
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.14"]
+[Round "-"]
+[Black "mordercapl"]
+[White "oriiorii"]
+[Result "53-11"]
+[Time "15:28:15"]
+[TimeControl "180"]
+[BlackElo "1950"]
+[WhiteElo "1707"]
+
+1. c4 e3 2. f6 e6 3. f5 c5 4. c3 c6 5. d3 d2 6. e2 b3 7. c1 c2 8. b4 a3 9. a5
+b5 10. a6 a4 11. a2 f4 12. g5 d1 13. e1 g4 14. b6 d6 15. f3 g3 16. f2 h5 17. f7
+d7 18. h6 h7 19. h3 g6 20. h4 h2 21. g7 e8 22. g8 e7 23. h8 f8 24. h1 g2 25. b1
+a7 26. a8 b2 27. g1 f1 28. a1 b7 29. b8 -- 30. c8 d8 31. c7 53-11
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.14"]
+[Round "-"]
+[Black "oriiorii"]
+[White "mordercapl"]
+[Result "0-64"]
+[Time "15:22:40"]
+[TimeControl "180"]
+[BlackElo "1714"]
+[WhiteElo "1943"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. c5 b3 5. c2 e3 6. d2 c6 7. b4 a4 8. b5 b6 9. d7
+e7 10. e2 c7 11. a3 f1 12. e1 e6 13. a5 f3 14. g4 d1 15. f2 c1 16. a7 a6 17. f7
+g5 18. f6 g6 19. h6 f8 20. c8 e8 21. h7 a8 22. b7 a2 23. d8 b8 24. b1 a1 25. b2
+g7 26. g8 g1 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.14"]
+[Round "-"]
+[Black "mordercapl"]
+[White "oriiorii"]
+[Result "52-11"]
+[Time "15:17:07"]
+[TimeControl "180"]
+[BlackElo "1936"]
+[WhiteElo "1721"]
+
+1. d3 c5 2. f6 f5 3. e6 e3 4. d6 f7 5. g6 f4 6. g5 c6 7. e7 e8 8. d7 c7 9. f8
+g4 10. b5 c2 11. b6 c3 12. h3 h5 13. c4 b4 14. b3 g8 15. h4 h6 16. h7 g3 17. c1
+a6 18. b7 a4 19. c8 d8 20. a3 a5 21. a7 b1 22. d1 e1 23. h8 g7 24. g2 a2 25. a1
+b2 26. b8 a8 27. f1 f3 28. f2 h1 29. h2 d2 30. e2 52-11
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.14"]
+[Round "-"]
+[Black "oriiorii"]
+[White "mordercapl"]
+[Result "10-54"]
+[Time "15:11:31"]
+[TimeControl "180"]
+[BlackElo "1729"]
+[WhiteElo "1928"]
+
+1. f5 f6 2. e6 f4 3. g6 c5 4. g4 g5 5. h4 h3 6. f3 g3 7. e3 e2 8. e1 f2 9. c6
+f7 10. d3 h5 11. h7 c7 12. f1 d6 13. e7 g2 14. c4 h6 15. h1 h8 16. h2 d2 17. b5
+a5 18. b6 c3 19. b4 e8 20. d7 d8 21. g7 b3 22. c2 a3 23. a4 a6 24. c8 b8 25. b7
+a8 26. a7 f8 27. g8 b2 28. a2 b1 29. c1 a1 30. -- g1 31. -- d1 10-54
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.14"]
+[Round "-"]
+[Black "itannji"]
+[White "mordercapl"]
+[Result "0-64"]
+[Time "14:52:14"]
+[TimeControl "180"]
+[BlackElo "1696"]
+[WhiteElo "1921"]
+
+1. f5 f6 2. e6 f4 3. g5 e7 4. d7 g6 5. e8 h6 6. d3 c5 7. d6 c6 8. e3 f7 9. g3
+c8 10. h4 f8 11. g8 h5 12. h7 g4 13. c4 e2 14. f2 f3 15. f1 b3 16. a2 h2 17. d8
+h8 18. h3 g2 19. b4 c7 20. b5 b6 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.14"]
+[Round "-"]
+[Black "mordercapl"]
+[White "itannji"]
+[Result "64-0"]
+[Time "14:46:42"]
+[TimeControl "180"]
+[BlackElo "1914"]
+[WhiteElo "1703"]
+
+1. e6 f6 2. f5 f4 3. g5 e7 4. f7 d6 5. f3 g6 6. d8 h5 7. e3 g4 8. h3 h4 9. d3
+e2 10. c3 c4 11. h6 g3 12. b4 f8 13. c5 c6 14. d2 c1 15. h2 b3 16. d7 b6 17. a6
+a5 18. b5 a7 19. f2 f1 20. c2 d1 21. g2 c7 22. a3 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.13"]
+[Round "-"]
+[Black "mordercapl"]
+[White "sailo"]
+[Result "49-15"]
+[Time "17:45:56"]
+[TimeControl "300"]
+[BlackElo "1902"]
+[WhiteElo "1806"]
+
+1. c4 e3 2. f5 e6 3. f6 c5 4. f4 g5 5. g6 f7 6. e2 c3 7. d6 e7 8. c6 d3 9. g3
+g4 10. h4 f3 11. h3 h6 12. h5 h2 13. d8 h7 14. g8 b7 15. b6 c7 16. b3 b4 17. d7
+c8 18. a8 f8 19. b8 h8 20. a4 d1 21. b5 a3 22. e8 a5 23. a7 a6 24. a2 b2 25. b1
+a1 26. c1 -- 27. f1 c2 28. d2 e1 29. f2 g2 30. g7 g1 31. h1 49-15
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.13"]
+[Round "-"]
+[Black "muaylok"]
+[White "mordercapl"]
+[Result "8-56"]
+[Time "16:42:29"]
+[TimeControl "300"]
+[BlackElo "1658"]
+[WhiteElo "1896"]
+
+1. e6 f6 2. f5 f4 3. e3 d6 4. c5 f3 5. g4 e2 6. d2 g3 7. f2 h3 8. g5 g6 9. d7
+d3 10. e7 c3 11. f7 f8 12. c4 f1 13. c2 e8 14. h5 h6 15. h7 c1 16. g7 h4 17. h2
+h8 18. g8 h1 19. d1 e1 20. g2 g1 21. d8 c8 22. c7 b7 23. b8 a8 24. a7 b1 25. b2
+a1 26. a2 a6 27. b3 a3 28. b4 a5 29. a4 b5 30. c6 b6 8-56
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.13"]
+[Round "-"]
+[Black "mordercapl"]
+[White "yakumitsuyu"]
+[Result "50-14"]
+[Time "16:27:35"]
+[TimeControl "300"]
+[BlackElo "1888"]
+[WhiteElo "1693"]
+
+1. e6 f4 2. d3 c4 3. c3 d6 4. f6 c6 5. f5 g5 6. g4 f7 7. h6 g6 8. e7 f8 9. d8
+d7 10. c8 c7 11. e8 b8 12. b4 e3 13. f3 h3 14. h5 d2 15. c5 b3 16. c2 e2 17. b6
+f2 18. a4 a6 19. h7 b5 20. a5 c1 21. g7 a2 22. a7 h4 23. h2 a3 24. a1 h8 25. b2
+h1 26. g8 -- 27. a8 -- 28. e1 d1 29. b7 f1 30. b1 -- 31. g1 g2 32. g3 50-14
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.13"]
+[Round "-"]
+[Black "mordercapl"]
+[White "liquidsnake"]
+[Result "64-0"]
+[Time "16:17:20"]
+[TimeControl "180"]
+[BlackElo "1872"]
+[WhiteElo "1873"]
+
+1. c4 e3 2. f6 e6 3. f5 c5 4. c3 c6 5. d3 d2 6. e2 f4 7. f3 b3 8. c1 f2 9. f1
+g5 10. d6 d7 11. e7 c7 12. g6 g4 13. f7 c2 14. h3 h4 15. h6 h2 16. g3 e8 17. a3
+e1 18. d1 f8 19. b4 a4 20. g7 a2 21. g1 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.13"]
+[Round "-"]
+[Black "liquidsnake"]
+[White "mordercapl"]
+[Result "0-64"]
+[Time "16:12:37"]
+[TimeControl "180"]
+[BlackElo "1891"]
+[WhiteElo "1854"]
+
+1. f5 f6 2. e6 f4 3. g6 c5 4. g4 g5 5. h4 h3 6. f3 g3 7. e3 e2 8. e1 f2 9. f1
+h5 10. h6 h7 11. d6 d3 12. c6 f7 13. e7 e8 14. c4 c3 15. d2 c2 16. b4 c1 17. d1
+g1 18. h2 h1 19. g2 b5 20. a4 a6 21. b6 c7 22. d7 d8 23. f8 g7 24. h8 a7 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.13"]
+[Round "-"]
+[Black "vimdynamici"]
+[White "mordercapl"]
+[Result "0-64"]
+[Time "14:15:07"]
+[TimeControl "120"]
+[BlackElo "1691"]
+[WhiteElo "1845"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 f3 5. e6 e7 6. f7 c5 7. e3 e2 8. g3 b4 9. g5
+g6 10. d8 h5 11. b5 b3 12. a4 g4 13. f2 c2 14. d2 e1 15. c1 f1 16. h6 h4 17. h3
+d1 18. b6 c6 19. a3 b1 20. c7 d7 21. e8 a6 22. a5 a2 23. b7 a7 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.13"]
+[Round "-"]
+[Black "grooverider"]
+[White "mordercapl"]
+[Result "0-64"]
+[Time "14:02:36"]
+[TimeControl "180"]
+[BlackElo "1731"]
+[WhiteElo "1834"]
+
+1. c4 c3 2. d3 c5 3. d6 f4 4. b4 b6 5. b3 c6 6. e6 d7 7. f5 f6 8. c7 b5 9. a5
+a6 10. g5 e3 11. f2 d8 12. e8 f8 13. e7 g6 14. f7 f3 15. h6 g8 16. b8 g4 17. h3
+h5 18. a7 h7 19. g3 a3 20. b7 a2 21. h4 h2 22. g2 h1 23. e2 g7 24. g1 d1 25. d2
+b2 26. c2 e1 27. f1 c1 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.13"]
+[Round "-"]
+[Black "mordercapl"]
+[White "grooverider"]
+[Result "0-64"]
+[Time "13:56:40"]
+[TimeControl "180"]
+[BlackElo "1856"]
+[WhiteElo "1709"]
+
+1. f5 d6 2. c4 d3 3. c3 f4 4. f6 f3 5. e6 e7 6. d7 g6 7. f8 c5 8. c6 f7 9. d2
+b4 10. e3 b6 11. b5 a5 12. c7 e2 13. a6 d1 14. a3 a4 15. b3 c2 16. h6 d8 17. g5
+g4 18. e8 c8 19. b8 h5 20. b7 a8 21. a7 h7 22. h3 g8 23. f1 e1 24. c1 g3 25. g7
+b2 26. b1 a2 27. a1 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.13"]
+[Round "-"]
+[Black "grooverider"]
+[White "mordercapl"]
+[Result "0-64"]
+[Time "13:52:39"]
+[TimeControl "180"]
+[BlackElo "1719"]
+[WhiteElo "1846"]
+
+1. c4 c3 2. d3 c5 3. d6 f4 4. b4 b6 5. b3 c6 6. e6 d7 7. f5 f6 8. f7 e7 9. b5
+e3 10. f2 a5 11. d8 e8 12. f8 c7 13. c8 a3 14. a4 e2 15. f1 c2 16. g6 a6 17. d2
+d1 18. e1 c1 19. g3 g4 20. h3 f3 21. b1 h5 22. g5 h6 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.04.13"]
+[Round "-"]
+[Black "mordercapl"]
+[White "tverye12"]
+[Result "0-64"]
+[Time "00:37:41"]
+[TimeControl "180"]
+[BlackElo "1874"]
+[WhiteElo "1523"]
+
+1. e6 f6 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.29"]
+[Round "-"]
+[Black "mordercapl"]
+[White "prezespawelk"]
+[Result "64-0"]
+[Time "20:46:38"]
+[TimeControl "180"]
+[BlackElo "1874"]
+[WhiteElo "1146"]
+
+1. c4 c5 2. d6 c3 3. e6 f7 4. c6 b6 5. b5 b4 6. d3 d2 7. e7 f5 8. b3 a2 9. a3
+e8 10. a1 a4 11. a6 a7 12. a5 c7 13. f8 d7 14. a8 g8 15. b7 b8 16. c8 d8 17. b2
+-- 18. c2 c1 19. e3 e2 20. f1 f2 21. g1 g2 22. b1 f4 23. h8 -- 24. f3 g4 25. h1
+h2 26. g7 -- 27. f6 g5 28. g3 h3 29. d1 -- 30. e1 -- 31. h5 g6 32. h7 -- 33. h6
+-- 34. h4 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.29"]
+[Round "-"]
+[Black "oxymeta"]
+[White "mordercapl"]
+[Result "19-45"]
+[Time "20:40:49"]
+[TimeControl "180"]
+[BlackElo "1428"]
+[WhiteElo "1872"]
+
+1. e6 f6 2. f5 f4 3. g5 e7 4. e3 g6 5. d6 c4 6. c5 f3 7. f7 h5 8. c3 e8 9. g4
+g3 10. f2 d3 11. h4 h3 12. e2 f1 13. h6 h7 14. g1 d7 15. e1 c6 16. c7 b8 17. g8
+f8 18. d8 b6 19. b5 b7 20. g7 a4 21. a6 c8 22. a8 a7 23. g2 d1 24. d2 h2 25. c1
+h1 26. -- b4 27. a5 h8 28. a3 b1 29. b3 c2 30. -- b2 31. a2 a1 19-45
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.29"]
+[Round "-"]
+[Black "mordercapl"]
+[White "biggs"]
+[Result "60-4"]
+[Time "20:29:55"]
+[TimeControl "300"]
+[BlackElo "1871"]
+[WhiteElo "1301"]
+
+1. c4 e3 2. f5 e6 3. f6 c5 4. f4 g6 5. f7 g5 6. d6 d3 7. f3 c3 8. h4 h5 9. g4
+h3 10. e2 d2 11. g3 e1 12. c2 e8 13. c1 d1 14. f8 b3 15. f1 g8 16. d7 c6 17. b1
+h2 18. f2 g2 19. a3 b2 20. b4 a4 21. g1 a2 22. b6 b5 23. a1 a6 24. h6 h7 25. e7
+d8 26. h1 -- 27. h8 -- 28. a5 -- 29. c8 c7 30. b8 b7 31. a7 -- 32. a8 -- 33. g7
+60-4
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.25"]
+[Round "-"]
+[Black "rynio82"]
+[White "mordercapl"]
+[Result "17-47"]
+[Time "21:35:52"]
+[TimeControl "300"]
+[BlackElo "1495"]
+[WhiteElo "1868"]
+
+1. f5 d6 2. c5 f4 3. e3 c6 4. e6 f6 5. d7 c7 6. e7 e8 7. g6 g4 8. f7 f8 9. d8
+c8 10. g3 h6 11. h4 h3 12. h2 b4 13. g5 c4 14. a4 d3 15. c3 f3 16. e2 d2 17. c1
+f1 18. d1 b5 19. a6 f2 20. e1 b1 21. b6 a3 22. a5 a7 23. b7 g1 24. g2 h5 25. h7
+h1 26. g8 h8 27. g7 c2 28. b3 a2 29. b2 a1 30. b8 a8 17-47
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.25"]
+[Round "-"]
+[Black "hipnoise"]
+[White "mordercapl"]
+[Result "64-0"]
+[Time "21:27:49"]
+[TimeControl "120"]
+[BlackElo "1296"]
+[WhiteElo "1899"]
+
+1. f5 f4 2. c3 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.25"]
+[Round "-"]
+[Black "mordercapl"]
+[White "doppio"]
+[Result "0-64"]
+[Time "20:53:17"]
+[TimeControl "420"]
+[BlackElo "1928"]
+[WhiteElo "1542"]
+
+1. d3 c5 2. e6 d2 3. c3 e3 4. f3 f5 5. f6 f4 6. c4 e7 7. g4 g5 8. e2 h4 9. g6
+d6 10. c1 b4 11. c2 h6 12. a5 a3 13. b6 c6 14. a4 a6 15. b5 f2 16. g3 b3 17. f1
+b2 18. a1 h3 19. f7 f8 20. g7 h8 21. c7 d7 22. e8 d8 23. g8 e1 24. d1 a2 25. g1
+g2 26. a7 b7 27. a8 b8 28. c8 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.07"]
+[Round "-"]
+[Black "mordercapl"]
+[White "aega90"]
+[Result "64-0"]
+[Time "19:41:53"]
+[TimeControl "60"]
+[BlackElo "1925"]
+[WhiteElo "1523"]
+
+1. f5 d6 2. c3 d3 3. c4 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.07"]
+[Round "-"]
+[Black "mordercapl"]
+[White "death666"]
+[Result "48-16"]
+[Time "17:43:20"]
+[TimeControl "180"]
+[BlackElo "1920"]
+[WhiteElo "1643"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 f3 5. e6 e7 6. c6 g6 7. g5 h6 8. e2 f7 9. e3
+d7 10. d8 c5 11. e8 c8 12. b8 c7 13. b4 b5 14. a5 d2 15. f2 e1 16. b6 b3 17. g4
+f1 18. f8 h5 19. h3 h4 20. h7 g7 21. g3 a4 22. c2 a6 23. d1 g2 24. a3 a2 25. b7
+a7 26. g8 c1 27. h8 -- 28. b2 b1 29. a1 -- 30. h2 h1 31. g1 -- 32. a8 48-16
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.07"]
+[Round "-"]
+[Black "carolinew"]
+[White "mordercapl"]
+[Result "0-64"]
+[Time "17:40:49"]
+[TimeControl "180"]
+[BlackElo "1615"]
+[WhiteElo "1915"]
+
+1. c4 e3 2. f5 c5 3. f4 c3 4. b4 a3 5. c6 d6 6. b6 d3 7. f2 b3 8. d2 b5 9. c2
+e2 10. e1 c1 11. a4 d1 12. b1 f3 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.07"]
+[Round "-"]
+[Black "ske48rena"]
+[White "mordercapl"]
+[Result "40-24"]
+[Time "17:36:50"]
+[TimeControl "60"]
+[BlackElo "1979"]
+[WhiteElo "1929"]
+
+1. f5 d6 2. c3 f4 3. f6 c4 4. d3 f3 5. e3 e2 6. g4 e6 7. d2 f2 8. g3 g5 9. h4
+g6 10. f7 h3 11. h2 h5 12. h6 f8 13. b5 b4 14. a5 a6 15. a7 d1 16. c2 a4 17. a3
+b3 18. c5 c6 19. a2 g2 20. d7 c7 21. h1 g1 22. f1 e1 23. b6 d8 24. e7 e8 25. c1
+b1 26. a1 b2 27. b8 c8 28. g8 b7 29. a8 h7 30. g7 h8 40-24
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.07"]
+[Round "-"]
+[Black "absevil"]
+[White "mordercapl"]
+[Result "8-56"]
+[Time "15:50:50"]
+[TimeControl "180"]
+[BlackElo "1571"]
+[WhiteElo "1925"]
+
+1. f5 d6 2. c4 f4 3. c5 f6 4. g5 h6 5. c7 b4 6. d3 c6 7. b3 e6 8. e7 c3 9. d7
+f7 10. g6 e2 11. g3 e3 12. f3 c2 13. g4 c8 14. b6 d8 15. b5 f2 16. d2 c1 17. e8
+f8 18. f1 e1 19. g2 g1 20. d1 h1 21. g7 h2 22. h3 h4 23. h5 h8 24. b8 a8 25. g8
+h7 26. b1 a6 27. a4 b7 28. a7 a5 29. b2 a1 30. a2 a3 8-56
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.06"]
+[Round "-"]
+[Black "mordercapl"]
+[White "globaljunk"]
+[Result "26-38"]
+[Time "20:11:10"]
+[TimeControl "180"]
+[BlackElo "1953"]
+[WhiteElo "1634"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 f3 5. e6 e7 6. c6 g6 7. g5 f7 8. h6 c7 9. d7
+c8 10. d2 b6 11. f8 c5 12. e3 f2 13. b5 g4 14. e2 h5 15. h4 h3 16. h2 g3 17. f1
+g8 18. h8 e1 19. d1 h7 20. g7 h1 21. d8 e8 22. b8 a4 23. b7 g2 24. a6 a8 25. a7
+a5 26. b4 a3 27. b3 a2 28. b2 a1 29. g1 c2 30. b1 c1 26-38
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.06"]
+[Round "-"]
+[Black "noideaz"]
+[White "mordercapl"]
+[Result "0-64"]
+[Time "19:41:04"]
+[TimeControl "120"]
+[BlackElo "1590"]
+[WhiteElo "1949"]
+
+1. f5 d6 2. c4 f4 3. c5 f6 4. g5 h6 5. f3 e3 6. d3 f2 7. g4 h5 8. f7 e6 9. c7
+e7 10. f8 e2 11. d2 g3 12. e1 c3 13. b4 f1 14. g1 c1 15. g2 c6 16. d7 b5 17. b3
+c2 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.06"]
+[Round "-"]
+[Black "boykrajork"]
+[White "mordercapl"]
+[Result "0-64"]
+[Time "19:34:38"]
+[TimeControl "300"]
+[BlackElo "1612"]
+[WhiteElo "1945"]
+
+1. e6 f4 2. c3 d6 3. f6 d3 4. c4 c6 5. c5 b5 6. f3 b4 7. f5 b3 8. d7 e7 9. c7
+f7 10. b6 e3 11. a5 g3 12. a3 a4 13. e2 f2 14. d8 g5 15. h5 e1 16. c2 d2 17. d1
+g6 18. g4 h4 19. f1 h6 20. g8 b1 21. g7 h8 22. h7 f8 23. e8 c8 24. b7 c1 25. a1
+a8 26. b8 a2 27. h2 h3 28. g2 a7 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.06"]
+[Round "-"]
+[Black "parabart"]
+[White "mordercapl"]
+[Result "0-64"]
+[Time "19:23:32"]
+[TimeControl "180"]
+[BlackElo "1724"]
+[WhiteElo "1938"]
+
+1. e6 f4 2. c3 d6 3. f5 d3 4. c4 c6 5. c5 b5 6. d2 b4 7. e3 f3 8. g4 e2 9. c2
+b3 10. d7 e1 11. b6 d1 12. a5 c7 13. a4 a3 14. a2 e8 15. f2 f6 16. f1 g1 17. f7
+e7 18. b1 h4 19. h3 h2 20. f8 g3 21. b2 a7 22. d8 h5 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.06"]
+[Round "-"]
+[Black "mordercapl"]
+[White "parabart"]
+[Result "34-30"]
+[Time "19:21:35"]
+[TimeControl "180"]
+[BlackElo "1930"]
+[WhiteElo "1732"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 f3 5. e6 e7 6. c6 g6 7. g5 h6 8. e2 c5 9. e3
+d7 10. f7 f2 11. b5 b6 12. g4 h3 13. d2 g3 14. f1 f8 15. c7 a5 16. d8 e8 17. b4
+c8 18. g7 a3 19. a4 c1 20. d1 g2 21. b1 e1 22. b2 a1 23. h5 h4 24. g8 g1 25. h1
+h2 26. a2 c2 27. b3 h8 28. h7 -- 29. b8 a8 30. a7 b7 31. a6 34-30
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.06"]
+[Round "-"]
+[Black "parabart"]
+[White "mordercapl"]
+[Result "59-4"]
+[Time "19:17:49"]
+[TimeControl "180"]
+[BlackElo "1706"]
+[WhiteElo "1956"]
+
+1. e6 f4 2. d3 d6 3. f6 e7 4. f3 e3 5. g4 c4 6. d7 c6 7. f5 c5 8. c3 f7 9. b4
+g6 10. b6 b5 11. a6 c7 12. f2 g5 13. h5 e2 14. f1 h6 15. h7 h3 16. g3 d2 17. c1
+g2 18. c2 h4 19. g7 h2 20. h1 g8 21. h8 b3 22. g1 a7 23. a8 a5 24. f8 d1 25. e1
+-- 26. e8 -- 27. d8 -- 28. b7 c8 29. b8 -- 30. b1 -- 31. a4 a3 32. b2 -- 33. a2
+59-4
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.06"]
+[Round "-"]
+[Black "mordercapl"]
+[White "parabart"]
+[Result "43-21"]
+[Time "19:16:24"]
+[TimeControl "180"]
+[BlackElo "1949"]
+[WhiteElo "1713"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 f3 5. e6 e7 6. c6 g6 7. g5 h6 8. e2 f7 9. e3
+d7 10. d8 c5 11. e8 c8 12. b8 c7 13. b4 b5 14. a5 e1 15. f2 f1 16. g4 h5 17. h3
+g3 18. f8 b6 19. h4 h2 20. d2 c1 21. g2 h1 22. d1 a6 23. b3 a4 24. a3 a2 25. c2
+b2 26. g1 g7 27. a1 b1 28. a7 b7 29. a8 -- 30. h8 h7 31. g8 43-21
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.06"]
+[Round "-"]
+[Black "parabart"]
+[White "mordercapl"]
+[Result "17-47"]
+[Time "19:14:42"]
+[TimeControl "180"]
+[BlackElo "1720"]
+[WhiteElo "1942"]
+
+1. e6 f4 2. c3 d6 3. f5 d3 4. c5 e7 5. d7 f6 6. d2 c6 7. b5 d8 8. f3 e3 9. f2
+c4 10. e8 c8 11. c7 f8 12. b4 b8 13. f7 b6 14. a6 a4 15. b7 a3 16. a5 e2 17. f1
+e1 18. d1 a8 19. a7 g8 20. g7 c2 21. b3 g5 22. g6 h5 23. h6 h4 24. g4 h3 25. g3
+b1 26. c1 g1 27. g2 h1 28. h2 h7 29. h8 b2 30. a1 a2 17-47
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.06"]
+[Round "-"]
+[Black "mordercapl"]
+[White "rugood"]
+[Result "50-14"]
+[Time "19:13:10"]
+[TimeControl "60"]
+[BlackElo "1939"]
+[WhiteElo "1563"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 d7 6. e7 g6 7. c5 e3 8. f7 c6 9. d2
+b5 10. b6 b4 11. f2 e2 12. a4 a3 13. a6 a5 14. a2 b3 15. c2 d1 16. f1 c1 17. e1
+g1 18. f3 g3 19. h4 h5 20. g4 h3 21. d8 c7 22. c8 e8 23. f8 b8 24. a8 a7 25. b2
+g7 26. g8 a1 27. b1 -- 28. h8 h7 29. h6 -- 30. b7 -- 31. h2 g2 32. h1 50-14
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.05"]
+[Round "-"]
+[Black "mordercapl"]
+[White "skoczywlas"]
+[Result "49-15"]
+[Time "20:26:00"]
+[TimeControl "60"]
+[BlackElo "1936"]
+[WhiteElo "1531"]
+
+1. f5 f6 2. e6 f4 3. e3 c5 4. g5 g3 5. c6 d3 6. f3 d6 7. g4 e2 8. c7 d7 9. d2
+d1 10. e8 b6 11. f7 d8 12. e7 f8 13. c4 b5 14. e1 f1 15. c3 b4 16. a5 a6 17. a7
+h3 18. g6 h6 19. h4 h5 20. c1 b1 21. c2 g8 22. f2 b3 23. b8 g1 24. b7 c8 25. h8
+a8 26. g7 a4 27. h7 -- 28. h2 g2 29. h1 -- 30. a1 -- 31. a2 a3 32. b2 49-15
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.05"]
+[Round "-"]
+[Black "darknight666"]
+[White "mordercapl"]
+[Result "27-37"]
+[Time "20:23:51"]
+[TimeControl "120"]
+[BlackElo "1501"]
+[WhiteElo "1934"]
+
+1. d3 c5 2. d6 e3 3. b5 c3 4. f5 f6 5. f7 g5 6. h4 b6 7. b4 c6 8. c7 e6 9. d7
+a3 10. c4 e7 11. a4 g6 12. h5 a5 13. f3 f4 14. g3 g4 15. h3 f8 16. d8 b3 17. a6
+f2 18. f1 a7 19. e2 h7 20. d2 c2 21. h6 h2 22. c1 b8 23. c8 e8 24. g7 g2 25. h1
+h8 26. g8 g1 27. a8 b7 28. b2 b1 29. a2 a1 30. d1 e1 27-37
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.05"]
+[Round "-"]
+[Black "mordercapl"]
+[White "darknight666"]
+[Result "64-0"]
+[Time "20:22:45"]
+[TimeControl "120"]
+[BlackElo "1932"]
+[WhiteElo "1503"]
+
+1. f5 f6 2. e6 f4 3. e3 c5 4. g5 d6 5. g6 f3 6. g3 d2 7. f7 g4 8. h5 h3 9. d3
+f8 10. h4 h6 11. e7 d8 12. e8 d7 13. d1 c2 14. b3 b1 15. b2 b4 16. a2 c1 17. a1
+-- 18. c3 c4 19. a5 a4 20. e1 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.05"]
+[Round "-"]
+[Black "darknight666"]
+[White "mordercapl"]
+[Result "13-51"]
+[Time "20:21:17"]
+[TimeControl "120"]
+[BlackElo "1506"]
+[WhiteElo "1929"]
+
+1. d3 c5 2. d6 e3 3. b5 c3 4. f5 f6 5. f7 g5 6. h4 b6 7. b4 c6 8. c7 e6 9. d7
+a3 10. c4 e7 11. a4 g6 12. h5 a5 13. f4 f3 14. e8 c8 15. d2 b3 16. f2 c2 17. a6
+d8 18. b8 a7 19. b2 g8 20. g7 e1 21. d1 e2 22. f1 h8 23. h7 f8 24. b7 a8 25. --
+h6 26. g3 g4 27. -- h3 28. h2 h1 29. -- a1 30. a2 g2 31. g1 c1 32. b1 13-51
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.05"]
+[Round "-"]
+[Black "mordercapl"]
+[White "carolinew"]
+[Result "33-31"]
+[Time "20:16:59"]
+[TimeControl "60"]
+[BlackElo "1923"]
+[WhiteElo "1652"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 f3 5. e6 e7 6. c6 g6 7. g5 g4 8. d2 f7 9. e8
+c5 10. b4 b5 11. e3 a3 12. b6 c7 13. d7 c8 14. a6 a5 15. d8 f8 16. g3 b3 17. h4
+c2 18. c1 e2 19. f2 e1 20. d1 b1 21. h5 h6 22. h7 h2 23. a4 a7 24. g8 h8 25. h3
+g7 26. h1 b7 27. a8 b8 28. a2 f1 29. g1 g2 30. a1 b2 33-31
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.05"]
+[Round "-"]
+[Black "carolinew"]
+[White "mordercapl"]
+[Result "0-64"]
+[Time "20:15:09"]
+[TimeControl "60"]
+[BlackElo "1658"]
+[WhiteElo "1917"]
+
+1. c4 e3 2. f6 c5 3. c3 f5 4. c6 d3 5. e2 d2 6. f2 f3 7. d6 d1 8. f1 b3 9. g4
+b4 10. g5 b6 11. b5 c2 12. a6 c7 13. d7 e1 14. c1 f4 15. a3 a4 16. e6 a5 17. g3
+e8 18. d8 c8 19. b8 a8 20. a7 g2 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.05"]
+[Round "-"]
+[Black "mordercapl"]
+[White "princemalkovich"]
+[Result "64-0"]
+[Time "20:12:59"]
+[TimeControl "60"]
+[BlackElo "1914"]
+[WhiteElo "1511"]
+
+1. f5 f6 2. e6 f4 3. e3 d6 4. e7 d3 5. c6 c7 6. f3 c5 7. c4 e2 8. d7 b5 9. c3
+g4 10. b4 a4 11. b6 f2 12. a3 d8 13. b3 d2 14. g5 h4 15. c2 d1 16. g6 f7 17. a5
+h5 18. c1 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.05"]
+[Round "-"]
+[Black "princemalkovich"]
+[White "mordercapl"]
+[Result "23-41"]
+[Time "20:11:44"]
+[TimeControl "60"]
+[BlackElo "1514"]
+[WhiteElo "1911"]
+
+1. c4 e3 2. f4 c5 3. d6 f3 4. e2 d3 5. c3 b5 6. g4 f1 7. f2 c2 8. d1 g1 9. d2
+g3 10. b6 c1 11. b1 h5 12. h3 c6 13. a5 h4 14. h6 g5 15. f6 g2 16. f5 e1 17. h1
+h2 18. b3 d7 19. b4 e6 20. c7 g7 21. d8 g6 22. e7 f7 23. f8 a4 24. a3 h8 25. h7
+a7 26. a6 a2 27. b2 a1 28. -- c8 29. b8 e8 30. b7 a8 31. -- g8 23-41
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.05"]
+[Round "-"]
+[Black "sucel"]
+[White "mordercapl"]
+[Result "42-22"]
+[Time "20:09:43"]
+[TimeControl "60"]
+[BlackElo "1755"]
+[WhiteElo "1935"]
+
+1. e6 f4 2. c3 d6 3. f6 d3 4. c5 c6 5. c4 b5 6. d7 f5 7. b4 b6 8. c7 e7 9. d8
+f7 10. g6 c8 11. b8 e8 12. f8 h6 13. e2 d2 14. e1 f1 15. g1 a4 16. b3 d1 17. c1
+c2 18. e3 f3 19. b1 b7 20. a3 b2 21. g5 f2 22. a1 a2 23. a5 a6 24. g4 h3 25. h4
+h5 26. g3 g8 27. h8 g7 28. h7 h2 29. h1 g2 30. a8 a7 42-22
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.05"]
+[Round "-"]
+[Black "mordercapl"]
+[White "slowsnow"]
+[Result "64-0"]
+[Time "20:04:07"]
+[TimeControl "60"]
+[BlackElo "1929"]
+[WhiteElo "1671"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 f3 5. e6 e7 6. c6 g5 7. e3 d7 8. g4 c5 9. c7
+e2 10. b6 d2 11. d8 b3 12. b4 h3 13. c2 a5 14. f1 e1 15. d1 b5 16. a6 g3 17. f2
+b1 18. g2 c8 19. c1 h1 20. a1 a4 21. b8 b2 22. g1 a7 23. a2 b7 24. a3 -- 25. f8
+e8 26. a8 g8 27. f7 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.05"]
+[Round "-"]
+[Black "slowsnow"]
+[White "mordercapl"]
+[Result "0-64"]
+[Time "20:00:25"]
+[TimeControl "120"]
+[BlackElo "1677"]
+[WhiteElo "1923"]
+
+1. f5 d6 2. c3 f4 3. f6 c4 4. d3 f3 5. e3 e2 6. g4 e6 7. d2 f2 8. g3 g5 9. h6
+d1 10. b4 c5 11. c2 g6 12. b5 b6 13. c1 a5 14. f1 b1 15. d7 c6 16. c7 a4 17. f7
+e7 18. b3 a3 19. h5 d8 20. b8 g8 21. f8 e8 22. b2 g7 23. a6 a1 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.05"]
+[Round "-"]
+[Black "yao1"]
+[White "mordercapl"]
+[Result "14-50"]
+[Time "18:56:46"]
+[TimeControl "60"]
+[BlackElo "1580"]
+[WhiteElo "1919"]
+
+1. f5 d6 2. c3 f4 3. f6 c4 4. e3 f3 5. d3 e2 6. g4 e6 7. c2 d2 8. b4 c5 9. f7
+c6 10. b5 e7 11. d8 b6 12. f1 e1 13. g3 f2 14. d1 a5 15. c7 d7 16. c8 a3 17. a6
+h3 18. g1 b3 19. h4 h5 20. g5 h6 21. g6 h2 22. a4 a7 23. b2 b7 24. g2 h1 25. b8
+a2 26. a1 a8 27. b1 c1 28. -- h7 29. g7 h8 30. g8 e8 31. f8 14-50
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.05"]
+[Round "-"]
+[Black "mordercapl"]
+[White "yao1"]
+[Result "57-7"]
+[Time "18:55:43"]
+[TimeControl "60"]
+[BlackElo "1915"]
+[WhiteElo "1584"]
+
+1. f5 f6 2. e6 f4 3. e3 c5 4. g5 d6 5. g6 h5 6. h6 h7 7. f7 d3 8. e7 e8 9. g4
+f8 10. c2 h4 11. c6 b6 12. c3 b2 13. f3 f2 14. b3 a3 15. a4 b4 16. c4 b5 17. a5
+c1 18. d2 d1 19. a2 -- 20. a1 b1 21. e2 e1 22. f1 -- 23. a6 -- 24. g7 g8 25. a7
+b7 26. b8 a8 27. h8 c8 28. h3 -- 29. g2 g1 30. g3 h2 31. h1 -- 32. d8 d7 33. c7
+57-7
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.05"]
+[Round "-"]
+[Black "yao1"]
+[White "mordercapl"]
+[Result "9-54"]
+[Time "18:54:42"]
+[TimeControl "60"]
+[BlackElo "1588"]
+[WhiteElo "1911"]
+
+1. f5 d6 2. c4 f4 3. e6 f6 4. g5 g4 5. e3 c5 6. g6 h6 7. b6 f3 8. h4 h3 9. f2
+h5 10. c6 g3 11. d7 b5 12. a6 e7 13. e8 f7 14. c7 f8 15. g8 c3 16. d3 b4 17. a3
+d2 18. c2 e2 19. d1 e1 20. g7 c1 21. g1 b7 22. g2 h1 23. h2 f1 24. a7 b8 25. c8
+a8 26. h7 h8 27. -- d8 28. -- b1 29. -- b2 30. b3 a5 31. a4 a2 9-54
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.05"]
+[Round "-"]
+[Black "mordercapl"]
+[White "yao1"]
+[Result "46-18"]
+[Time "18:53:20"]
+[TimeControl "60"]
+[BlackElo "1907"]
+[WhiteElo "1592"]
+
+1. f5 f6 2. e6 d6 3. c5 e3 4. e7 f4 5. f7 e8 6. f8 g8 7. g6 h5 8. c3 c6 9. g5
+h6 10. d7 d8 11. d3 b5 12. g4 c2 13. c4 c8 14. e2 h4 15. f2 c7 16. a6 a4 17. f3
+d2 18. b6 b4 19. b7 g3 20. a5 a8 21. b8 a7 22. h8 f1 23. h2 h3 24. h7 -- 25. g7
+-- 26. g2 h1 27. g1 -- 28. a3 b3 29. d1 a2 30. c1 e1 31. b2 b1 32. a1 46-18
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.05"]
+[Round "-"]
+[Black "1piece"]
+[White "mordercapl"]
+[Result "0-64"]
+[Time "18:13:50"]
+[TimeControl "60"]
+[BlackElo "1628"]
+[WhiteElo "1901"]
+
+1. e6 f4 2. d3 d6 3. e3 f6 4. e7 f8 5. c6 c5 6. c4 b6 7. g4 b4 8. c7 c3 9. f5
+d2 10. e2 d8 11. e8 d7 12. f7 b5 13. b3 c2 14. c1 a4 15. b1 e1 16. a3 f1 17. a5
+a6 18. a7 g6 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.05"]
+[Round "-"]
+[Black "mordercapl"]
+[White "1piece"]
+[Result "64-0"]
+[Time "18:11:57"]
+[TimeControl "60"]
+[BlackElo "1895"]
+[WhiteElo "1634"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 d7 6. e7 c5 7. f3 e3 8. g4 f8 9. e8
+f7 10. c8 d8 11. g8 g6 12. h6 h5 13. h4 b4 14. e2 f1 15. c2 d2 16. e1 d1 17. c1
+b1 18. c6 h3 19. h2 g7 20. g3 f2 21. g2 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.05"]
+[Round "-"]
+[Black "1piece"]
+[White "mordercapl"]
+[Result "0-64"]
+[Time "18:10:26"]
+[TimeControl "60"]
+[BlackElo "1640"]
+[WhiteElo "1889"]
+
+1. e6 f4 2. d3 d6 3. e3 f6 4. e7 f8 5. c6 c5 6. c4 b6 7. g4 b4 8. b5 a4 9. a3
+a2 10. g6 c3 11. b3 f5 12. d7 g5 13. e8 d8 14. f7 c7 15. b8 h6 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.05"]
+[Round "-"]
+[Black "mordercapl"]
+[White "1piece"]
+[Result "51-13"]
+[Time "18:08:45"]
+[TimeControl "60"]
+[BlackElo "1882"]
+[WhiteElo "1647"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 d7 6. e7 c5 7. f3 f8 8. e3 f7 9. c8
+d8 10. b6 g6 11. c6 b5 12. a6 g4 13. c7 b3 14. b4 a4 15. g3 c2 16. a5 d2 17. e2
+a7 18. d1 f1 19. e1 c1 20. h4 f2 21. e8 b8 22. a2 h2 23. h6 h5 24. b2 h3 25. h1
+a3 26. a8 g7 27. g8 -- 28. b7 -- 29. g1 g2 30. h8 -- 31. h7 -- 32. b1 a1 51-13
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.05"]
+[Round "-"]
+[Black "1piece"]
+[White "mordercapl"]
+[Result "0-64"]
+[Time "18:06:58"]
+[TimeControl "60"]
+[BlackElo "1654"]
+[WhiteElo "1875"]
+
+1. e6 f4 2. e3 d6 3. c5 f3 4. f5 f6 5. g4 c6 6. g3 c3 7. c4 d3 8. e2 d2 9. c1
+b6 10. c2 b5 11. b4 a3 12. a5 b3 13. a6 f2 14. e1 h4 15. h5 h6 16. g5 a4 17. a2
+h3 18. a7 g6 19. c7 f1 20. e7 e8 21. f8 g8 22. f7 g7 23. g1 d1 24. g2 h1 25. h2
+d7 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.05"]
+[Round "-"]
+[Black "mordercapl"]
+[White "1piece"]
+[Result "34-30"]
+[Time "18:05:24"]
+[TimeControl "60"]
+[BlackElo "1868"]
+[WhiteElo "1661"]
+
+1. f5 f6 2. e6 d6 3. c5 e3 4. e7 c7 5. f3 f4 6. d7 c4 7. c6 d3 8. c8 b5 9. g6
+g3 10. b4 a4 11. b3 f7 12. g5 b6 13. a3 e8 14. c3 d8 15. g4 b8 16. a5 a6 17. a7
+c2 18. c1 b1 19. d1 e1 20. d2 e2 21. g8 h4 22. h5 h6 23. g7 f8 24. a8 b7 25. f1
+g1 26. h7 h8 27. f2 b2 28. g2 h1 29. h2 h3 30. a2 a1 34-30
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.05"]
+[Round "-"]
+[Black "1piece"]
+[White "mordercapl"]
+[Result "23-41"]
+[Time "18:03:58"]
+[TimeControl "60"]
+[BlackElo "1669"]
+[WhiteElo "1860"]
+
+1. e6 f4 2. d3 d6 3. e3 f6 4. e7 f8 5. c6 c5 6. c4 b6 7. c7 c3 8. f5 d8 9. e8
+d7 10. f7 g6 11. h6 g4 12. g5 h5 13. h4 b4 14. b5 b3 15. a4 a3 16. a6 a5 17. a2
+b7 18. c2 d2 19. c1 e1 20. e2 f3 21. g3 f2 22. g2 g1 23. a8 a7 24. b8 c8 25. f1
+h1 26. h2 d1 27. g7 a1 28. g8 h3 29. -- h7 30. h8 b2 31. b1 23-41
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.05"]
+[Round "-"]
+[Black "mordercapl"]
+[White "1piece"]
+[Result "57-7"]
+[Time "18:01:58"]
+[TimeControl "60"]
+[BlackElo "1851"]
+[WhiteElo "1678"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 g5 5. e6 d7 6. e7 c5 7. f3 f8 8. e3 f7 9. c8
+d8 10. b6 b5 11. c7 g4 12. c6 g6 13. a6 f2 14. e8 b8 15. g3 e2 16. h3 h5 17. h7
+h6 18. h4 d2 19. c2 b4 20. a3 c1 21. d1 f1 22. e1 g7 23. b2 a1 24. b1 a4 25. a2
+a5 26. b3 g2 27. h8 g8 28. h2 h1 29. g1 a7 30. a8 -- 31. b7 57-7
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.05"]
+[Round "-"]
+[Black "mordercapl"]
+[White "1piece"]
+[Result "57-7"]
+[Time "17:59:28"]
+[TimeControl "60"]
+[BlackElo "1842"]
+[WhiteElo "1687"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 f3 5. e6 e7 6. c6 c5 7. b5 b4 8. d7 a6 9. e3
+e2 10. d2 g4 11. g6 g5 12. b3 c1 13. f2 f1 14. d1 e1 15. h5 h4 16. h6 h7 17. g2
+c2 18. h3 a3 19. f8 f7 20. h8 g3 21. h2 e8 22. g7 g8 23. d8 c7 24. c8 h1 25. g1
+-- 26. b2 b1 27. a1 a2 28. b8 b7 29. a5 a4 30. a7 a8 31. b6 57-7
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.05"]
+[Round "-"]
+[Black "1piece"]
+[White "mordercapl"]
+[Result "8-56"]
+[Time "17:57:34"]
+[TimeControl "60"]
+[BlackElo "1697"]
+[WhiteElo "1832"]
+
+1. e6 f4 2. d3 d6 3. e3 f6 4. e7 f8 5. c6 c5 6. c7 f5 7. c4 c3 8. g3 d7 9. g5
+b3 10. b4 b6 11. e8 d2 12. e2 a5 13. d8 f7 14. b5 c8 15. a4 g4 16. h4 c2 17. a3
+f3 18. e1 h6 19. d1 h5 20. h7 a2 21. a7 b2 22. g6 f1 23. f2 g7 24. b7 c1 25. g8
+h8 26. b1 b8 27. g1 a1 28. -- h3 29. g2 h1 30. -- h2 31. -- a8 32. -- a6 8-56
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.05"]
+[Round "-"]
+[Black "gekikararock"]
+[White "mordercapl"]
+[Result "40-24"]
+[Time "17:14:23"]
+[TimeControl "60"]
+[BlackElo "2099"]
+[WhiteElo "1838"]
+
+1. e6 f4 2. c3 d6 3. f6 d3 4. c4 c6 5. c5 b5 6. d7 f5 7. b4 b6 8. c7 e7 9. d8
+f7 10. g6 c8 11. b8 e8 12. f8 h6 13. e2 d2 14. e1 f1 15. g1 a4 16. b3 d1 17. c1
+c2 18. e3 f3 19. b1 b7 20. g4 g3 21. a8 a7 22. a6 a5 23. f2 h4 24. g5 h5 25. a3
+a2 26. a1 b2 27. h2 h3 28. h7 g2 29. h1 g8 30. g7 h8 40-24
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.05"]
+[Round "-"]
+[Black "mordercapl"]
+[White "gekikararock"]
+[Result "29-35"]
+[Time "17:13:20"]
+[TimeControl "60"]
+[BlackElo "1844"]
+[WhiteElo "2093"]
+
+1. f5 f6 2. e6 f4 3. e3 d6 4. e7 d3 5. c6 f7 6. g6 e8 7. g5 d7 8. f8 g8 9. f3
+c5 10. c7 b6 11. d8 c8 12. c4 c3 13. b5 a4 14. b4 a3 15. b7 b3 16. a7 g4 17. h3
+e2 18. g3 g7 19. f2 h4 20. h8 h5 21. d1 d2 22. a5 a8 23. b8 f1 24. c2 b1 25. g1
+h1 26. c1 e1 27. h7 h6 28. g2 h2 29. b2 a6 30. -- a2 31. a1 29-35
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.05"]
+[Round "-"]
+[Black "liondelyon"]
+[White "mordercapl"]
+[Result "15-49"]
+[Time "16:45:57"]
+[TimeControl "60"]
+[BlackElo "1547"]
+[WhiteElo "1839"]
+
+1. f5 d6 2. c3 f4 3. f6 c4 4. e3 f3 5. d3 e2 6. g4 e6 7. d2 f2 8. c2 b3 9. e7
+g5 10. b4 c5 11. g3 d7 12. h6 g6 13. f7 h4 14. c8 h5 15. h3 c6 16. b5 c1 17. c7
+d1 18. a3 f8 19. h7 e8 20. d8 g2 21. g8 b6 22. a6 b7 23. e1 g1 24. b1 a4 25. a5
+f1 26. h1 h2 27. b8 h8 28. -- a8 29. a7 b2 30. a1 a2 31. -- g7 15-49
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.05"]
+[Round "-"]
+[Black "mordercapl"]
+[White "liondelyon"]
+[Result "27-37"]
+[Time "16:44:05"]
+[TimeControl "60"]
+[BlackElo "1867"]
+[WhiteElo "1519"]
+
+1. f5 f6 2. e6 f4 3. e3 c5 4. g5 f3 5. g6 e7 6. d6 f7 7. f8 d8 8. g3 g4 9. c3
+c4 10. d3 c7 11. h3 h5 12. b3 b4 13. a4 f2 14. e2 e1 15. c6 d2 16. d7 b5 17. e8
+g8 18. c8 b8 19. c2 b6 20. f1 c1 21. d1 g1 22. a5 b1 23. a6 h4 24. g2 h1 25. h2
+a2 26. a3 a7 27. b2 a1 28. b7 a8 29. h7 h6 30. g7 h8 27-37
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.05"]
+[Round "-"]
+[Black "mordercapl"]
+[White "yakumitsuyu"]
+[Result "0-64"]
+[Time "16:31:39"]
+[TimeControl "300"]
+[BlackElo "1886"]
+[WhiteElo "1820"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 f3 5. e6 e7 6. c6 f7 7. f8 c5 8. b4 b5 9. e3
+e2 10. d2 f2 11. b3 a4 12. a3 d8 13. e1 c1 14. a6 a2 15. e8 g8 16. g5 d1 17. g2
+g3 18. c2 f1 19. g4 b1 20. g7 c7 21. b6 d7 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.04"]
+[Round "-"]
+[Black "changing"]
+[White "mordercapl"]
+[Result "64-0"]
+[Time "23:23:41"]
+[TimeControl "120"]
+[BlackElo "1808"]
+[WhiteElo "1906"]
+
+1. f5 f6 2. e6 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.04"]
+[Round "-"]
+[Black "nmendes"]
+[White "mordercapl"]
+[Result "9-55"]
+[Time "23:18:08"]
+[TimeControl "60"]
+[BlackElo "1498"]
+[WhiteElo "1903"]
+
+1. d3 c5 2. d6 e3 3. f4 c6 4. f5 c3 5. e2 e6 6. e7 f7 7. d7 f6 8. c7 f8 9. e8
+c8 10. g8 g5 11. g6 f2 12. h4 f1 13. c4 f3 14. d2 e1 15. c2 b5 16. d1 b3 17. g4
+b1 18. g1 g3 19. b2 a1 20. b4 b6 21. h3 a4 22. a6 c1 23. a5 a7 24. b8 d8 25. b7
+h8 26. a2 a8 27. -- g7 28. -- h6 29. h5 a3 30. h7 g2 31. h2 h1 9-55
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.04"]
+[Round "-"]
+[Black "mordercapl"]
+[White "nmendes"]
+[Result "53-11"]
+[Time "23:16:59"]
+[TimeControl "60"]
+[BlackElo "1900"]
+[WhiteElo "1501"]
+
+1. f5 d6 2. c3 g5 3. f6 f7 4. c5 f4 5. g6 e3 6. d3 c4 7. e6 e7 8. c6 d7 9. b3
+g4 10. h5 h4 11. c7 d2 12. d8 b4 13. f8 b6 14. e8 b8 15. h3 g3 16. f2 a3 17. f3
+h6 18. e2 e1 19. h7 f1 20. a5 g7 21. b5 a7 22. a4 a6 23. g2 h2 24. h8 g8 25. c1
+d1 26. g1 b7 27. h1 c8 28. a8 -- 29. a2 b2 30. b1 a1 31. c2 53-11
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.04"]
+[Round "-"]
+[Black "nmendes"]
+[White "mordercapl"]
+[Result "11-53"]
+[Time "23:16:00"]
+[TimeControl "60"]
+[BlackElo "1504"]
+[WhiteElo "1897"]
+
+1. d3 c5 2. d6 e3 3. f4 c6 4. c4 c3 5. b5 f3 6. b4 b3 7. c2 a6 8. a5 d7 9. e2
+a4 10. a3 a2 11. f2 d2 12. c1 b6 13. d8 e1 14. d1 b1 15. b7 f1 16. a7 a8 17. b2
+c8 18. b8 c7 19. -- e8 20. -- e7 21. f8 f6 22. g7 g1 23. g2 h8 24. e6 g8 25. g6
+f7 26. -- a1 27. -- h5 28. h6 h7 29. -- g5 30. f5 h2 31. h1 h3 32. h4 g3 33. g4
+11-53
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.04"]
+[Round "-"]
+[Black "mordercapl"]
+[White "nmendes"]
+[Result "39-25"]
+[Time "23:15:02"]
+[TimeControl "60"]
+[BlackElo "1894"]
+[WhiteElo "1507"]
+
+1. f5 d6 2. c3 g5 3. f6 f7 4. c5 f4 5. g6 e3 6. d3 c4 7. e6 e7 8. c6 d7 9. b3
+g4 10. h5 d2 11. c7 h4 12. d8 b5 13. b4 b6 14. a4 a6 15. a5 a3 16. h3 h7 17. f3
+f2 18. g3 e8 19. c8 a7 20. e1 g1 21. f1 d1 22. b7 g2 23. h1 e2 24. h2 a8 25. c2
+b8 26. c1 b2 27. a1 b1 28. a2 -- 29. h6 g7 30. h8 g8 31. f8 39-25
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.04"]
+[Round "-"]
+[Black "nmendes"]
+[White "mordercapl"]
+[Result "14-49"]
+[Time "23:13:50"]
+[TimeControl "60"]
+[BlackElo "1510"]
+[WhiteElo "1891"]
+
+1. d3 c5 2. d6 e3 3. f4 c6 4. f5 c3 5. e2 e6 6. e7 f7 7. d7 f6 8. c7 f8 9. e8
+c8 10. g8 g5 11. g6 f2 12. d2 h6 13. b3 c4 14. b5 g4 15. h3 f3 16. g3 c1 17. d1
+e1 18. h4 h5 19. h7 g2 20. h1 h2 21. g1 f1 22. b1 d8 23. b8 h8 24. -- a8 25. --
+a5 26. b4 b7 27. b6 a7 28. a6 a4 29. a3 g7 30. -- c2 31. b2 a2 14-49
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.04"]
+[Round "-"]
+[Black "landherr"]
+[White "mordercapl"]
+[Result "26-38"]
+[Time "23:11:38"]
+[TimeControl "60"]
+[BlackElo "1505"]
+[WhiteElo "1888"]
+
+1. e6 f4 2. f3 d6 3. g4 f6 4. c4 d3 5. c2 e3 6. f5 c3 7. e2 c5 8. b3 d2 9. b4
+b5 10. c6 b6 11. a5 f1 12. e1 d1 13. e7 c1 14. d7 c7 15. a6 g6 16. g5 d8 17. e8
+f8 18. f7 g8 19. b8 h3 20. h4 h5 21. g3 g7 22. h6 h7 23. b2 a1 24. b1 a2 25. a3
+f2 26. g2 h2 27. h8 c8 28. b7 a4 29. h1 g1 30. -- a7 31. a8 26-38
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.04"]
+[Round "-"]
+[Black "mordercapl"]
+[White "vehusheino"]
+[Result "51-13"]
+[Time "23:01:33"]
+[TimeControl "420"]
+[BlackElo "1884"]
+[WhiteElo "1547"]
+
+1. f5 f6 2. e6 f4 3. e3 c5 4. g5 d3 5. d6 g4 6. c4 f3 7. c3 b4 8. c6 b3 9. g6
+h6 10. a4 e7 11. h5 h4 12. d7 f7 13. e8 c8 14. c7 b6 15. h3 h2 16. g3 f8 17. f2
+a3 18. e2 d2 19. a5 a6 20. g8 e1 21. b5 b8 22. g7 h8 23. h7 d8 24. h1 -- 25. f1
+g2 26. g1 -- 27. d1 c1 28. b1 -- 29. c2 b2 30. b7 a7 31. a1 -- 32. a2 -- 33. a8
+51-13
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.04"]
+[Round "-"]
+[Black "mordercapl"]
+[White "asiorek316n"]
+[Result "52-12"]
+[Time "22:57:20"]
+[TimeControl "420"]
+[BlackElo "1883"]
+[WhiteElo "1202"]
+
+1. f5 d6 2. c3 f3 3. f4 g5 4. c6 b6 5. f6 f7 6. g6 c5 7. e6 e3 8. h5 e7 9. d3
+d2 10. g4 h3 11. h4 h6 12. d7 c8 13. e1 c1 14. c2 c4 15. d1 f1 16. e2 f2 17. e8
+f8 18. g8 g7 19. h8 h7 20. h2 -- 21. g3 g2 22. d8 c7 23. h1 -- 24. g1 -- 25. b1
+b2 26. b7 a6 27. b8 -- 28. a8 -- 29. b5 a5 30. a4 a7 31. b3 b4 32. a3 a1 33. a2
+52-12
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.04"]
+[Round "-"]
+[Black "asiorek316n"]
+[White "mordercapl"]
+[Result "6-58"]
+[Time "22:53:59"]
+[TimeControl "420"]
+[BlackElo "1203"]
+[WhiteElo "1882"]
+
+1. d3 c5 2. b6 f3 3. f6 e6 4. d6 e7 5. f4 f5 6. f2 c6 7. d8 c4 8. b5 e3 9. d7
+c3 10. e2 d2 11. d1 c7 12. b4 c2 13. b3 c1 14. b1 f8 15. f7 g4 16. h4 g5 17. h5
+g3 18. h3 g2 19. b8 e1 20. h2 h1 21. g1 f1 22. b7 e8 23. g8 a2 24. a4 a1 25. --
+b2 26. -- a8 27. a7 h6 28. g6 c8 29. -- h8 30. -- a6 31. a5 a3 32. -- g7 33. h7
+6-58
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.04"]
+[Round "-"]
+[Black "grandep1"]
+[White "mordercapl"]
+[Result "61-3"]
+[Time "22:35:00"]
+[TimeControl "120"]
+[BlackElo "1492"]
+[WhiteElo "1911"]
+
+1. f5 f4 2. e3 d6 3. f3 g4 4. g5 g6 5. e6 d3 6. f6 g3 7. h6 e7 8. f7 h7 9. h8
+g8 10. f2 g7 11. f8 e2 12. h5 h4 13. h3 g2 14. d8 e8 15. d7 c8 16. b8 -- 17. c6
+b7 18. c5 c7 19. b5 b6 20. c4 b4 21. a3 c3 22. a8 a5 23. a7 -- 24. a6 -- 25. a4
+-- 26. h2 -- 27. h1 -- 28. g1 -- 29. f1 e1 30. d1 c2 31. d2 b2 32. a1 a2 33. b3
+b1 34. c1 61-3
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.04"]
+[Round "-"]
+[Black "sucel"]
+[White "mordercapl"]
+[Result "42-22"]
+[Time "21:41:45"]
+[TimeControl "60"]
+[BlackElo "1739"]
+[WhiteElo "1935"]
+
+1. e6 f4 2. c3 d6 3. f6 d3 4. c5 c6 5. c4 b5 6. d7 f5 7. b4 b6 8. c7 e7 9. d8
+f7 10. g6 c8 11. b8 e8 12. f8 h6 13. e2 d2 14. e1 f1 15. g1 a4 16. b3 d1 17. c1
+c2 18. e3 f3 19. b1 b7 20. a3 b2 21. g5 f2 22. a1 a2 23. a5 a6 24. g4 h3 25. h4
+h5 26. g3 g8 27. h8 g7 28. h7 h2 29. h1 g2 30. a8 a7 42-22
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.04"]
+[Round "-"]
+[Black "cheekytrax"]
+[White "mordercapl"]
+[Result "0-64"]
+[Time "21:39:32"]
+[TimeControl "180"]
+[BlackElo "1849"]
+[WhiteElo "1922"]
+
+1. c4 e3 2. f4 c5 3. d6 f3 4. c6 b4 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.04"]
+[Round "-"]
+[Black "mordercapl"]
+[White "mir07"]
+[Result "61-3"]
+[Time "21:32:49"]
+[TimeControl "180"]
+[BlackElo "1921"]
+[WhiteElo "1372"]
+
+1. f5 f6 2. e6 d6 3. c5 e3 4. d3 f4 5. e2 c4 6. c3 d2 7. f3 c2 8. c6 b3 9. b5
+b4 10. b6 c7 11. d1 a4 12. a6 a5 13. a3 c1 14. f2 e1 15. f1 g1 16. a7 b2 17. d8
+g4 18. a2 b8 19. d7 e7 20. a1 b1 21. h1 b7 22. g2 -- 23. a8 g3 24. h3 h2 25. h4
+h5 26. f8 e8 27. h6 c8 28. g5 g8 29. h8 -- 30. g7 g6 31. h7 -- 32. f7 61-3
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.04"]
+[Round "-"]
+[Black "mordercapl"]
+[White "averageru"]
+[Result "36-28"]
+[Time "20:58:08"]
+[TimeControl "180"]
+[BlackElo "1916"]
+[WhiteElo "1613"]
+
+1. f5 f6 2. e6 d6 3. c5 f4 4. g5 c4 5. f3 g6 6. f7 h5 7. e7 e3 8. h6 h7 9. g3
+d8 10. e8 g4 11. h4 h3 12. c8 c7 13. c6 f8 14. g8 d7 15. b3 b5 16. b6 d3 17. a5
+a6 18. a7 a2 19. c3 b4 20. a3 c2 21. a1 a4 22. b7 a8 23. b8 h8 24. g7 -- 25. b1
+e2 26. b2 d2 27. f1 e1 28. d1 c1 29. f2 g2 30. h2 g1 31. h1 36-28
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.04"]
+[Round "-"]
+[Black "averageru"]
+[White "mordercapl"]
+[Result "22-42"]
+[Time "20:55:30"]
+[TimeControl "180"]
+[BlackElo "1618"]
+[WhiteElo "1911"]
+
+1. c4 e3 2. f5 c5 3. f4 c3 4. b4 a3 5. f2 g5 6. d6 f3 7. g4 d3 8. b5 f6 9. e2
+d2 10. e6 g6 11. c1 h3 12. a4 g3 13. f7 d1 14. f1 e1 15. c2 e8 16. h5 h6 17. h4
+a5 18. b3 c7 19. c6 a6 20. c8 e7 21. f8 d7 22. d8 a2 23. b6 a7 24. g2 h2 25. h1
+g1 26. h7 g7 27. h8 b2 28. a1 b1 29. a8 b7 30. -- b8 31. -- g8 22-42
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.04"]
+[Round "-"]
+[Black "mordercapl"]
+[White "prezespawelk"]
+[Result "64-0"]
+[Time "20:46:41"]
+[TimeControl "180"]
+[BlackElo "1911"]
+[WhiteElo "1157"]
+
+64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.04"]
+[Round "-"]
+[Black "batotinha"]
+[White "mordercapl"]
+[Result "12-52"]
+[Time "19:26:50"]
+[TimeControl "180"]
+[BlackElo "1558"]
+[WhiteElo "1907"]
+
+1. f5 d6 2. c5 f4 3. e3 c6 4. d3 f6 5. e6 d7 6. g4 c4 7. g5 c3 8. f7 d2 9. e7
+f2 10. c8 f3 11. c7 d8 12. e8 g3 13. e2 h4 14. h5 f1 15. h3 g6 16. c1 d1 17. b6
+h6 18. b5 b4 19. a3 h2 20. e1 b1 21. g2 b2 22. c2 b3 23. g7 g1 24. a1 h1 25. a2
+a5 26. a4 b7 27. a6 a8 28. a7 h8 29. h7 b8 30. -- g8 31. -- f8 12-52
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.04"]
+[Round "-"]
+[Black "mordercapl"]
+[White "batotinha"]
+[Result "60-3"]
+[Time "19:21:37"]
+[TimeControl "180"]
+[BlackElo "1903"]
+[WhiteElo "1562"]
+
+1. f5 f6 2. e6 f4 3. e3 c5 4. c4 d6 5. c6 b5 6. d7 e7 7. b6 d8 8. f7 c3 9. d3
+b4 10. c2 f8 11. a3 d2 12. a5 b3 13. a4 c1 14. e2 c7 15. e1 f1 16. d1 a6 17. a7
+b1 18. c8 b2 19. a1 b7 20. a2 b8 21. g1 -- 22. f2 f3 23. g3 g2 24. e8 g4 25. h1
+-- 26. h2 -- 27. h4 h3 28. a8 h5 29. g5 g6 30. h6 -- 31. g8 g7 32. h7 60-3
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.04"]
+[Round "-"]
+[Black "mordercapl"]
+[White "oriiorii"]
+[Result "64-0"]
+[Time "19:13:11"]
+[TimeControl "180"]
+[BlackElo "1899"]
+[WhiteElo "1575"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 f3 5. e6 e7 6. d7 g6 7. f8 f7 8. g5 h6 9. h4
+g4 10. h3 h5 11. h7 c5 12. b4 e8 13. d8 b5 14. e3 c8 15. b8 c6 16. f2 g3 17. a5
+d2 18. e2 f1 19. g8 b6 20. c1 a3 21. a4 d1 22. c2 a6 23. b3 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.04"]
+[Round "-"]
+[Black "mordercapl"]
+[White "misiek1fm"]
+[Result "30-34"]
+[Time "16:26:13"]
+[TimeControl "180"]
+[BlackElo "1926"]
+[WhiteElo "1625"]
+
+1. d3 c5 2. e6 d2 3. c3 e3 4. f3 f5 5. f6 c2 6. f4 c4 7. d1 g4 8. g3 g5 9. h6
+h5 10. h4 f2 11. b4 c1 12. b1 e7 13. g6 f7 14. b6 b5 15. a6 a4 16. a5 c6 17. a3
+e2 18. e8 b3 19. d8 g7 20. c7 d6 21. h8 d7 22. c8 h3 23. e1 f1 24. g1 g2 25. b2
+h7 26. h2 h1 27. -- a1 28. -- a2 29. -- a7 30. b7 a8 31. b8 g8 32. f8 30-34
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.04"]
+[Round "-"]
+[Black "mordercapl"]
+[White "cruel2bkind"]
+[Result "47-17"]
+[Time "15:26:18"]
+[TimeControl "120"]
+[BlackElo "1914"]
+[WhiteElo "1830"]
+
+1. d3 c5 2. f6 f5 3. e6 e3 4. d6 f7 5. g6 f4 6. g5 c6 7. e7 f8 8. e2 f3 9. c4
+b3 10. d7 c7 11. b4 g4 12. b5 h4 13. c8 a5 14. a6 a7 15. b6 f2 16. d8 e1 17. h5
+c2 18. h3 h6 19. g3 h2 20. c3 a4 21. e8 d2 22. b7 a8 23. b8 g2 24. a3 a2 25. h1
+g1 26. b2 a1 27. g7 h7 28. h8 -- 29. f1 d1 30. g8 -- 31. c1 -- 32. b1 47-17
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.03"]
+[Round "-"]
+[Black "mordercapl"]
+[White "majunior"]
+[Result "64-0"]
+[Time "17:25:03"]
+[TimeControl "180"]
+[BlackElo "1903"]
+[WhiteElo "1781"]
+
+1. d3 c5 2. e6 f5 3. c4 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.03"]
+[Round "-"]
+[Black "mordercapl"]
+[White "3minmonk"]
+[Result "42-22"]
+[Time "17:11:12"]
+[TimeControl "180"]
+[BlackElo "1896"]
+[WhiteElo "1675"]
+
+1. d3 c5 2. e6 f5 3. f6 e3 4. d6 f7 5. g6 c4 6. c6 e7 7. d7 g5 8. f4 c8 9. h6
+b5 10. b4 c3 11. e8 g4 12. d8 h5 13. a5 c7 14. b8 a6 15. a4 a3 16. h4 g8 17. h3
+h7 18. b7 g7 19. f3 g3 20. f2 f1 21. d2 b6 22. e2 e1 23. c1 c2 24. h8 f8 25. b1
+g2 26. h1 h2 27. g1 a8 28. a7 b2 29. a1 b3 30. a2 -- 31. d1 42-22
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.03"]
+[Round "-"]
+[Black "3minmonk"]
+[White "mordercapl"]
+[Result "18-46"]
+[Time "17:06:03"]
+[TimeControl "180"]
+[BlackElo "1682"]
+[WhiteElo "1889"]
+
+1. e6 f6 2. f5 d6 3. c5 f4 4. d7 c4 5. c3 c8 6. d3 c7 7. e7 d8 8. f7 c6 9. f8
+e8 10. b8 b5 11. b4 a3 12. a5 e3 13. a6 d2 14. d1 a4 15. a2 b7 16. e2 f3 17. g6
+f2 18. g5 b3 19. g4 f1 20. b2 e1 21. c1 a1 22. g1 h4 23. h3 g3 24. h5 a7 25. h2
+c2 26. b1 h1 27. a8 g2 28. b6 h6 29. h7 h8 30. g7 g8 18-46
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.03"]
+[Round "-"]
+[Black "mordercapl"]
+[White "3minmonk"]
+[Result "41-23"]
+[Time "17:01:16"]
+[TimeControl "180"]
+[BlackElo "1881"]
+[WhiteElo "1690"]
+
+1. d3 c5 2. e6 f5 3. f6 e3 4. d6 f7 5. g6 c4 6. c6 e7 7. d7 g5 8. f4 c8 9. h6
+b5 10. b4 c3 11. e8 g4 12. d8 h5 13. a5 c7 14. b8 a6 15. a4 b6 16. b3 a3 17. f3
+e2 18. g3 h7 19. f2 h4 20. h3 h2 21. d1 e1 22. c2 d2 23. b2 f8 24. g8 a1 25. a2
+b1 26. c1 g2 27. f1 g1 28. h1 g7 29. h8 -- 30. b7 a7 31. a8 41-23
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.03"]
+[Round "-"]
+[Black "3minmonk"]
+[White "mordercapl"]
+[Result "15-49"]
+[Time "16:57:52"]
+[TimeControl "180"]
+[BlackElo "1699"]
+[WhiteElo "1872"]
+
+1. f5 f6 2. e6 d6 3. c5 f4 4. d3 b5 5. g4 f3 6. g6 c4 7. c6 e7 8. c3 g5 9. d7
+b6 10. c7 e3 11. f7 b4 12. b3 c8 13. e2 h6 14. g3 h3 15. a5 f2 16. h4 h5 17. d2
+e1 18. a6 f8 19. g1 h2 20. g8 c1 21. g2 c2 22. d1 h8 23. h7 h1 24. f1 g7 25. b2
+a1 26. b1 a4 27. b7 a8 28. b8 a7 29. a3 a2 30. d8 e8 15-49
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.03"]
+[Round "-"]
+[Black "mordercapl"]
+[White "3minmonk"]
+[Result "49-15"]
+[Time "16:53:37"]
+[TimeControl "180"]
+[BlackElo "1863"]
+[WhiteElo "1708"]
+
+1. d3 c5 2. e6 f5 3. f6 e3 4. d6 f7 5. g6 c4 6. c6 e7 7. d7 g5 8. f4 c8 9. h6
+b5 10. b4 c3 11. e8 g4 12. d8 h5 13. a5 b6 14. b8 c7 15. b3 a6 16. a4 g8 17. a7
+g7 18. c2 c1 19. g3 f3 20. f2 h7 21. h3 e2 22. d1 e1 23. b7 f1 24. g2 b1 25. h4
+h2 26. h1 g1 27. a1 a8 28. f8 a3 29. d2 b2 30. a2 -- 31. h8 49-15
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.03"]
+[Round "-"]
+[Black "mordercapl"]
+[White "majunior"]
+[Result "47-17"]
+[Time "16:46:48"]
+[TimeControl "180"]
+[BlackElo "1850"]
+[WhiteElo "1794"]
+
+1. d3 c5 2. e6 f5 3. f6 e3 4. d6 f7 5. g6 c4 6. c6 e7 7. d7 c3 8. d8 e8 9. f4
+c8 10. b5 b4 11. c7 a6 12. a5 a4 13. a3 a2 14. b3 b6 15. b7 c2 16. f8 g5 17. b8
+f3 18. h4 g7 19. g3 h7 20. h8 g8 21. h6 g4 22. h5 h3 23. f2 e2 24. e1 d1 25. h2
+f1 26. g2 h1 27. g1 a8 28. d2 b2 29. a1 b1 30. a7 -- 31. c1 47-17
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.03"]
+[Round "-"]
+[Black "mordercapl"]
+[White "3minmonk"]
+[Result "40-24"]
+[Time "16:42:59"]
+[TimeControl "180"]
+[BlackElo "1839"]
+[WhiteElo "1719"]
+
+1. d3 c5 2. e6 f5 3. f6 e3 4. d6 f7 5. g6 c4 6. c6 e7 7. d7 g5 8. f4 c8 9. h6
+b5 10. b4 c3 11. e8 g4 12. d8 h5 13. a5 c7 14. b8 b6 15. b3 a6 16. a4 a3 17. h4
+g8 18. b7 h7 19. h3 g3 20. f8 a7 21. h8 a8 22. h2 g7 23. f3 f2 24. f1 g2 25. g1
+h1 26. c2 e1 27. d2 e2 28. d1 c1 29. b2 a2 30. b1 a1 40-24
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.03"]
+[Round "-"]
+[Black "mordercapl"]
+[White "majunior"]
+[Result "32-32"]
+[Time "16:37:05"]
+[TimeControl "180"]
+[BlackElo "1841"]
+[WhiteElo "1792"]
+
+1. d3 c5 2. e6 f5 3. f6 e3 4. d6 f7 5. g6 c4 6. c6 e7 7. d7 g5 8. f4 c8 9. h6
+b5 10. b4 c3 11. e8 g4 12. d8 h5 13. b8 c7 14. b3 a5 15. a4 a6 16. b6 a3 17. h4
+g8 18. h3 h7 19. g3 f3 20. h8 f8 21. g7 a8 22. g2 a7 23. b7 h1 24. g1 f1 25. f2
+h2 26. e2 e1 27. c2 d2 28. c1 d1 29. b2 b1 30. a2 a1 32-32
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.03"]
+[Round "-"]
+[Black "mordercapl"]
+[White "3minmonk"]
+[Result "26-38"]
+[Time "16:34:07"]
+[TimeControl "180"]
+[BlackElo "1864"]
+[WhiteElo "1696"]
+
+1. d3 c5 2. e6 f5 3. f6 e3 4. d6 f7 5. g6 c4 6. c6 e7 7. d7 g5 8. f4 c8 9. h6
+b5 10. b4 c3 11. e8 g4 12. d8 h5 13. b3 c7 14. a6 a5 15. b8 a7 16. a4 a3 17. b6
+g8 18. h4 h7 19. h3 g3 20. f3 g7 21. f2 e2 22. e1 d2 23. c1 d1 24. c2 b2 25. a2
+a1 26. b1 f1 27. g2 h2 28. f8 a8 29. h8 b7 30. h1 -- 31. g1 26-38
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.03"]
+[Round "-"]
+[Black "mordercapl"]
+[White "majunior"]
+[Result "39-25"]
+[Time "16:28:28"]
+[TimeControl "180"]
+[BlackElo "1850"]
+[WhiteElo "1806"]
+
+1. d3 c5 2. e6 f5 3. f6 e3 4. d6 f7 5. g6 c4 6. c6 e7 7. d7 c3 8. d8 g5 9. f4
+e8 10. b5 c8 11. h6 g4 12. b4 b3 13. f8 g8 14. c7 h5 15. f3 e2 16. h4 h3 17. h2
+g7 18. g3 b8 19. f2 f1 20. d1 e1 21. c2 a5 22. a6 a3 23. a4 a7 24. d2 a2 25. b6
+g2 26. h8 h7 27. a8 b7 28. a1 b2 29. b1 c1 30. g1 h1 39-25
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.03"]
+[Round "-"]
+[Black "3minmonk"]
+[White "mordercapl"]
+[Result "0-64"]
+[Time "16:25:46"]
+[TimeControl "180"]
+[BlackElo "1706"]
+[WhiteElo "1840"]
+
+1. f5 f6 2. e6 d6 3. c5 f4 4. d3 b5 5. g4 f3 6. g6 c4 7. c6 e7 8. c3 g5 9. d7
+b6 10. f8 e3 11. b4 c8 12. a5 d8 13. f7 h5 14. a6 c7 15. h3 h6 16. e2 f2 17. e8
+h4 18. h7 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.03"]
+[Round "-"]
+[Black "mordercapl"]
+[White "3minmonk"]
+[Result "28-36"]
+[Time "16:21:30"]
+[TimeControl "180"]
+[BlackElo "1864"]
+[WhiteElo "1682"]
+
+1. d3 c5 2. e6 f5 3. f6 e3 4. d6 f7 5. g6 c4 6. c6 e7 7. d7 g5 8. f4 c8 9. h6
+b5 10. b4 c3 11. e8 g4 12. d8 h5 13. b3 c7 14. a6 a5 15. b8 a7 16. a4 a3 17. b6
+g8 18. h4 h7 19. h3 g3 20. f3 g7 21. f2 e2 22. e1 d2 23. c1 d1 24. c2 b2 25. a2
+a1 26. b1 h2 27. g2 f1 28. f8 a8 29. h8 b7 30. h1 -- 31. g1 28-36
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.03"]
+[Round "-"]
+[Black "3minmonk"]
+[White "mordercapl"]
+[Result "24-40"]
+[Time "16:17:35"]
+[TimeControl "180"]
+[BlackElo "1691"]
+[WhiteElo "1855"]
+
+1. f5 f6 2. e6 d6 3. c5 f4 4. e3 c6 5. d7 b5 6. e7 c8 7. g4 d8 8. g5 c3 9. c4
+c7 10. f7 g6 11. e8 f8 12. h7 b3 13. g7 h8 14. b4 h6 15. a5 d3 16. g8 a6 17. b6
+a4 18. f3 a7 19. b7 e2 20. d2 c2 21. e1 h5 22. d1 f1 23. f2 h4 24. g1 c1 25. b1
+g3 26. a2 a3 27. a8 b8 28. h3 h2 29. g2 h1 30. b2 a1 24-40
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.03"]
+[Round "-"]
+[Black "mordercapl"]
+[White "3minmonk"]
+[Result "64-0"]
+[Time "16:14:51"]
+[TimeControl "180"]
+[BlackElo "1845"]
+[WhiteElo "1701"]
+
+1. d3 c5 2. e6 f5 3. f6 e3 4. d6 f7 5. g6 c4 6. c6 e7 7. d7 g5 8. f4 c8 9. h6
+e2 10. d8 e8 11. g4 h3 12. h4 b5 13. f2 f3 14. g3 f1 15. f8 g8 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.03"]
+[Round "-"]
+[Black "mordercapl"]
+[White "gir1"]
+[Result "64-0"]
+[Time "15:52:11"]
+[TimeControl "180"]
+[BlackElo "1835"]
+[WhiteElo "1704"]
+
+1. d3 c3 2. c4 c5 3. b4 d2 4. d6 e3 5. e6 b5 6. b3 c6 7. a6 a4 8. f4 f5 9. f3
+e2 10. g4 d7 11. f6 g3 12. f2 f7 13. e7 f8 14. h4 g6 15. g5 g1 16. c2 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.03"]
+[Round "-"]
+[Black "runba00"]
+[White "mordercapl"]
+[Result "0-64"]
+[Time "14:16:02"]
+[TimeControl "180"]
+[BlackElo "1928"]
+[WhiteElo "1814"]
+
+1. f5 f6 2. e6 d6 3. c5 f4 4. d7 c4 5. c3 c8 6. d3 c7 7. e7 d8 8. f7 c6 9. f8
+e8 10. b8 b5 11. b4 a3 12. e3 b3 13. a6 f2 14. e2 b6 15. a7 f1 16. d2 c1 17. d1
+e1 18. c2 f3 19. g5 b1 20. g4 g3 21. h2 h4 22. a4 h5 23. g2 b2 24. a1 a2 25. a5
+a8 26. g1 g8 27. h6 b7 28. g6 h7 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.03"]
+[Round "-"]
+[Black "hirosa"]
+[White "mordercapl"]
+[Result "12-52"]
+[Time "14:04:57"]
+[TimeControl "600"]
+[BlackElo "1657"]
+[WhiteElo "1804"]
+
+1. f5 f6 2. e6 d6 3. c4 f4 4. e7 f7 5. g3 e3 6. c7 c3 7. d3 f3 8. g4 g5 9. d7
+c6 10. b5 c5 11. f2 c2 12. h6 g6 13. f8 h4 14. h3 h5 15. d2 b6 16. b3 b4 17. a3
+g7 18. a4 a6 19. d1 c1 20. b1 a5 21. a7 g2 22. h1 h2 23. g8 e1 24. g1 a1 25. b2
+a2 26. -- a8 27. -- e2 28. f1 e8 29. b7 d8 30. c8 b8 31. -- h8 32. -- h7 12-52
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.03"]
+[Round "-"]
+[Black "mordercapl"]
+[White "hirosa"]
+[Result "47-17"]
+[Time "13:55:19"]
+[TimeControl "600"]
+[BlackElo "1794"]
+[WhiteElo "1667"]
+
+1. d3 c5 2. e6 f5 3. f6 e3 4. d6 e7 5. c6 c4 6. f4 d7 7. c7 f7 8. c8 d8 9. f8
+g3 10. b5 c3 11. e8 b4 12. d2 a6 13. b6 g5 14. c2 e2 15. a3 a4 16. a5 a2 17. b3
+c1 18. g6 a7 19. h5 d1 20. g4 h4 21. h3 b7 22. f1 f2 23. h2 h7 24. f3 g8 25. a8
+b2 26. a1 g1 27. b1 e1 28. g2 h6 29. h1 b8 30. h8 g7 47-17
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.03"]
+[Round "-"]
+[Black "hirosa"]
+[White "mordercapl"]
+[Result "24-40"]
+[Time "13:46:37"]
+[TimeControl "600"]
+[BlackElo "1678"]
+[WhiteElo "1783"]
+
+1. f5 f6 2. e6 d6 3. c5 f4 4. d7 c4 5. c3 c8 6. d3 c7 7. e7 d8 8. f8 f7 9. g3
+g4 10. e3 c6 11. g6 f3 12. h3 e2 13. e8 g5 14. h4 b6 15. b4 g8 16. a6 d2 17. c2
+b3 18. a4 c1 19. f2 f1 20. b2 a1 21. b1 a3 22. e1 d1 23. a2 a5 24. b5 b7 25. b8
+g2 26. h8 h2 27. h1 g1 28. g7 h5 29. h6 a7 30. -- a8 31. -- h7 24-40
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.03"]
+[Round "-"]
+[Black "mordercapl"]
+[White "hirosa"]
+[Result "48-16"]
+[Time "13:38:44"]
+[TimeControl "600"]
+[BlackElo "1771"]
+[WhiteElo "1690"]
+
+1. d3 c5 2. e6 f5 3. f6 e3 4. d6 f7 5. g6 c4 6. c6 e7 7. d7 g5 8. f4 c8 9. h6
+e2 10. d8 e8 11. g4 h5 12. h4 c3 13. b5 c7 14. b6 a4 15. h7 a5 16. b7 f3 17. f8
+a8 18. g3 h2 19. g7 h8 20. g8 h3 21. f2 e1 22. d2 c1 23. g2 h1 24. c2 b1 25. b4
+b3 26. d1 f1 27. a1 -- 28. a2 a3 29. a6 a7 30. b2 -- 31. b8 -- 32. g1 48-16
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.03"]
+[Round "-"]
+[Black "hirosa"]
+[White "mordercapl"]
+[Result "25-39"]
+[Time "13:31:00"]
+[TimeControl "600"]
+[BlackElo "1704"]
+[WhiteElo "1757"]
+
+1. f5 f6 2. e6 d6 3. c5 f4 4. d7 c4 5. c3 c8 6. d3 c7 7. e7 d8 8. f7 c6 9. f8
+e8 10. b8 b5 11. b4 a3 12. a5 e3 13. a6 d2 14. d1 a4 15. a2 b7 16. b3 c1 17. b1
+e2 18. g4 f3 19. g6 c2 20. e1 h3 21. g5 g3 22. h4 f1 23. g1 f2 24. h2 h6 25. a8
+h5 26. h7 b6 27. a7 b2 28. g2 h1 29. -- a1 30. -- h8 31. -- g8 32. g7 25-39
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.03"]
+[Round "-"]
+[Black "mordercapl"]
+[White "conpo1"]
+[Result "35-29"]
+[Time "13:14:38"]
+[TimeControl "180"]
+[BlackElo "1738"]
+[WhiteElo "1806"]
+
+1. d3 c5 2. e6 f5 3. c4 e3 4. f4 f3 5. c6 c3 6. d2 c2 7. b4 c1 8. e1 d1 9. b1
+b3 10. f6 d6 11. e7 b6 12. a6 b5 13. g4 h4 14. a4 g6 15. a5 f7 16. f2 f1 17. g1
+e2 18. g5 c7 19. h3 h2 20. d8 h5 21. g3 d7 22. b7 c8 23. e8 f8 24. h7 g2 25. h1
+h6 26. g8 h8 27. g7 b2 28. a3 a1 29. a2 a7 30. b8 a8 35-29
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.03"]
+[Round "-"]
+[Black "dejeroen"]
+[White "mordercapl"]
+[Result "12-52"]
+[Time "12:55:56"]
+[TimeControl "180"]
+[BlackElo "1674"]
+[WhiteElo "1724"]
+
+1. f5 f6 2. e6 d6 3. e7 f4 4. g5 g6 5. c5 c4 6. f7 f8 7. d3 b5 8. e3 c6 9. d7
+c3 10. g4 h5 11. h4 c8 12. b4 c7 13. d8 e8 14. c2 d2 15. e1 f2 16. f3 h3 17. g3
+e2 18. h7 b6 19. a5 a3 20. f1 a4 21. a7 a6 22. b7 b3 23. a2 h2 24. g2 d1 25. c1
+h1 26. g1 b1 27. b2 a1 28. g7 h8 29. g8 h6 30. b8 a8 12-52
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.03"]
+[Round "-"]
+[Black "mordercapl"]
+[White "theera"]
+[Result "59-5"]
+[Time "11:50:44"]
+[TimeControl "300"]
+[BlackElo "1714"]
+[WhiteElo "1577"]
+
+1. d3 c5 2. e6 d2 3. c6 d6 4. c7 f3 5. c4 f6 6. f5 f4 7. c3 e7 8. f8 d8 9. f7
+d7 10. g6 g5 11. c8 h6 12. e8 b7 13. b6 a6 14. b5 a5 15. b4 a4 16. b3 c2 17. a8
+b2 18. e3 f2 19. a1 b1 20. c1 d1 21. e2 b8 22. e1 f1 23. a7 g8 24. a2 -- 25. a3
+-- 26. h5 h4 27. h8 g4 28. h3 h2 29. g3 g2 30. g7 -- 31. h7 -- 32. g1 -- 33. h1
+59-5
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.03"]
+[Round "-"]
+[Black "mordercapl"]
+[White "marchercher"]
+[Result "0-64"]
+[Time "11:42:13"]
+[TimeControl "60"]
+[BlackElo "1737"]
+[WhiteElo "1586"]
+
+0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.03"]
+[Round "-"]
+[Black "marchercher"]
+[White "mordercapl"]
+[Result "0-64"]
+[Time "11:40:09"]
+[TimeControl "300"]
+[BlackElo "1596"]
+[WhiteElo "1727"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 f3 5. e6 e7 6. c6 g6 7. f8 c5 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.03"]
+[Round "-"]
+[Black "mehul"]
+[White "mordercapl"]
+[Result "34-30"]
+[Time "11:25:30"]
+[TimeControl "180"]
+[BlackElo "1671"]
+[WhiteElo "1746"]
+
+1. e6 f4 2. c3 c4 3. d3 d6 4. e3 c2 5. b3 f5 6. f3 d2 7. e2 b4 8. c5 f1 9. a3
+f2 10. c6 f6 11. g6 b5 12. g5 g3 13. a4 a6 14. g4 a5 15. a7 h4 16. b6 h7 17. h6
+h5 18. h2 e7 19. g2 f7 20. e8 d7 21. f8 d8 22. c8 g7 23. h8 g8 24. h3 b7 25. c7
+a8 26. b8 a2 27. g1 h1 28. c1 e1 29. d1 b1 30. b2 a1 34-30
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.03"]
+[Round "-"]
+[Black "revyah"]
+[White "mordercapl"]
+[Result "0-64"]
+[Time "11:23:25"]
+[TimeControl "120"]
+[BlackElo "1558"]
+[WhiteElo "1738"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 f3 5. e6 e7 6. d7 g6 7. g5 f7 8. d2 c8 9. e3
+e2 10. g3 c7 11. e8 d8 12. g4 f8 13. h6 h3 14. h4 f2 15. c6 c1 16. e1 b5 17. b6
+a5 18. g2 c2 19. a6 a7 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.03"]
+[Round "-"]
+[Black "mordercapl"]
+[White "revyah"]
+[Result "64-0"]
+[Time "11:21:02"]
+[TimeControl "120"]
+[BlackElo "1729"]
+[WhiteElo "1567"]
+
+1. d3 c5 2. e6 f5 3. f6 e3 4. c3 d2 5. c4 d6 6. f3 f4 7. e2 b3 8. b4 a3 9. c1
+d1 10. e1 c2 11. g3 g4 12. h5 h4 13. h3 g5 14. c7 d7 15. h6 g6 16. c8 e7 17. d8
+f8 18. b1 g2 19. e8 f1 20. g1 b8 21. h2 f2 22. h1 f7 23. b2 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.03"]
+[Round "-"]
+[Black "revyah"]
+[White "mordercapl"]
+[Result "64-0"]
+[Time "11:17:19"]
+[TimeControl "120"]
+[BlackElo "1542"]
+[WhiteElo "1754"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. c5 b3 5. e2 e3 6. d2 b4 7. b5 c2 8. c1 f1 9. e7
+a6 10. a4 d1 11. a3 a5 12. a7 b6 13. c7 c6 14. e6 d7 15. c8 g6 16. g3 g5 17. h5
+g4 18. h3 h4 19. f3 h6 20. h7 f7 21. f6 d8 22. e8 f2 23. e1 b1 24. -- g1 25. g2
+g8 26. f8 b8 27. b7 a8 28. -- h1 29. h2 h8 30. -- g7 31. -- b2 32. a2 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.03"]
+[Round "-"]
+[Black "blacktigers"]
+[White "mordercapl"]
+[Result "24-40"]
+[Time "11:06:18"]
+[TimeControl "180"]
+[BlackElo "1966"]
+[WhiteElo "1728"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 f3 5. e6 e7 6. f7 c5 7. b6 g6 8. f8 d7 9. e3
+e8 10. c6 c7 11. d8 e2 12. h6 c2 13. g5 b4 14. a5 a4 15. a3 b3 16. g4 b5 17. d2
+h4 18. a6 f2 19. c1 d1 20. h3 h2 21. g1 b8 22. c8 g8 23. g3 f1 24. e1 b2 25. g2
+b7 26. a8 a7 27. h8 h1 28. b1 h5 29. g7 a1 30. -- a2 31. -- h7 24-40
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.03"]
+[Round "-"]
+[Black "mordercapl"]
+[White "monton"]
+[Result "60-3"]
+[Time "01:55:25"]
+[TimeControl "180"]
+[BlackElo "1717"]
+[WhiteElo "1603"]
+
+1. d3 c3 2. c4 c5 3. b4 e3 4. d2 b5 5. c6 a4 6. d6 e6 7. a6 c1 8. b3 c7 9. e7
+e8 10. c8 a5 11. a3 e2 12. b6 d7 13. c2 b1 14. f8 g8 15. f7 g6 16. f5 g4 17. f6
+b7 18. h6 f4 19. g5 h5 20. a8 a7 21. b8 h7 22. d8 g7 23. h8 a2 24. f1 e1 25. a1
+g1 26. b2 -- 27. d1 -- 28. h1 -- 29. f2 -- 30. f3 -- 31. h3 g3 32. g2 -- 33. h4
+60-3
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.02"]
+[Round "-"]
+[Black "mordercapl"]
+[White "thespook"]
+[Result "51-13"]
+[Time "23:22:52"]
+[TimeControl "300"]
+[BlackElo "1706"]
+[WhiteElo "1605"]
+
+1. d3 c5 2. e6 f5 3. f6 e3 4. c3 d2 5. c4 d6 6. f3 b3 7. b4 f4 8. e2 a3 9. g5
+e7 10. g6 c2 11. c1 g4 12. g3 f7 13. f8 h5 14. h4 h6 15. h7 f1 16. d1 e1 17. g1
+f2 18. b1 h2 19. e8 g7 20. c7 c6 21. d7 b8 22. h8 g8 23. a5 b5 24. a6 b6 25. c8
+b7 26. d8 b2 27. a1 a7 28. a8 a2 29. a4 -- 30. g2 h3 31. h1 51-13
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.02"]
+[Round "-"]
+[Black "mordercapl"]
+[White "andykoala"]
+[Result "29-35"]
+[Time "23:15:21"]
+[TimeControl "300"]
+[BlackElo "1732"]
+[WhiteElo "1481"]
+
+1. d3 c5 2. e6 f5 3. f6 e3 4. c3 d2 5. c4 b5 6. f4 d6 7. f3 e2 8. c2 f2 9. c1
+d1 10. f1 b1 11. b4 e7 12. a6 a3 13. f7 c6 14. b3 g5 15. e8 d7 16. b6 g3 17. d8
+c7 18. c8 g8 19. g6 b2 20. e1 g2 21. a1 b7 22. h5 h6 23. b8 a8 24. a7 g4 25. g1
+h4 26. h1 f8 27. h2 a4 28. a5 a2 29. h7 h3 30. g7 h8 29-35
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.02"]
+[Round "-"]
+[Black "mordercapl"]
+[White "matkaz1"]
+[Result "64-0"]
+[Time "23:09:27"]
+[TimeControl "300"]
+[BlackElo "1731"]
+[WhiteElo "1200"]
+
+1. d3 c3 2. c4 e3 3. d2 c5 4. b4 d1 5. f4 f3 6. e2 a4 7. f5 e1 8. f2 g1 9. f1
+g2 10. h1 f6 11. c1 c2 12. g4 h4 13. g5 g3 14. h2 g6 15. e6 d6 16. b6 b5 17. b1
+b7 18. h3 -- 19. b3 b2 20. c6 d7 21. a1 -- 22. a2 -- 23. a3 -- 24. a8 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.02"]
+[Round "-"]
+[Black "mordercapl"]
+[White "vwbeetle"]
+[Result "64-0"]
+[Time "23:01:26"]
+[TimeControl "300"]
+[BlackElo "1729"]
+[WhiteElo "1232"]
+
+1. d3 c5 2. e6 f5 3. f6 e3 4. c3 d2 5. c4 d6 6. f3 f4 7. e2 d7 8. g4 g5 9. g3
+h4 10. e7 e1 11. h3 h5 12. h6 b5 13. g6 f8 14. b4 a3 15. c7 f7 16. c6 b6 17. c8
+e8 18. d8 b8 19. c2 c1 20. f2 f1 21. a5 a6 22. a7 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.02"]
+[Round "-"]
+[Black "mordercapl"]
+[White "powerofking"]
+[Result "63-1"]
+[Time "22:47:35"]
+[TimeControl "300"]
+[BlackElo "1723"]
+[WhiteElo "1480"]
+
+1. d3 c3 2. c4 c5 3. b4 b3 4. d2 a3 5. b5 c2 6. a4 a5 7. b6 c6 8. a6 a7 9. d6
+f4 10. f3 f5 11. e2 f1 12. d1 c7 13. g5 h5 14. b2 b1 15. f6 g4 16. a1 e1 17. c1
+f2 18. d7 d8 19. c8 e6 20. a2 b7 21. e8 e7 22. a8 -- 23. b8 -- 24. f7 f8 25. g7
+h6 26. g1 g6 27. g8 -- 28. h8 -- 29. h3 g3 30. h7 -- 31. e3 g2 32. h1 -- 33. h2
+-- 34. h4 63-1
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.02"]
+[Round "-"]
+[Black "jockzz"]
+[White "mordercapl"]
+[Result "8-56"]
+[Time "22:38:55"]
+[TimeControl "300"]
+[BlackElo "1564"]
+[WhiteElo "1713"]
+
+1. f5 d6 2. c4 d3 3. c3 f4 4. e3 f3 5. g4 f6 6. g3 h4 7. c6 e2 8. f2 f1 9. g2
+c5 10. d7 c2 11. b5 e6 12. b4 b3 13. c1 c7 14. e7 d1 15. h5 h6 16. a3 b6 17. g5
+g6 18. f7 a5 19. a4 d2 20. a6 e8 21. f8 c8 22. d8 g8 23. g1 e1 24. h3 h1 25. h7
+b1 26. b2 a1 27. g7 a2 28. -- h2 29. -- b7 30. a7 h8 31. -- b8 32. -- a8 8-56
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.02"]
+[Round "-"]
+[Black "mordercapl"]
+[White "jockzz"]
+[Result "45-19"]
+[Time "22:31:12"]
+[TimeControl "300"]
+[BlackElo "1703"]
+[WhiteElo "1574"]
+
+1. d3 c5 2. e6 e3 3. d6 c3 4. d2 e1 5. b6 e7 6. f5 c4 7. c6 f4 8. b5 b3 9. c2
+g6 10. f6 d7 11. a3 b4 12. f7 c7 13. a4 a6 14. f8 a5 15. a7 e2 16. g5 b1 17. g3
+h6 18. e8 d8 19. c8 b7 20. d1 c1 21. h4 h2 22. f3 f2 23. h3 h5 24. a8 b8 25. g4
+g7 26. h7 g2 27. h1 b2 28. g1 f1 29. a2 a1 30. -- h8 31. g8 45-19
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.02"]
+[Round "-"]
+[Black "mordercapl"]
+[White "loshara1"]
+[Result "58-6"]
+[Time "20:35:45"]
+[TimeControl "300"]
+[BlackElo "1696"]
+[WhiteElo "1478"]
+
+1. d3 c3 2. c4 c5 3. b4 f3 4. c6 b5 5. d6 b3 6. f6 e2 7. e3 f4 8. d2 c2 9. a5
+b6 10. a6 e6 11. a4 d7 12. a3 c7 13. f5 g4 14. e7 g6 15. f7 d8 16. f8 e8 17. c8
+b8 18. a8 b7 19. g3 g5 20. f2 h3 21. a7 f1 22. h6 h5 23. b2 h7 24. g7 a2 25. b1
+g8 26. a1 -- 27. c1 -- 28. d1 -- 29. g2 g1 30. h4 e1 31. h8 -- 32. h2 -- 33. h1
+58-6
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.02"]
+[Round "-"]
+[Black "mordercapl"]
+[White "okes"]
+[Result "57-7"]
+[Time "20:29:56"]
+[TimeControl "300"]
+[BlackElo "1694"]
+[WhiteElo "1224"]
+
+1. d3 c5 2. e6 f5 3. f6 f3 4. e3 f7 5. g3 c3 6. c4 d2 7. e2 c2 8. f4 g5 9. g4
+e1 10. f2 h3 11. d1 c1 12. f1 g1 13. b3 a3 14. h5 b5 15. b4 a5 16. a4 g2 17. e7
+e8 18. h6 h4 19. h2 -- 20. c6 c7 21. b6 d6 22. d7 b7 23. a6 d8 24. h1 g6 25. b1
+a7 26. a8 b8 27. c8 -- 28. b2 a2 29. a1 -- 30. h7 g7 31. h8 g8 32. f8 57-7
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.02"]
+[Round "-"]
+[Black "bossa0nova"]
+[White "mordercapl"]
+[Result "0-64"]
+[Time "20:18:49"]
+[TimeControl "120"]
+[BlackElo "1675"]
+[WhiteElo "1678"]
+
+1. f5 d6 2. c5 f4 3. e3 c6 4. d3 f6 5. e6 d7 6. g4 c4 7. g5 c3 8. b4 b3 9. b6
+d2 10. c1 a4 11. c2 b5 12. a3 a6 13. a5 a2 14. d8 e1 15. e2 c8 16. b8 e7 17. c7
+f1 18. f2 g3 19. h2 f3 20. g2 g1 21. e8 f7 22. f8 h1 23. a7 a8 24. b2 d1 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.02"]
+[Round "-"]
+[Black "mordercapl"]
+[White "parabart"]
+[Result "46-18"]
+[Time "20:01:58"]
+[TimeControl "180"]
+[BlackElo "1666"]
+[WhiteElo "1582"]
+
+1. d3 c5 2. e6 f5 3. f6 e3 4. c3 d2 5. c4 d6 6. f3 b3 7. b4 a3 8. f4 c2 9. d1
+f2 10. e2 f1 11. e1 c1 12. c7 e7 13. b5 c6 14. a4 a6 15. a5 b6 16. f7 c8 17. e8
+g3 18. d8 g5 19. g6 h6 20. b8 f8 21. g8 b7 22. a8 d7 23. a7 g4 24. h5 h4 25. g7
+h8 26. h7 -- 27. a2 b2 28. a1 b1 29. g1 g2 30. h1 h2 31. h3 46-18
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.02"]
+[Round "-"]
+[Black "parabart"]
+[White "mordercapl"]
+[Result "16-48"]
+[Time "19:57:14"]
+[TimeControl "180"]
+[BlackElo "1595"]
+[WhiteElo "1653"]
+
+1. e6 f4 2. c3 c4 3. d3 d6 4. f6 c6 5. f5 g5 6. f3 f7 7. h4 e3 8. d2 e2 9. c5
+g6 10. d7 h5 11. e7 h3 12. h6 h7 13. g4 f2 14. e1 c1 15. c7 e8 16. c2 g3 17. g8
+d8 18. g7 b4 19. b5 a5 20. a4 a3 21. b3 c8 22. f1 g2 23. b6 a6 24. a7 a8 25. h2
+h1 26. g1 a2 27. b8 b7 28. b2 a1 29. b1 d1 30. f8 h8 16-48
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.02"]
+[Round "-"]
+[Black "yaranaio"]
+[White "mordercapl"]
+[Result "0-64"]
+[Time "19:43:11"]
+[TimeControl "120"]
+[BlackElo "1883"]
+[WhiteElo "1627"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. c5 b3 5. c2 e6 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.02"]
+[Round "-"]
+[Black "mordercapl"]
+[White "termi2010"]
+[Result "0-64"]
+[Time "19:41:29"]
+[TimeControl "180"]
+[BlackElo "1647"]
+[WhiteElo "1560"]
+
+1. d3 c3 2. c4 c5 3. b4 e3 4. d2 b5 5. b6 a3 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.02"]
+[Round "-"]
+[Black "mordercapl"]
+[White "mk1141"]
+[Result "32-32"]
+[Time "19:33:13"]
+[TimeControl "420"]
+[BlackElo "1653"]
+[WhiteElo "1528"]
+
+1. d3 c5 2. e6 d2 3. c6 d6 4. c7 f6 5. f4 d7 6. c3 e3 7. c4 b3 8. c8 f5 9. g6
+f3 10. e7 b4 11. g5 h6 12. h4 d8 13. e8 b5 14. a5 f7 15. g4 f8 16. g8 a6 17. a7
+b6 18. g3 h2 19. c2 e2 20. g7 c1 21. a2 h5 22. h3 g2 23. f2 h8 24. h7 f1 25. h1
+g1 26. e1 a4 27. a3 d1 28. b2 b8 29. b1 a1 30. b7 a8 32-32
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.02"]
+[Round "-"]
+[Black "mordercapl"]
+[White "staticx13"]
+[Result "58-5"]
+[Time "19:27:09"]
+[TimeControl "420"]
+[BlackElo "1649"]
+[WhiteElo "1316"]
+
+1. d3 c5 2. e6 d2 3. c6 d6 4. c7 f4 5. b5 d7 6. c4 b6 7. a6 f5 8. b4 a5 9. a4
+e7 10. f8 e8 11. d8 b8 12. f6 c3 13. b3 a3 14. g5 h5 15. e3 a7 16. g6 f3 17. g3
+g4 18. h3 h4 19. h6 b7 20. c8 g8 21. a8 f7 22. h8 h7 23. g7 h2 24. h1 -- 25. g2
+f2 26. f1 g1 27. e1 d1 28. e2 -- 29. c1 -- 30. c2 -- 31. a2 b2 32. b1 58-5
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.02"]
+[Round "-"]
+[Black "mordercapl"]
+[White "pigini123kmt"]
+[Result "64-0"]
+[Time "19:18:50"]
+[TimeControl "420"]
+[BlackElo "1636"]
+[WhiteElo "1576"]
+
+1. d3 c5 2. e6 f5 3. f6 e3 4. c3 f3 5. c4 b4 6. b3 d6 7. c7 d2 8. c6 b5 9. f4
+g4 10. e2 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.02"]
+[Round "-"]
+[Black "mordercapl"]
+[White "zadick88"]
+[Result "62-2"]
+[Time "19:12:04"]
+[TimeControl "420"]
+[BlackElo "1616"]
+[WhiteElo "1708"]
+
+1. d3 c5 2. e6 d2 3. c6 d6 4. c7 d7 5. c8 f3 6. c4 b5 7. e7 b6 8. b4 f5 9. c3
+f6 10. f7 a3 11. g6 b3 12. e3 e8 13. f4 f2 14. e2 h6 15. g5 h5 16. c1 g4 17. d8
+g8 18. c2 e1 19. d1 b1 20. h3 g3 21. g1 g7 22. h8 f8 23. h7 g2 24. h4 b8 25. a8
+-- 26. b2 a2 27. h2 -- 28. h1 -- 29. a6 a7 30. f1 a5 31. a1 -- 32. a4 -- 33. b7
+62-2
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.02"]
+[Round "-"]
+[Black "ansky"]
+[White "mordercapl"]
+[Result "64-0"]
+[Time "19:02:13"]
+[TimeControl "120"]
+[BlackElo "1804"]
+[WhiteElo "1624"]
+
+1. e6 f4 2. c3 c4 3. e3 d6 4. c6 d7 5. f6 f3 6. c5 d3 7. e7 b4 8. b3 b5 9. d2
+64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.02"]
+[Round "-"]
+[Black "mordercapl"]
+[White "feng211"]
+[Result "13-51"]
+[Time "18:55:40"]
+[TimeControl "180"]
+[BlackElo "1636"]
+[WhiteElo "1718"]
+
+1. d3 c5 2. e6 f5 3. f6 e3 4. c3 f3 5. c4 b4 6. b3 d6 7. c7 c2 8. f4 g4 9. e2
+d2 10. f2 f1 11. b5 g3 12. g2 g6 13. g5 a3 14. d1 e1 15. b2 a4 16. g1 a2 17. a5
+a6 18. b6 a7 19. c6 a1 20. b1 c1 21. h6 f7 22. b7 e7 23. d7 d8 24. f8 h1 25. h2
+h3 26. e8 a8 27. b8 g8 28. g7 h4 29. h5 c8 30. -- h7 31. h8 13-51
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.02"]
+[Round "-"]
+[Black "mordercapl"]
+[White "walynk"]
+[Result "57-7"]
+[Time "15:58:14"]
+[TimeControl "420"]
+[BlackElo "1628"]
+[WhiteElo "1448"]
+
+1. d3 c3 2. c4 e3 3. f4 c5 4. e2 f5 5. f6 f3 6. d2 g5 7. f2 g4 8. e6 d6 9. c2
+g3 10. h5 h4 11. g6 c1 12. h3 f1 13. c6 d7 14. c7 e7 15. b4 b3 16. h6 a5 17. a3
+b5 18. a4 a2 19. e8 f8 20. c8 d8 21. g8 f7 22. a6 a7 23. b6 g2 24. h1 h2 25. g7
+b7 26. g1 h7 27. b8 e1 28. a8 b2 29. a1 -- 30. b1 -- 31. h8 -- 32. d1 57-7
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.02"]
+[Round "-"]
+[Black "mordercapl"]
+[White "vmsv"]
+[Result "49-15"]
+[Time "15:50:58"]
+[TimeControl "420"]
+[BlackElo "1623"]
+[WhiteElo "1321"]
+
+1. d3 c5 2. f6 f5 3. c6 c7 4. e6 f7 5. g6 h5 6. f8 d6 7. e7 f4 8. d7 d8 9. e8
+c8 10. b8 f3 11. b5 c4 12. b4 a4 13. c3 b3 14. a3 a5 15. a6 d2 16. e2 d1 17. f1
+f2 18. e3 c2 19. b6 b7 20. h6 h7 21. b2 g7 22. g8 a1 23. e1 a2 24. a7 a8 25. h8
+c1 26. g5 g1 27. h4 -- 28. b1 -- 29. h1 -- 30. g4 g2 31. h3 h2 32. g3 49-15
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.02"]
+[Round "-"]
+[Black "mordercapl"]
+[White "inka8888"]
+[Result "64-0"]
+[Time "15:45:14"]
+[TimeControl "420"]
+[BlackElo "1612"]
+[WhiteElo "1501"]
+
+1. d3 c3 2. c4 c5 3. b4 f3 4. b3 e3 5. c6 d2 6. f4 g5 7. e2 f2 8. d6 a3 9. c2
+d1 10. c1 b1 11. e6 f5 12. g4 f6 13. h5 a4 14. g6 h4 15. g3 h6 16. a5 a6 17. b5
+h3 18. f1 f7 19. e7 d8 20. e8 f8 21. c7 c8 22. e1 g1 23. d7 b6 24. b7 b2 25. a1
+a7 26. a2 g2 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "mordercapl"]
+[White "snakiboy"]
+[Result "48-16"]
+[Time "23:24:46"]
+[TimeControl "420"]
+[BlackElo "1603"]
+[WhiteElo "1451"]
+
+1. d3 c5 2. c6 e3 3. c4 d6 4. d7 b4 5. c3 c2 6. d2 b3 7. a4 e6 8. c1 c8 9. e2
+c7 10. f3 b6 11. b7 a3 12. a5 b5 13. a6 f4 14. a7 f2 15. f5 g4 16. g6 f6 17. g3
+f1 18. h5 d1 19. g5 a8 20. e8 d8 21. f7 e7 22. f8 h3 23. h4 h6 24. g7 g8 25. e1
+b2 26. g1 g2 27. b8 -- 28. h8 -- 29. h7 -- 30. h2 -- 31. h1 -- 32. a1 a2 33. b1
+48-16
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "mordercapl"]
+[White "minastirit"]
+[Result "20-44"]
+[Time "23:12:55"]
+[TimeControl "420"]
+[BlackElo "1619"]
+[WhiteElo "1629"]
+
+1. d3 c3 2. c4 c5 3. d6 f4 4. b4 b6 5. b5 c6 6. f5 e3 7. d7 a4 8. d2 e2 9. a5
+a6 10. b3 d1 11. c2 a3 12. g4 c1 13. f1 e1 14. b1 c7 15. b2 f3 16. e6 e8 17. g2
+h1 18. h3 f7 19. d8 c8 20. f6 e7 21. g3 h5 22. b7 h2 23. h4 g1 24. f2 a8 25. g8
+f8 26. g5 g6 27. g7 a1 28. a7 a2 29. b8 h8 30. h7 h6 20-44
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "mordercapl"]
+[White "sirflag"]
+[Result "52-12"]
+[Time "23:03:57"]
+[TimeControl "420"]
+[BlackElo "1614"]
+[WhiteElo "1303"]
+
+1. d3 c5 2. d6 e3 3. f4 g4 4. f3 d7 5. g3 f5 6. e6 f6 7. h4 e2 8. c6 g5 9. c4
+f2 10. h5 c3 11. d2 c2 12. c7 h6 13. b3 g6 14. c1 h3 15. d1 b4 16. a3 b5 17. d8
+e7 18. a6 a4 19. a5 e8 20. b6 c8 21. f7 f8 22. e1 b1 23. a1 f1 24. g7 a2 25. b2
+h8 26. g8 a7 27. a8 -- 28. h7 -- 29. b8 -- 30. g2 h1 31. h2 g1 32. b7 52-12
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "magmarxxx"]
+[White "mordercapl"]
+[Result "34-30"]
+[Time "22:50:08"]
+[TimeControl "420"]
+[BlackElo "1470"]
+[WhiteElo "1637"]
+
+1. f5 d6 2. c3 d3 3. c4 f4 4. f6 b4 5. f3 e6 6. e3 g5 7. g6 e7 8. f7 g4 9. h4
+h5 10. h6 g3 11. d8 c2 12. h3 d2 13. d7 g7 14. c7 c6 15. b6 g8 16. c5 f2 17. e8
+b5 18. a5 f8 19. h8 h7 20. f1 g1 21. h1 h2 22. e2 a6 23. a4 g2 24. b3 a3 25. c1
+c8 26. b8 e1 27. d1 b7 28. a8 a7 29. a2 b1 30. a1 b2 34-30
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "mordercapl"]
+[White "magmarxxx"]
+[Result "64-0"]
+[Time "22:48:53"]
+[TimeControl "420"]
+[BlackElo "1627"]
+[WhiteElo "1480"]
+
+1. d3 c5 2. e6 f5 3. f6 f3 4. e3 d7 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "magmarxxx"]
+[White "mordercapl"]
+[Result "13-51"]
+[Time "22:38:31"]
+[TimeControl "420"]
+[BlackElo "1490"]
+[WhiteElo "1617"]
+
+1. f5 f6 2. e6 f4 3. g5 g6 4. g4 e7 5. f3 d6 6. f7 h3 7. g3 f8 8. d8 d3 9. d7
+h4 10. h6 e8 11. h5 h7 12. g8 e2 13. f2 e3 14. c6 f1 15. c5 c4 16. c3 b5 17. b6
+b3 18. g2 b4 19. c7 b8 20. a5 a7 21. a4 a6 22. d1 a3 23. d2 c1 24. c2 e1 25. b2
+a1 26. a2 g1 27. a8 c8 28. b7 b1 29. h1 g7 30. -- h8 31. -- h2 13-51
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "mordercapl"]
+[White "magmarxxx"]
+[Result "64-0"]
+[Time "22:34:52"]
+[TimeControl "420"]
+[BlackElo "1606"]
+[WhiteElo "1501"]
+
+1. d3 c5 2. e6 d2 3. c6 d6 4. c7 d7 5. c8 f7 6. c3 b4 7. b6 b5 8. b3 d8 9. e8
+f3 10. e3 f5 11. c1 e2 12. c4 c2 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "mordercapl"]
+[White "johfo"]
+[Result "64-0"]
+[Time "22:26:25"]
+[TimeControl "420"]
+[BlackElo "1602"]
+[WhiteElo "1271"]
+
+1. d3 e3 2. f4 g5 3. g4 g3 4. f5 c4 5. f3 f6 6. d6 e6 7. h3 f2 8. c5 h4 9. e7
+h2 10. c3 d8 11. e8 f8 12. g7 f7 13. h5 h6 14. e2 d7 15. g6 b5 16. c6 e1 17. h8
+d2 18. c2 b3 19. b4 a4 20. c8 c7 21. g8 b1 22. b2 h7 23. h1 a1 24. g2 -- 25. f1
+g1 26. b8 b7 27. a8 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "mordercapl"]
+[White "drink166"]
+[Result "64-0"]
+[Time "21:06:52"]
+[TimeControl "420"]
+[BlackElo "1594"]
+[WhiteElo "1392"]
+
+1. d3 c3 2. c4 e3 3. e2 b4 4. f3 f4 5. c5 d2 6. f2 c2 7. d1 d6 8. a4 c6 9. f5
+a3 10. a2 b3 11. d7 e8 12. a5 b5 13. c1 e7 14. e6 f7 15. b6 a6 16. a7 f1 17. e1
+b1 18. d8 g5 19. c7 g4 20. f8 g1 21. f6 b8 22. c8 g8 23. g6 h6 24. g7 b7 25. a8
+-- 26. h8 -- 27. h7 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "mordercapl"]
+[White "rik22"]
+[Result "57-7"]
+[Time "20:58:31"]
+[TimeControl "420"]
+[BlackElo "1578"]
+[WhiteElo "1576"]
+
+1. d3 c5 2. d6 e3 3. f3 f4 4. e6 f5 5. g5 g4 6. c6 h6 7. c4 f2 8. g6 e2 9. h4
+g3 10. f6 c3 11. h3 b4 12. d2 e1 13. c1 c2 14. a4 f7 15. e7 b3 16. a3 b5 17. a5
+b6 18. e8 a6 19. a7 g8 20. c7 h7 21. d7 c8 22. h5 h2 23. b1 b7 24. a8 b8 25. d8
+a2 26. b2 f8 27. g7 -- 28. h8 -- 29. h1 -- 30. f1 g1 31. g2 -- 32. a1 -- 33. d1
+57-7
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "mordercapl"]
+[White "eur777usd"]
+[Result "64-0"]
+[Time "20:45:35"]
+[TimeControl "420"]
+[BlackElo "1554"]
+[WhiteElo "1741"]
+
+1. d3 c3 2. c4 c5 3. b4 d2 4. e2 e3 5. c6 b6 6. a6 b5 7. a4 a5 8. b3 a3 9. a2
+c7 10. e1 c1 11. c2 f1 12. g1 b1 13. d8 b2 14. d7 b7 15. c8 a8 16. f2 e8 17. f8
+g2 18. h3 h2 19. h1 -- 20. e7 f7 21. f3 f4 22. d1 g3 23. a1 -- 24. h4 -- 25. g6
+64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "vancomicin"]
+[White "mordercapl"]
+[Result "0-64"]
+[Time "20:37:48"]
+[TimeControl "420"]
+[BlackElo "1419"]
+[WhiteElo "1544"]
+
+1. d3 c3 2. c4 e3 3. d2 b4 4. f4 f2 5. f3 c5 6. b3 e2 7. a5 g4 8. g3 d1 9. c1
+c2 10. h5 g2 11. e6 b5 12. h1 d6 13. g1 f6 14. c6 f5 15. a6 h4 16. d7 f1 17. e1
+h6 18. e7 c7 19. g5 b2 20. c8 a4 21. a1 b6 22. b7 b1 23. a3 a8 24. a7 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "mordercapl"]
+[White "vancomicin"]
+[Result "11-53"]
+[Time "20:30:01"]
+[TimeControl "420"]
+[BlackElo "1567"]
+[WhiteElo "1396"]
+
+1. d3 e3 2. f4 c3 3. f5 d6 4. d2 f2 5. c2 f3 6. e2 c1 7. b4 b3 8. c5 f1 9. e7
+d1 10. c4 b5 11. a4 b6 12. c6 a6 13. a2 a3 14. a5 g4 15. b2 g6 16. g3 h3 17. f6
+g5 18. h6 f7 19. e6 h5 20. c7 e8 21. a7 d7 22. h4 a8 23. d8 b8 24. c8 f8 25. e1
+b7 26. g8 h8 27. g7 h7 28. b1 a1 29. g2 h2 30. h1 g1 11-53
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "taurito1935"]
+[White "mordercapl"]
+[Result "1-63"]
+[Time "20:23:17"]
+[TimeControl "420"]
+[BlackElo "1308"]
+[WhiteElo "1561"]
+
+1. d3 c5 2. f6 f5 3. f4 c3 4. c4 f3 5. d6 e6 6. c6 e3 7. d7 g4 8. e2 d2 9. c2
+e7 10. e8 b4 11. h5 f2 12. g5 f1 13. d1 b3 14. a5 e1 15. g1 g3 16. b5 a4 17. a3
+h4 18. h3 a6 19. a7 b1 20. b6 b2 21. a1 c1 22. -- a2 23. -- h1 24. -- a8 25. --
+b7 26. c7 c8 27. b8 d8 28. -- f8 29. g8 h8 30. -- g7 31. f7 g6 32. -- h6 33. h7
+g2 34. -- h2 1-63
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "mordercapl"]
+[White "taurito1935"]
+[Result "40-24"]
+[Time "20:15:39"]
+[TimeControl "420"]
+[BlackElo "1555"]
+[WhiteElo "1314"]
+
+1. d3 c5 2. e6 f7 3. b5 c4 4. b4 f5 5. e7 f3 6. f4 b3 7. f6 g4 8. d6 c6 9. e3
+g5 10. g6 c7 11. d7 c3 12. c8 a3 13. e8 a6 14. h3 g3 15. a4 a5 16. b6 f8 17. h4
+h6 18. d8 b8 19. b7 a8 20. a7 g7 21. h8 g8 22. h2 h5 23. h7 g2 24. g1 h1 25. f1
+e1 26. f2 e2 27. d1 c1 28. d2 c2 29. b1 a1 30. a2 b2 40-24
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "taurito1935"]
+[White "mordercapl"]
+[Result "4-60"]
+[Time "20:10:19"]
+[TimeControl "420"]
+[BlackElo "1321"]
+[WhiteElo "1548"]
+
+1. f5 f6 2. e6 f4 3. g3 d6 4. c7 c6 5. c5 c4 6. f3 b5 7. g6 d7 8. c3 f7 9. d8
+c8 10. b8 g5 11. e7 f8 12. h5 b6 13. a4 h6 14. h7 a5 15. a6 h4 16. h3 g4 17. g7
+d3 18. d2 e3 19. f2 e8 20. g8 b4 21. a3 h8 22. b3 h2 23. g2 a8 24. -- b7 25. --
+c1 26. d1 a7 27. b1 e2 28. e1 f1 29. g1 h1 30. -- a1 31. -- c2 32. -- b2 33. --
+a2 4-60
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "mordercapl"]
+[White "taurito1935"]
+[Result "54-10"]
+[Time "20:04:38"]
+[TimeControl "420"]
+[BlackElo "1541"]
+[WhiteElo "1328"]
+
+1. d3 c5 2. d6 e7 3. b5 e3 4. f4 g5 5. e6 f6 6. f7 b4 7. f5 a5 8. h5 c4 9. c6
+g6 10. e8 c3 11. g3 h6 12. g4 h4 13. h3 h2 14. e2 d7 15. f3 d8 16. g7 h8 17. h7
+g8 18. f8 e1 19. h1 g2 20. f1 g1 21. d1 -- 22. f2 -- 23. d2 c1 24. b6 a6 25. b1
+-- 26. c2 b3 27. a2 b2 28. c7 c8 29. a1 -- 30. a3 a4 31. b7 a7 32. a8 -- 33. b8
+54-10
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "mordercapl"]
+[White "vetman"]
+[Result "48-16"]
+[Time "19:53:43"]
+[TimeControl "420"]
+[BlackElo "1530"]
+[WhiteElo "1428"]
+
+1. d3 c5 2. f6 f5 3. c6 e3 4. c4 d6 5. f3 f4 6. e6 b5 7. g6 c3 8. g4 d2 9. c1
+e1 10. a5 g5 11. f2 e7 12. e2 h6 13. d1 c2 14. f1 h3 15. g3 d7 16. c7 b4 17. b6
+c8 18. a4 a3 19. b7 b3 20. d8 e8 21. h4 h5 22. b1 g2 23. h1 g1 24. h2 a1 25. h7
+g7 26. g8 h8 27. f8 a6 28. a8 b8 29. f7 -- 30. b2 -- 31. a7 -- 32. a2 48-16
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "mordercapl"]
+[White "mehul"]
+[Result "36-28"]
+[Time "18:51:49"]
+[TimeControl "420"]
+[BlackElo "1508"]
+[WhiteElo "1647"]
+
+1. d3 c5 2. f6 f5 3. g6 f3 4. f4 c3 5. d6 e3 6. e2 c6 7. g3 g4 8. c2 f2 9. f1
+d2 10. b3 g5 11. c4 e6 12. e1 h3 13. h5 h4 14. h2 h7 15. e7 d7 16. b5 f8 17. c8
+f7 18. b6 c7 19. e8 g7 20. h8 h6 21. g8 h1 22. b8 a6 23. d8 g2 24. g1 b2 25. b7
+d1 26. a1 a7 27. b1 c1 28. a5 a4 29. a2 a3 30. b4 -- 31. a8 36-28
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "mordercapl"]
+[White "shalom"]
+[Result "22-42"]
+[Time "18:42:06"]
+[TimeControl "420"]
+[BlackElo "1527"]
+[WhiteElo "1453"]
+
+1. d3 c5 2. e6 f5 3. d6 e3 4. f4 f3 5. g4 c6 6. c4 c3 7. b5 a6 8. b3 d7 9. e7
+b4 10. a3 g5 11. c7 a4 12. f2 e2 13. f6 b6 14. h5 c2 15. e1 f7 16. d2 g6 17. c1
+b2 18. f8 a2 19. a5 d1 20. h6 g3 21. a1 b1 22. h3 g7 23. a7 h7 24. h8 d8 25. c8
+h4 26. e8 g8 27. -- g1 28. f1 b7 29. h1 h2 30. b8 a8 31. -- g2 22-42
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "mordercapl"]
+[White "glaglator"]
+[Result "53-11"]
+[Time "18:35:48"]
+[TimeControl "420"]
+[BlackElo "1523"]
+[WhiteElo "1208"]
+
+1. d3 c5 2. e6 f5 3. f6 e3 4. d6 f7 5. g6 c4 6. c6 h6 7. e7 f4 8. b4 c3 9. f3
+g3 10. g4 a4 11. a3 a2 12. g5 a5 13. f2 d2 14. h3 f1 15. e2 b5 16. h4 e8 17. d7
+d8 18. c7 h5 19. h7 e1 20. b6 c8 21. b7 g2 22. h2 a8 23. b8 g7 24. h8 g8 25. f8
+a7 26. c1 c2 27. a6 -- 28. a1 -- 29. h1 g1 30. b1 b2 31. d1 -- 32. b3 53-11
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "mordercapl"]
+[White "zoomri"]
+[Result "64-0"]
+[Time "18:33:57"]
+[TimeControl "420"]
+[BlackElo "1514"]
+[WhiteElo "1350"]
+
+1. d3 c5 2. d6 e3 3. f5 f4 4. e2 d2 5. f3 f1 6. b5 g3 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "mordercapl"]
+[White "cerniera"]
+[Result "64-0"]
+[Time "18:26:24"]
+[TimeControl "420"]
+[BlackElo "1497"]
+[WhiteElo "1527"]
+
+1. d3 c5 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "mordercapl"]
+[White "zoomy"]
+[Result "50-14"]
+[Time "18:17:39"]
+[TimeControl "420"]
+[BlackElo "1483"]
+[WhiteElo "1445"]
+
+1. d3 c5 2. e6 f5 3. d6 e3 4. f4 c6 5. b4 b5 6. c4 b3 7. f3 c3 8. a6 a5 9. b6
+f6 10. g4 g5 11. h5 d2 12. g6 h4 13. h3 g3 14. e2 f2 15. c1 e1 16. c2 d1 17. f1
+h7 18. h2 b2 19. a1 b1 20. a2 f7 21. e7 e8 22. d7 a3 23. a4 d8 24. c7 c8 25. b7
+g2 26. b8 a8 27. a7 g7 28. h8 g8 29. f8 g1 30. h1 -- 31. h6 50-14
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "mordercapl"]
+[White "funtimeerror"]
+[Result "55-9"]
+[Time "18:07:05"]
+[TimeControl "420"]
+[BlackElo "1468"]
+[WhiteElo "1455"]
+
+1. d3 c5 2. f6 f5 3. e6 f7 4. c6 c4 5. c3 e3 6. f4 d2 7. d6 b4 8. g5 b5 9. e7
+g4 10. f3 g6 11. h3 d8 12. h5 c7 13. h6 h4 14. g3 g2 15. f2 g1 16. e2 f1 17. h1
+h2 18. e1 d7 19. d1 g7 20. b3 a2 21. a4 c1 22. a3 a5 23. b1 c2 24. b6 b7 25. a6
+a7 26. a8 b8 27. a1 h7 28. c8 -- 29. b2 -- 30. g8 f8 31. h8 -- 32. e8 55-9
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "mordercapl"]
+[White "paotesla"]
+[Result "32-32"]
+[Time "17:59:37"]
+[TimeControl "420"]
+[BlackElo "1468"]
+[WhiteElo "1466"]
+
+1. d3 c5 2. f6 f5 3. e6 e3 4. c3 f3 5. c4 b4 6. c6 c2 7. a3 b3 8. g5 a5 9. f4
+b5 10. e2 g4 11. d2 d1 12. a6 a7 13. h4 e1 14. f2 b6 15. f1 g6 16. a2 c7 17. c1
+e7 18. e8 h5 19. d6 f7 20. d7 d8 21. f8 g8 22. b8 g7 23. b7 h3 24. b1 g3 25. g2
+a4 26. a8 h1 27. h6 c8 28. h8 h7 29. h2 g1 30. b2 a1 32-32
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "mordercapl"]
+[White "upright"]
+[Result "61-2"]
+[Time "17:26:52"]
+[TimeControl "420"]
+[BlackElo "1450"]
+[WhiteElo "1487"]
+
+1. d3 c5 2. e6 e3 3. d6 f5 4. c4 d7 5. f4 e7 6. f3 b3 7. c6 d2 8. b6 b5 9. c2
+e2 10. c3 b4 11. c1 e1 12. a3 g3 13. f1 g1 14. g4 a6 15. h3 g5 16. f2 a2 17. a1
+b1 18. d1 b2 19. h1 h4 20. h5 g2 21. h2 -- 22. h6 g6 23. g7 h7 24. h8 g8 25. f6
+f7 26. a4 -- 27. f8 e8 28. d8 c8 29. a5 -- 30. b8 -- 31. b7 -- 32. c7 -- 33. a7
+61-2
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "mordercapl"]
+[White "baron007"]
+[Result "31-33"]
+[Time "16:39:04"]
+[TimeControl "420"]
+[BlackElo "1470"]
+[WhiteElo "1386"]
+
+1. d3 c5 2. e6 f5 3. f6 e3 4. d6 f7 5. g6 f4 6. g5 c6 7. e7 f8 8. e2 f3 9. c4
+b3 10. d7 c7 11. c8 d8 12. g4 h6 13. e8 b8 14. h7 h8 15. g8 g7 16. a8 h3 17. b4
+g3 18. b5 f2 19. f1 d1 20. b7 h5 21. h4 g2 22. h1 g1 23. h2 c3 24. c2 d2 25. a4
+a5 26. e1 c1 27. a6 a3 28. b6 a7 29. a2 b2 30. a1 b1 31-33
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "jleeh"]
+[White "mordercapl"]
+[Result "10-54"]
+[Time "16:25:29"]
+[TimeControl "420"]
+[BlackElo "1328"]
+[WhiteElo "1460"]
+
+1. e6 f4 2. e3 d6 3. g4 f6 4. c4 c3 5. c6 c5 6. c7 d7 7. e8 f3 8. e7 d3 9. g6
+b6 10. f2 c8 11. e2 d8 12. b8 f5 13. a6 b5 14. d2 f7 15. a4 c2 16. b4 h6 17. c1
+g3 18. h3 a5 19. g5 h4 20. f8 h5 21. h7 a3 22. a2 b3 23. b2 e1 24. f1 g1 25. g2
+a1 26. b1 h1 27. h2 h8 28. -- g8 29. g7 a8 30. -- b7 31. -- a7 32. -- d1 10-54
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "mordercapl"]
+[White "jleeh"]
+[Result "62-2"]
+[Time "16:19:29"]
+[TimeControl "420"]
+[BlackElo "1449"]
+[WhiteElo "1339"]
+
+1. d3 e3 2. f4 g5 3. g4 c5 4. f3 h4 5. f5 e6 6. c4 g3 7. h3 h2 8. d6 c7 9. f6
+g6 10. c6 b6 11. h6 b3 12. b4 a3 13. e7 d7 14. f7 d8 15. g7 f8 16. h5 h8 17. h7
+e2 18. f2 f1 19. h1 d2 20. g8 c3 21. c8 e8 22. g2 b8 23. c1 e1 24. g1 -- 25. d1
+c2 26. b1 -- 27. a5 b5 28. b7 a6 29. a7 b2 30. a8 -- 31. a1 -- 32. a4 -- 33. a2
+62-2
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "ab7073"]
+[White "mordercapl"]
+[Result "10-54"]
+[Time "16:11:35"]
+[TimeControl "420"]
+[BlackElo "1304"]
+[WhiteElo "1439"]
+
+1. e6 f4 2. e3 d6 3. c5 f3 4. c4 f6 5. f5 g4 6. g5 g3 7. d3 c6 8. f2 e2 9. f1
+h6 10. h5 h4 11. c7 d1 12. e7 g6 13. h3 h2 14. d2 d8 15. f8 e8 16. g7 d7 17. f7
+c8 18. b8 c2 19. c3 c1 20. e1 g1 21. b2 b1 22. g2 h1 23. -- a3 24. a1 a2 25. a4
+b3 26. b4 a5 27. a6 h8 28. g8 a8 29. -- h7 30. -- b5 31. b6 a7 32. -- b7 10-54
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "mordercapl"]
+[White "ab7073"]
+[Result "57-7"]
+[Time "16:04:24"]
+[TimeControl "420"]
+[BlackElo "1428"]
+[WhiteElo "1315"]
+
+1. d3 c5 2. f6 f5 3. e6 e3 4. d6 d7 5. e7 e8 6. f7 c6 7. g4 c7 8. c4 d2 9. b6
+b4 10. f4 b5 11. f8 g5 12. f3 h4 13. g3 d8 14. e2 g8 15. c3 e1 16. b7 h3 17. c8
+a8 18. b8 a5 19. h6 a7 20. h8 c2 21. a6 g6 22. a3 a4 23. b3 a2 24. d1 c1 25. f1
+g1 26. a1 f2 27. b2 -- 28. b1 -- 29. h1 -- 30. g2 -- 31. h2 -- 32. h5 g7 33. h7
+57-7
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "mordercapl"]
+[White "shootingrange"]
+[Result "60-4"]
+[Time "15:53:49"]
+[TimeControl "420"]
+[BlackElo "1413"]
+[WhiteElo "1402"]
+
+1. d3 c3 2. c4 c5 3. b4 e3 4. d2 b5 5. c6 b3 6. c2 b6 7. e2 f1 8. d6 d7 9. c7
+e6 10. f3 f2 11. d1 f4 12. a3 c8 13. a6 a5 14. a4 e1 15. e7 e8 16. a7 b1 17. c1
+a2 18. a1 b2 19. g2 g3 20. h3 h1 21. g4 f5 22. h2 h5 23. h4 b7 24. g1 -- 25. a8
+b8 26. d8 -- 27. f8 f7 28. g7 g8 29. h8 h7 30. h6 -- 31. g5 f6 32. g6 60-4
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "softkiller"]
+[White "mordercapl"]
+[Result "0-64"]
+[Time "15:45:15"]
+[TimeControl "420"]
+[BlackElo "1330"]
+[WhiteElo "1400"]
+
+1. f5 d6 2. c5 f4 3. d7 f6 4. d3 c3 5. e3 f3 6. d2 c6 7. c7 c1 8. b3 b4 9. a3
+c2 10. e1 d1 11. b1 d8 12. e6 e7 13. g4 g5 14. c8 f7 15. e8 c4 16. e2 f2 17. g3
+g6 18. f8 g1 19. h4 h6 20. h5 h3 21. g2 h7 22. b2 h2 23. b5 h1 0-64
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "mordercapl"]
+[White "softkiller"]
+[Result "64-0"]
+[Time "15:38:40"]
+[TimeControl "420"]
+[BlackElo "1386"]
+[WhiteElo "1344"]
+
+1. d3 c5 2. e6 f7 3. b5 c4 4. c6 f4 5. e3 d6 6. c3 b6 7. f6 f5 8. c7 a5 9. b4
+d7 10. d8 e8 11. f8 f3 12. e7 b8 13. a4 a3 14. b3 a2 15. a7 c2 16. g8 e2 17. g6
+h6 18. g7 a6 19. a1 h8 20. c8 b7 21. b2 b1 22. g4 g3 23. h7 h4 24. d1 c1 25. a8
+g5 26. d2 e1 27. f1 -- 28. h5 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "softkiller"]
+[White "mordercapl"]
+[Result "15-49"]
+[Time "15:29:40"]
+[TimeControl "420"]
+[BlackElo "1359"]
+[WhiteElo "1371"]
+
+1. f5 d6 2. c5 f4 3. d7 f6 4. d3 c3 5. e3 f3 6. d2 c6 7. c7 c2 8. b4 b3 9. f2
+c4 10. a3 d1 11. e1 f1 12. c1 b1 13. g4 e2 14. g3 g5 15. e6 g6 16. f7 e7 17. f8
+b2 18. h4 g7 19. h5 h6 20. g1 h1 21. h8 h2 22. h7 e8 23. a1 d8 24. c8 g8 25. h3
+g2 26. -- a5 27. a4 b5 28. b6 a6 29. a7 b7 30. b8 a8 31. -- a2 15-49
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "mordercapl"]
+[White "softkiller"]
+[Result "46-18"]
+[Time "15:20:46"]
+[TimeControl "420"]
+[BlackElo "1354"]
+[WhiteElo "1376"]
+
+1. d3 c5 2. f6 e3 3. c3 d2 4. f3 b4 5. d6 f4 6. g3 e6 7. f5 h3 8. e7 c6 9. c4
+c2 10. b5 g4 11. d7 d8 12. c8 b3 13. e8 g5 14. e2 d1 15. c7 a6 16. g6 b6 17. h5
+f8 18. f7 b8 19. f2 g8 20. h4 h6 21. a5 f1 22. g2 a4 23. b7 h2 24. e1 a8 25. g7
+h8 26. h7 -- 27. h1 -- 28. g1 -- 29. c1 b2 30. a7 b1 31. a1 a2 32. a3 46-18
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "mordercapl"]
+[White "mauro1961"]
+[Result "58-6"]
+[Time "15:10:49"]
+[TimeControl "420"]
+[BlackElo "1348"]
+[WhiteElo "1098"]
+
+1. d3 c3 2. c4 c5 3. b3 f3 4. f4 e3 5. f5 d2 6. e1 g4 7. c2 e2 8. d6 f6 9. e6
+f7 10. f1 c6 11. f2 a3 12. b4 a4 13. e7 d7 14. b5 a5 15. g3 h2 16. g5 h5 17. h4
+h3 18. h6 h7 19. g6 c1 20. d1 g1 21. f8 e8 22. b2 g8 23. c8 c7 24. a6 a7 25. b6
+b1 26. a1 a2 27. a8 b7 28. h1 g7 29. h8 -- 30. b8 -- 31. d8 -- 32. g2 58-6
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "mordercapl"]
+[White "asadb"]
+[Result "64-0"]
+[Time "15:01:50"]
+[TimeControl "420"]
+[BlackElo "1333"]
+[WhiteElo "1312"]
+
+1. d3 c3 2. c4 c5 3. b4 d2 4. d6 b3 5. e6 c6 6. b5 f4 7. b6 a4 8. f3 f2 9. g4
+h5 10. e3 f5 11. c1 e2 12. a3 d1 13. a5 f6 14. a2 e7 15. e1 d7 16. f1 a7 17. c7
+c8 18. g1 c2 19. g3 h2 20. g5 g6 21. f7 e8 22. b2 g2 23. h1 a6 24. a8 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "mordercapl"]
+[White "ab7073"]
+[Result "62-0"]
+[Time "14:42:36"]
+[TimeControl "420"]
+[BlackElo "1318"]
+[WhiteElo "1303"]
+
+1. d3 c5 2. f6 f5 3. e6 e3 4. d6 d7 5. e7 f8 6. c6 f7 7. c4 d2 8. c7 f3 9. c3
+b6 10. f4 c8 11. c2 b4 12. b3 c1 13. a4 g5 14. b5 a5 15. a6 a2 16. a7 e2 17. b7
+b8 18. a8 -- 19. a3 -- 20. a1 -- 21. d8 e8 22. f1 e1 23. b2 g1 24. b1 -- 25. d1
+-- 26. h1 -- 27. f2 -- 28. g2 -- 29. g3 -- 30. g4 -- 31. h4 g6 32. h6 h5 33. g8
+h7 34. h8 -- 35. g7 62-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "mordercapl"]
+[White "tatuyuki2012"]
+[Result "64-0"]
+[Time "14:34:40"]
+[TimeControl "420"]
+[BlackElo "1294"]
+[WhiteElo "1485"]
+
+1. d3 c3 2. c4 c5 3. b4 d2 4. d6 c6 5. f4 f5 6. b6 a3 7. e3 e2 8. a4 a5 9. f3
+g4 10. b3 c2 11. d1 c1 12. f1 b5 13. a6 e7 14. f6 e6 15. a2 c7 16. e1 g1 17. f2
+g5 18. d8 b8 19. c8 e8 20. d7 b7 21. g3 h3 22. b2 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "mordercapl"]
+[White "scodoros"]
+[Result "64-0"]
+[Time "14:31:39"]
+[TimeControl "420"]
+[BlackElo "1277"]
+[WhiteElo "1290"]
+
+1. d3 c5 2. e6 e3 3. d6 c3 4. d2 f5 5. c6 c2 6. f3 d7 7. f4 c7 8. c4 b3 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "mordercapl"]
+[White "kawaz7"]
+[Result "64-0"]
+[Time "14:00:35"]
+[TimeControl "300"]
+[BlackElo "1267"]
+[WhiteElo "1129"]
+
+1. d3 c3 2. c4 c5 3. b4 f3 4. c6 a4 5. e3 d6 6. b5 a5 7. b3 a3 8. b6 a6 9. f6
+e6 10. d7 d8 11. e2 e1 12. f4 f5 13. c2 d2 14. g5 h5 15. g6 h6 16. e7 e8 17. g4
+h4 18. c7 d1 19. b1 b2 20. f8 g8 21. f7 g7 22. c8 b8 23. f1 g1 24. f2 g3 25. h3
+b7 26. h8 h7 27. a8 h2 28. a7 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.03.01"]
+[Round "-"]
+[Black "mordercapl"]
+[White "katiabkj"]
+[Result "56-8"]
+[Time "13:54:06"]
+[TimeControl "600"]
+[BlackElo "1258"]
+[WhiteElo "1092"]
+
+1. d3 c5 2. d6 e7 3. f5 d2 4. c6 f4 5. c4 b7 6. e6 c3 7. d7 d8 8. e8 f6 9. c8
+-- 10. b5 c7 11. d1 c2 12. b8 e3 13. f3 g2 14. b4 a5 15. c1 b3 16. f8 e1 17. f1
+f7 18. e2 f2 19. g8 b2 20. b1 g7 21. a1 a2 22. h8 g6 23. g1 h7 24. h6 -- 25. a8
+a7 26. h5 b6 27. a6 a4 28. a3 g5 29. h4 -- 30. h1 g4 31. h3 h2 32. g3 56-8
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.02.28"]
+[Round "-"]
+[Black "mordercapl"]
+[White "prezespawelk"]
+[Result "64-0"]
+[Time "22:43:44"]
+[TimeControl "600"]
+[BlackElo "1245"]
+[WhiteElo "1170"]
+
+1. d3 c3 2. c4 e3 3. f4 f5 4. f3 c5 5. e2 e1 6. b4 g4 7. f2 a4 8. e6 f1 9. g3
+h3 10. f6 f7 11. g5 h5 12. h4 -- 13. d2 c1 14. c2 b1 15. d1 g2 16. h6 h7 17. a1
+-- 18. b2 a2 19. a3 -- 20. b3 -- 21. a5 -- 22. b5 a6 23. g1 h1 24. h2 -- 25. g6
+-- 26. b6 c6 27. h8 -- 28. f8 g8 29. e8 d8 30. a7 g7 31. d6 64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.02.25"]
+[Round "-"]
+[Black "mordercapl"]
+[White "apollodoro"]
+[Result "64-0"]
+[Time "18:16:06"]
+[TimeControl "600"]
+[BlackElo "1233"]
+[WhiteElo "1148"]
+
+1. d3 c3 2. c4 e3 3. d2 c1 4. f4 g5 5. c2 c5 6. b4 a4 7. b5 a5 8. d6 d7 9. e6
+c6 10. a6 a7 11. f5 b6 12. c8 f6 13. c7 e8 14. e2 f1 15. a3 a2 16. b3 b2 17. d8
+b8 18. d1 e1 19. a1 b1 20. a8 e7 21. g1 -- 22. b7 -- 23. f2 -- 24. f8 f7 25. g7
+64-0
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.02.25"]
+[Round "-"]
+[Black "mordercapl"]
+[White "prezespawelk"]
+[Result "34-30"]
+[Time "18:08:14"]
+[TimeControl "600"]
+[BlackElo "1219"]
+[WhiteElo "1184"]
+
+1. f5 d6 2. c3 f3 3. e3 g5 4. e6 f6 5. g6 d3 6. d7 e7 7. d2 c7 8. d8 f4 9. f7
+b2 10. g4 h7 11. g7 h8 12. f2 c6 13. c5 h6 14. b6 a6 15. g8 g3 16. h2 h5 17. e2
+e1 18. d1 b5 19. a5 a4 20. h4 g2 21. a1 c4 22. b4 b3 23. a3 h3 24. a7 b7 25. f8
+e8 26. a8 c2 27. c1 a2 28. c8 b8 29. f1 g1 30. h1 -- 31. b1 34-30
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.02.25"]
+[Round "-"]
+[Black "joanna19"]
+[White "mordercapl"]
+[Result "20-44"]
+[Time "18:01:17"]
+[TimeControl "600"]
+[BlackElo "1249"]
+[WhiteElo "1201"]
+
+1. d3 c3 2. c4 c5 3. b3 f4 4. c6 b4 5. d6 e6 6. a4 b5 7. f6 e3 8. a5 d2 9. d1
+b6 10. f5 d7 11. a6 c7 12. d8 f3 13. e2 f2 14. g4 g3 15. h3 g2 16. e1 f1 17. g1
+h1 18. h2 c1 19. b7 a3 20. a2 h5 21. h4 a8 22. b8 a7 23. h6 h7 24. -- c8 25. e7
+e8 26. f7 c2 27. b2 g7 28. h8 g6 29. g5 g8 30. f8 a1 31. b1 20-44
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.02.25"]
+[Round "-"]
+[Black "mordercapl"]
+[White "joanna19"]
+[Result "19-45"]
+[Time "17:54:04"]
+[TimeControl "600"]
+[BlackElo "1216"]
+[WhiteElo "1234"]
+
+1. e6 f6 2. f5 f4 3. g5 d6 4. f3 h5 5. c4 c3 6. g6 h6 7. c5 c6 8. d3 e3 9. d2
+d1 10. c2 c1 11. e7 e8 12. b5 a5 13. g4 e2 14. c7 c8 15. f7 d7 16. h3 f8 17. g3
+h4 18. h7 g2 19. b4 b3 20. g7 h8 21. h2 h1 22. g1 f1 23. e1 f2 24. b1 a1 25. g8
+b2 26. a2 a3 27. a4 -- 28. d8 -- 29. a6 a7 30. b6 b8 31. a8 b7 19-45
+
+[Event "?"]
+[Site "kurnik"]
+[Date "2012.02.25"]
+[Round "-"]
+[Black "mordercapl"]
+[White "prezespawelk"]
+[Result "64-0"]
+[Time "17:46:57"]
+[TimeControl "600"]
+[BlackElo "1200"]
+[WhiteElo "1200"]
+
+1. e6 d6 2. c5 f4 3. c6 c7 4. d7 d8 5. c4 c3 6. b5 a5 7. b6 a7 8. a6 f5 9. a8
+b7 10. b8 c8 11. e8 e7 12. f7 f8 13. f6 g7 14. a4 g8 15. h8 -- 16. h7 -- 17. g6
+-- 18. g5 h6 19. h5 -- 20. g3 64-0
+
