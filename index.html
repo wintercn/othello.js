@@ -1,0 +1,136 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>othello</title>
+    <style type="text/css">
+      body {
+        padding: 0px 0px 0px 0px;
+        margin: 0px 0px 0px 0px;
+        width:100%;
+        height:100%;
+        text-align:center;
+        -webkit-box-orient: vertical;
+        display: -webkit-box;
+        -webkit-box-pack: center;
+        -webkit-box-align: center;
+        
+      }
+      body * {
+        -webkit-box-flex: 0;
+      }
+
+      html {
+        padding: 0px 0px 0px 0px;
+        margin: 0px 0px 0px 0px;
+        width:100%;
+        height:100%;
+      }
+    </style>
+    <script type="text/javascript" src="./src/OthelloAI.js">  </script>
+    <script type="text/javascript" src="./src/Othello.js">  </script>
+
+  
+ 
+</head>
+<body>
+    <div id="tools">
+        <div id="black" style="cursor:pointer;border:solid 2px blue;margin:1px 1px 1px 1px;padding:1px 1px 1px 1px;height:30px;width:30px;background:#007700;display:inline-block;"><div style="margin:1px 1px 1px 1px;border-radius:14px;height:28px;line-height:28px;color:white;text-align:center;width:28px;background:black;">2</div></div>
+        <div id="white" style="cursor:pointer;border:solid 2px transparent;margin:1px 1px 1px 1px;padding:1px 1px 1px 1px;height:30px;width:30px;background:#007700;display:inline-block;"><div style="margin:1px 1px 1px 1px;border-radius:14px;height:28px;line-height:28px;color:black;text-align:center;width:28px;background:white;">2</div></div>
+    </div>
+    <script type="text/javascript">
+    Othello.OthelloAIPad = OthelloAIPad;
+    function OthelloAIPad(game) {
+        Othello.OthelloBoard.call(this);
+        var game = game || new OthelloGame();
+        var color = 1;
+        var _super = { createHTMLElement: this.createHTMLElement };
+        var ai = new (OthelloAI.Pattern);
+        var thinking = false;
+        this.createHTMLElement = function() {
+            var rootElement = _super.createHTMLElement.apply(this);
+            this.loadOthelloPattern(game.patterns[game.current]);
+            return rootElement;
+        }
+        this.onMove = function(x, y, color) {
+        }
+        this.startThinking = function(){ thinking = true;};
+        this.onSquareClick = function(x, y) {
+            if(thinking) return;
+            thinking = true;
+            if (game.makeMove(x, y)) {
+                ai=ai.move(y,x);
+                var me = this;
+                this.loadOthelloPattern(game.patterns[game.current]);
+
+                var black = 0, white = 0;
+                for (var i = 0; i < 100; i++) 
+                    if(game.patterns[game.current].pattern[i] == 1) black++;
+                    else if(game.patterns[game.current].pattern[i] == 2) white++;
+                document.querySelector("#black").firstChild.innerHTML = black;
+                document.querySelector("#white").firstChild.innerHTML = white;
+
+                var canvas = this.getRootElement();
+                var context = canvas.getContext("2d");
+                if(!ai.pass())
+                {                
+                    setTimeout(function(){ me.computerMove(); },10);
+                }
+                else thinking = false;
+            }
+            else thinking = false;
+        };
+        this.computerMove= function() {
+            var t=ai.computer(3,10);
+            game.makeMove(t[1], t[0]);
+            ai=ai.move(t[0],t[1]);
+            var me = this;
+            if(ai.pass())
+            {                
+                setTimeout(function(){ me.computerMove(); },500);
+            }
+            else thinking = false;
+            this.loadOthelloPattern(game.patterns[game.current]);
+            var black = 0, white = 0;
+            for (var i = 0; i < 100; i++) 
+                if(game.patterns[game.current].pattern[i] == 1) black++;
+                else if(game.patterns[game.current].pattern[i] == 2) white++;
+            document.querySelector("#black").firstChild.innerHTML = black;
+            document.querySelector("#white").firstChild.innerHTML = white;
+            var canvas = this.getRootElement();
+            var context = canvas.getContext("2d");
+            var i = t[1]-1, j=t[0]-1;
+            context.fillStyle = '#0000FF'; 
+            context.beginPath();
+            context.moveTo(21+i*32+16,21+j*32+16);
+            context.arc(21+i*32+15,21+j*32+15, 3, 2*Math.PI, 0, true)
+            context.closePath();
+            context.fill();
+        };
+    }
+    window.onload = function() {
+        var qs = (window.location.href.split("?")[1]||"").split("&");
+        var query = {};
+        for (var i = 0; i < qs.length; i++) {
+            var pair = qs[i].split("=");
+            query[pair[0]] = pair[1];
+        }
+        var game = new Othello.OthelloGame(Othello.OthelloPattern.start, query["steps"]);
+        var board = (new Othello.OthelloAIPad(game));    
+        board.createHTMLElement();
+        document.body.appendChild(board.getRootElement());
+        var color = "black";
+        document.querySelector("#black").onclick = function(){
+            document.querySelector("#black").style.border = "solid 2px blue";
+            document.querySelector("#white").style.border = "solid 2px transparent";
+            if(color=="white") board.startThinking(); color="black", setTimeout(function(){ board.computerMove(); },10);
+        }
+        document.querySelector("#white").onclick = function(){
+            document.querySelector("#white").style.border = "solid 2px blue";
+            document.querySelector("#black").style.border = "solid 2px transparent";
+            if(color=="black") board.startThinking();color="white",setTimeout(function(){ board.computerMove(); },10);
+        }
+    }
+    </script>
+</body>
+</html>
