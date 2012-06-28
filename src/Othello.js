@@ -5,7 +5,6 @@ void function() {
     Othello.OthelloViewer = OthelloViewer;
     Othello.OthelloPattern = OthelloPattern;
     Othello.OthelloGame = OthelloGame;
-    Othello.OthelloBoard = OthelloBoard;
     //    Othello.OthelloEditor = OthelloEditor;
     //    Othello.OthelloViewer = OthelloViewer;
 
@@ -175,60 +174,59 @@ void function() {
                 rootElement = null;
             };
             this.createHTMLElement = function() {
-                rootElement = document.createElement("div");
+                rootElement = document.createElement("canvas");
+                rootElement.width = "297";
+                rootElement.height = "297";
                 rootElement.style.width = "297px";
                 rootElement.style.height = "297px";
-                var borderElement = document.createElement("div");
-                borderElement.style.cssText = "width:297px;height:21px;position:relative;overflow:hidden;float:left;";
-                borderElement.style.background = "url(\"Resources/u297x21.png\")";
-                rootElement.appendChild(borderElement);
-                for (i = 1; i <= 8; i++) {
-                    var borderElement = document.createElement("div");
-                    borderElement.style.cssText = "width:21px;height:32px;position:relative;overflow:hidden;float:left;";
-                    borderElement.style.background = "url(\"Resources/l" + i + "_21x32.png\")";
-                    rootElement.appendChild(borderElement);
-                    for (j = 1; j <= 8; j++) {
-                        var pieceElement = document.createElement("div");
-                        pieceElement.style.cssText = "width:32px;height:32px;position:relative;overflow:hidden;float:left;";
-                        pieceElement.background = "url(\"Resources/b31.png\")";
-                        this.onBeforeRenderingPiece(j, i, pieceElement);
-                        rootElement.appendChild(pieceElement);
-                        pieceElements[i - 1][j - 1] = pieceElement;
-                        pieceElements[i - 1][j - 1].onclick = (function(x, y) {
-                            return function() { onSquareClick(x, y) }
-                        })(i, j);
-                    }
-                    var borderElement = document.createElement("div");
-                    borderElement.style.cssText = "width:20px;height:32px;position:relative;overflow:hidden;float:left;";
-                    borderElement.style.background = "url(\"Resources/r" + i + "_20x32.png\")";
-                    rootElement.appendChild(borderElement);
+                rootElement.style.position = "relative";
+                rootElement.style.background = "black";
+                rootElement.onclick=function(e) {
+                      e = e || window.Event;
+                      //alert([Math.floor((e.offsetX-21)/32), Math.floor((e.offsetY-21)/32)]);
+                      //alert(onSquareClick);
+                      return onSquareClick(Math.floor((e.offsetX-21)/32)+1, Math.floor((e.offsetY-21)/32)+1);
                 }
-                var borderElement = document.createElement("div");
-                borderElement.style.cssText = "width:297px;height:20px;position:relative;overflow:hidden;float:left;";
-                borderElement.style.background = "url(\"Resources/d297x20.png\")";
-                rootElement.appendChild(borderElement);
-
                 return rootElement;
             };
             this.onSquareClick = function(x, y) {
                 //to be override
             }
             this.loadOthelloPattern = function(game) {
+                var context=rootElement.getContext("2d");
+                context.fillStyle   = '#000000'; 
+                context.fillRect(0,0,297,297);
+                //alert(context);
+
                 for (var i = 0; i < 8; i++) {
                     for (var j = 0; j < 8; j++) {
+                        context.fillStyle   = '#007700'; 
+                        context.fillRect(21+32*i,21+32*j,31,31);
                         switch (game.pattern[(i + 1) * 10 + j + 1]) {
                             case 1:
-                                pieceElements[i][j].style.background = "url(\"Resources/b31.png\")";
+                                context.fillStyle   = '#000000'; 
+                                context.beginPath();
+                                context.moveTo(21+i*32+16,21+j*32+16);
+                                context.arc(21+i*32+15,21+j*32+15, 14, 2*Math.PI, 0, true)
+                                context.closePath();
+                                context.fill();
                                 break;
                             case 2:
-                                pieceElements[i][j].style.background = "url(\"Resources/w31.png\")";
+                                context.fillStyle   = '#ffffff'; 
+                                context.beginPath();
+                                context.moveTo(21+i*32+16,21+j*32+16);
+                                context.arc(21+i*32+15,21+j*32+15, 14, 2*Math.PI, 0, true)
+                                context.closePath();
+                                context.fill();
                                 break;
                             default:
-                                pieceElements[i][j].style.background = "url(\"Resources/e31.png\")";
+                                //context.fillStyle   = '#007700'; 
+                                //context.fillRect(32*i-32,32*j-32,32,32);
                                 break;
                         }
                     }
                 }
+
             };
             this.putPiece = function(x, y) {
 
@@ -316,7 +314,7 @@ void function() {
         var game = game || new OthelloGame();
         var color = 1;
         var _super = { createHTMLElement: this.createHTMLElement };
-        var ai = new (AI.Pattern);
+        var ai = new (OthelloAI.Pattern);
         var thinking = false;
         this.createHTMLElement = function() {
             var rootElement = _super.createHTMLElement.apply(this);
@@ -340,27 +338,17 @@ void function() {
             }
             else thinking = false;
         };
-window.thinkingTime = 0;
         this.computerMove= function() {
-
-var begin = new Date();
             var t=ai.computer(3,10);
-window.thinkingTime += new Date - begin;
             game.makeMove(t[1], t[0]);
             ai=ai.move(t[0],t[1]);
             var me = this;
             if(ai.pass())
-            {
+            {                
                 setTimeout(function(){ me.computerMove(); },500);
             }
             else thinking = false;
             this.loadOthelloPattern(game.patterns[game.current]);
         };
     }
-    //window.onload = function() {
-    //    var board = (new OthelloViewer());
-    //    board.createHTMLElement();
-    //    document.body.appendChild(board.getRootElement());
-    //}
 } ();
-
